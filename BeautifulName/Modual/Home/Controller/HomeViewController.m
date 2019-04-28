@@ -38,45 +38,6 @@
     } else {
         self.backStack.axis = UILayoutConstraintAxisVertical;
     }
-//    CMMotionManager *motionManager = [[CMMotionManager alloc] init];
-//    NSOperationQueue *queue = [[NSOperationQueue alloc] init];
-//    // 加速计
-//    if (motionManager.accelerometerAvailable) {
-//        motionManager.accelerometerUpdateInterval = 1;
-//        [motionManager startAccelerometerUpdatesToQueue:queue withHandler:^(CMAccelerometerData * _Nullable accelerometerData, NSError * _Nullable error) {
-//            if (error) {
-//                [motionManager stopAccelerometerUpdates];
-//                NSLog(@"error");
-//            } else {
-//                NSLog(@"x 加速度--> %f\n y 加速度--> %f\n z 加速度--> %f\n", accelerometerData.acceleration.x, accelerometerData.acceleration.y, accelerometerData.acceleration.z);
-//                // 根据 accelerometerData.acceleration.x/y/z来区分手机横竖屏状态。
-//            }}];
-//    } else {
-//        NSLog(@"This device has no accelerometer");
-//    }
-//
-//    UIDeviceOrientation oriention = [UIDevice currentDevice].orientation;
-//    UIInterfaceOrientation interfaceOriention = (UIInterfaceOrientation)oriention;
-//    switch (interfaceOriention) {
-//        case UIInterfaceOrientationPortrait:
-//        case UIInterfaceOrientationPortraitUpsideDown:{
-//            //竖屏 屏幕倒置
-//            self.backStack.axis = UILayoutConstraintAxisVertical;
-//        } break;
-//        case UIInterfaceOrientationLandscapeLeft:
-//        case UIInterfaceOrientationLandscapeRight: {
-//            //横屏
-//            self.backStack.axis = UILayoutConstraintAxisVertical;
-//        } break;
-//        case UIInterfaceOrientationUnknown: {
-//            //未知方向
-//            NSLog(@"");
-//        } break;
-//
-//        default: {
-//            NSLog(@"");
-//        } break;
-//    }
 }
 
 - (void)viewWillTransitionToSize:(CGSize)size withTransitionCoordinator:(id<UIViewControllerTransitionCoordinator>)coordinator {

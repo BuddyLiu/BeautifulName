@@ -1,0 +1,935 @@
+(
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/carter1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U66fe\U7528\U4f5c\U59d3\U6c0f\Uff0c\U610f\U6307\U7528\U63a8\U8f66\U8fd0\U9001\U8d27\U7269\U7684\U4eba\U3002\U540c\U65f6\U4e5f\U662f\U82cf\U683c\U5170\U51ef\U5c14\U7279\U59d3\U6c0f\U201cMacArtair\U201d\U5bf9\U5e94\U7684\U82f1\U6587\U62fc\U5199\U5f62\U5f0f\Uff0c\U610f\U4e3a\U201cArtair\U4e4b\U5b50\U201d\U3002\U5f88\U591a\U7f8e\U5267\U90fd\U7ed9\U5176\U4e2d\U7684\U4eba\U7269\U8d77\U540d\U4e3aCarter\Uff0c\U5305\U62ec\U300a\U7eef\U95fb\U5c11\U5973\U300b\U3001\U300a\U6a58\U5b50\U90e1\U7537\U5b69\U300b\U7b49\U3002\U6b64\U5916\Uff0c\U540c\U540d\U7684\U7f8e\U56fd\U524d\U603b\U7edf\U5409\U7c73\U00b7\U5361\U7279\Uff08JimmyCarter\Uff09\U4e5f\U8ba9\U8fd9\U540d\U5b57\U591a\U4e86\U4e00\U4efd\U9ad8\U8d35\U7684\U611f\U89c9\U3002";
+"key_name" = Carter;
+"key_words" = "\U9a6c\U8f66\U9a7e\U9a76\U5458\Uff08\U82f1\U8bed\Uff09\U3001Artair\U4e4b\U5b50\Uff08\U82cf\U683c\U5170\U8bed\Uff09";
+},
+{
+"key_about" = "Corbyn,Corben,Corbon,Coarbyn";
+"key_detail" = "\U539f\U5148\U662f\U4f5c\U4e3a\U82f1\U8bed\U59d3\U6c0f\U6765\U4f7f\U7528\U7684\Uff0c\U6e90\U4e8e\U76ce\U683c\U9c81-\U8428\U514b\U900a\U8bed\U201ccorb\U201d\U4e00\U8bcd\Uff0c\U610f\U4e3a\U201c\U4e4c\U9e26\U201d\Uff0c\U6307\U5934\U53d1\U5448\U9ed1\U8272\U3001\U8bf4\U6cd5\U58f0\U97f3\U6c99\U54d1\U7684\U4eba\U3002";
+"key_name" = Corbin;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U6e21\U9e26\U3001\U4e4c\U9e26";
+},
+{
+"key_about" = Kreed;
+"key_detail" = "\U6e90\U4e8e\U82f1\U8bed\U5355\U8bcd\U201ccreed\U201d\Uff0c\U610f\U4e3a\U201c\U4fe1\U6761\U3001\U6559\U4e49\U201d\Uff0c\U6307\U5b97\U6559\U6216\U5176\U4ed6\U5904\U4e8b\U65b9\U9762\U7684\U4fe1\U6761\U3001\U539f\U5219\U3002\U7531\U53e4\U82f1\U8bed\U5355\U8bcd\U201ccredo\U201d\U3001\U201ccreda\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U518d\U5f80\U524d\U53ef\U8ffd\U6eaf\U81f3\U62c9\U4e01\U8bed\U201ccredo\Uff08\U6211\U76f8\U4fe1\Uff09\U201d\Uff0c\U52a8\U8bcd\U201ccredere\Uff08\U76f8\U4fe1\Uff09\U201d\U3002";
+"key_name" = Creed;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U4fe1\U4ef0\U3001\U9075\U5faa\U7684\U539f\U5219";
+},
+{
+"key_about" = Sheryl;
+"key_detail" = "Cheryl\U662f\U4e00\U4e2a\U5728\U82f1\U8bed\U56fd\U5bb6\U5f88\U5e38\U89c1\U7684\U5973\U540d\U3002\U6700\U521d\U51fa\U73b0\U4e8e20\U4e16\U7eaa\U521d\U671f\Uff0c\U5728\U51b7\U6218\U65f6\U671f\U5f88\U53d7\U6b22\U8fce\U3002\U6765\U6e90\U4e8e\U6cd5\U8bed\U8bcd\U201cCherie\U201d\Uff0c\U610f\U4e3a\U201c\U4eb2\U7231\Uff0c\U8ff7\U4eba\U201d\U3002";
+"key_name" = Cheryl;
+"key_recommend" = "MY\U82f1\U6587\U540d\U63a8\U8350-\U8fd9\U662f\U6211\U4eec\U7edd\U5bf9\U63a8\U8350\U7684\U540d\U79f0\U3002\U5b83\U662f\U4e2a\U5f88\U7a33\U5b9a\U7684\U597d\U540d\U5b57\Uff0c\U6bcf\U4e2a\U4eba\U90fd\U8ba4\U8bc6\U5b83\Uff0c\U89c9\U5f97\U8212\U670d\Uff0c\U5728\U6240\U6709\U8bb2\U82f1\U8bed\U7684\U56fd\U5bb6\U90fd\U80fd\U5f88\U597d\U5730\U9002\U7528\Uff0c\U5e76\U4e14\U4e00\U5b9a\U80fd\U4ee3\U8868\U4f60\U7684\U4e00\U751f\Uff01";
+"key_words" = "\U4eb2\U7231\U7684";
+},
+{
+"key_about" = Karina;
+"key_detail" = "\U662f\U4e2a\U5386\U53f2\U542b\U4e49\U4e30\U5bcc\U7684\U5973\U751f\U82f1\U6587\U540d\Uff0c\U6765\U6e90\U51fa\U5904\U8bf4\U6cd5\U6709\U597d\U51e0\U5f20\Uff0c\U6700\U5e38\U89c1\U7684\U8bf4\U6cd5\U662f\U6e90\U4e8e\U62c9\U4e01\U5355\U8bcd\U201ccarina\U201d\Uff0c\U610f\U4e3a\U201c\U8239\U7684\U9f99\U9aa8\U201d\U3002\U5728\U5357\U534a\U7403\Uff0cCarina\U4e5f\U662f\U4e2a\U661f\U5ea7\Uff0c\U4f4d\U4e8e\U5176\U4ed6\U4f17\U591a\U6d77\U6d0b\U661f\U5ea7\U9644\U8fd1\U3002\U4e5f\U6709\U4eba\U8ba4\U4e3a\U8fd9\U662f\U201cCara\U201d\Uff08\U62c9\U4e01\U610f\U601d\U662f\U201c\U4eb2\U7231\U7684\U201d\Uff09\U7684\U5fb7\U8bed\U62fc\U5199\U5f62\U5f0f\Uff0c\U6216\U662f\U201cKarina\U201d\U7684\U53d8\U4f53\U5f62\U5f0f\Uff0c\U800c\U201cKarina\U201d\U662f\U201cKatherine\U201d\U7684\U65af\U582a\U7684\U7eb3\U7ef4\U4e9a\U8bed\U5f62\U5f0f\U3002\U5982\U4eca\U8fd9\U4e2a\U540d\U5b57\U5728\U5965\U5730\U5229\U3001\U5fb7\U56fd\U7279\U522b\U53d7\U6b22\U8fce\U3002";
+"key_name" = Carina;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U8239\U7684\U810a\U9aa8\Uff08\U62c9\U4e01\U8bed\Uff09\Uff1b\U4eb2\U7231\U7684\Uff08\U5fb7\U8bed\Uff09";
+},
+{
+"key_about" = "Camila,Camyla,Camylla";
+"key_detail" = "\U662f\U53e4\U7f57\U9a6c\U59d3\U6c0f\U201cCamillus\U201d\U5bf9\U5e94\U7684\U5973\U6027\U540d\U5f62\U5f0f\Uff0c\U5728\U5404\U79cd\U6587\U5316\U4e2d\U90fd\U81ea\U5e26\U8d35\U65cf\U6c14\U606f\U3002\U8303\U59ae\U00b7\U4f2f\U5c3c1796\U5e74\U521b\U4f5c\U7684\U5c0f\U8bf4\U300aCamilla\U300b\U4f7f\U5f97\U8fd9\U4e2a\U540d\U5b57\U66f4\U4e3a\U8457\U540d\U3002\U867d\U7136\U6d41\U884c\U5ea6\U5728\U4e0a\U4e16\U7eaa80\U300190\U5e74\U4ee3\U6709\U6240\U4e0b\U964d\Uff0c\U4f46\U4ecd\U4e3a\U4e00\U4e2a\U72ec\U7279\U7684\U82f1\U6587\U540d\U3002";
+"key_name" = Camilla;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U795e\U7236\U7684\U52a9\U624b\Uff08\U62c9\U4e01\U8bed\Uff09";
+},
+{
+"key_about" = "Claeton,Claetyn,Cllayten,Cllaeton";
+"key_detail" = "\U662f\U82f1\U6587\U540d\U201cClay\U201d\U7684\U53d8\U4f53\U5f62\U5f0f\Uff0c\U6e90\U4e8e\U76ce\U683c\U9c81-\U8428\U514b\U900a\Uff0c\U539f\U610f\U6307\U67d0\U79cd\U571f\U8d28\U6216\U804c\U4e1a\U3002\U53e4\U82f1\U8bed\U201ccl\U00e6g\U201d\U7528\U6765\U5f62\U5bb9\U9ecf\U571f\Uff0c\U7531\U65e5\U8033\U66fc\U8bed\U201cglei\U201d\Uff08\U9ecf\U5728\U4e00\U8d77\Uff09\U6f14\U53d8\U800c\U6765\Uff0c\U5728\U5236\U4f5c\U9676\U3001\U7816\U3001\U6c34\U6ce5\U65f6\U7ecf\U5e38\U4f1a\U7528\U5230\U9ecf\U571f\U3002";
+"key_name" = Clayton;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U9ecf\U571f";
+},
+{
+"key_about" = "Cedryc,Sedric,Sedryc";
+"key_detail" = "\U8fd9\U4e2a\U540d\U5b57\U7684\U6765\U6e90\U5e94\U8be5\U662f\U5b89\U683c\U9c81\U6492\U514b\U900a\Uff08\U53e4\U4ee3\U82f1\U56fd\Uff09\Uff0c\U4f46\U5b83\U4e5f\U53ef\U80fd\U8054\U7cfb\U5230\U201cCaratacos\U201d\Uff0c\U8fd9\U4e2a\U5e03\U5217\U5854\U5c3c\U540d\U5b57\U4ece\U51ef\U5c14\U514b\U8bed\U201ccar\U201d\U6cd5\U9662\U800c\U6765\Uff0c\U610f\U601d\U662f\U201c\U7231\U201d\U3002";
+"key_name" = Cedric;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U7231";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/carly_0.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U201cCarlie\U201d\U4e00\U540d\U7684\U53e6\U4e00\U79cd\U62fc\U5199\U5f62\U5f0f\Uff0c\U6e90\U4e8e\U5fb7\U8bed\U4eba\U540d\U201cCarl\U201d\U3002\U800c\U201cCarl\U201d\U7684\U539f\U578b\U4e3a\U201ckarl\U201d\U4e00\U8bcd\Uff0c\U610f\U4e3a\U201c\U81ea\U7531\U7684\U4eba\U201d\Uff0c\U540e\U6765\U8fd9\U4e2a\U8bcd\U5728\U4e2d\U53e4\U9ad8\U5730\U5fb7\U8bed\U548c\U4e2d\U4e16\U7eaa\U82f1\U8bed\U7684\U542b\U4e49\U6f14\U53d8\U4e3a\U201c\U4eba\U3001\U4f19\U4f34\U3001\U4e08\U592b\U201d\U3002\U201cCarly\U201d\U8fd9\U4e2a\U540d\U5b57\U5728\U6700\U8fd1\U6d41\U884c\U6587\U5316\U4e2d\U7ecf\U5e38\U51fa\U73b0\Uff0c\U6709\U7f8e\U56fd\U7535\U89c6\U5267\U300a\U7231\U5361\U8389\U300b\Uff08iCarly\Uff09\U4ee5\U53ca\U8457\U540d\U6b4c\U624bCarlyRaeJepsen\U3002";
+"key_name" = Carly;
+"key_recommend" = Car;
+"key_words" = "Carl\U7684\U4e00\U79cd\U53d8\U4f53\Uff0c\U610f\U4e3a\Uff1a\U81ea\U7531\U4eba\Uff08\U53e4\U9ad8\U5730\U5fb7\U8bed\Uff09\Uff1b\U540c\U4f34\Uff0c\U7537\U4eba\Uff08\U4e2d\U9ad8\U5730\U5fb7\U8bed\Uff0c\U4e2d\U53e4\U82f1\U8bed\Uff09";
+},
+{
+"key_about" = Carolyna;
+"key_detail" = "\U662f\U4e2d\U4e16\U7eaa\U65f6\U671f\U7537\U6027\U4eba\U540dCarolus\U5bf9\U5e94\U7684\U5973\U6027\U82f1\U6587\U540d\U5f62\U5f0f\Uff0c\U7531\U201cCarl\U201d\U6216\U201cKarl\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U53e4\U5fb7\U8bed\U201ckarl\U201d\U4e00\U8bcd\U610f\U4e3a\U201c\U81ea\U7531\U7684\U4eba\U201d\U3002\U8fd9\U4e2a\U540d\U5b57\U5f88\U5bb9\U6613\U8ba9\U4eba\U8054\U60f3\U5230\U7f8e\U56fd\U7684\U4e24\U4e2a\U5dde\U540d\Uff1a\U5317\U5361\U7f57\U6765\U7eb3\Uff08NorthCarolina\Uff09\U548c\U5357\U5361\U7f57\U6765\U7eb3\Uff08SouthCarolina\Uff09\Uff0c\U8fd9\U4e24\U4e2a\U5dde\U662f\U4ee5\U67e5\U5c14\U65af\U4e00\U4e16\Uff08KingCharlesI\Uff09\U7684\U540d\U5b57\U6765\U547d\U540d\U7684\Uff08Carolus\U5bf9\U5e94\U7684\U82f1\U8bed\U62fc\U5199\U5f62\U5f0f\U5c31\U662fCharles\Uff09\U3002\U8457\U540d\U540c\U540d\U65f6\U5c1a\U8bbe\U8ba1\U5e08CarolinaHerrera\U66fe\U4e3a\U6770\U594e\U7433\U00b7\U80af\U5c3c\U8fea\Uff08JackieKennedy\Uff09\U548c\U7c73\U6b47\U5c14\U00b7\U5965\U5df4\U9a6c\Uff08MicheleObama\Uff09\U7b49\U5386\U5c4a\U7b2c\U4e00\U592b\U4eba\U8bbe\U8ba1\U8fc7\U8863\U670d\U3002";
+"key_name" = Carolina;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "Carl\U7684\U4e00\U79cd\U53d8\U4f53\Uff0c\U610f\U4e3a\Uff1a\U81ea\U7531\U4eba\Uff08\U53e4\U9ad8\U5730\U5fb7\U8bed\Uff09\Uff1b\U540c\U4f34\Uff0c\U7537\U4eba\Uff08\U4e2d\U9ad8\U5730\U5fb7\U8bed\Uff0c\U4e2d\U53e4\U82f1\U8bed\Uff09";
+},
+{
+"key_about" = Cristopher;
+"key_detail" = "\U5e0c\U814a\U4eba\U540d\"Khristophoros\"\U6f14\U53d8\U800c\U6765\U7684\U82f1\U8bed\U62fc\U5199\U5f62\U5f0f\Uff0c\U53ef\U62c6\U5206\U4e3a\U201cKhristos\Uff08\U57fa\U7763\Uff09\U201d\U548c\U201cpherein\Uff08\U80cc\U7740\Uff09\U201d\Uff0c\U6240\U4ee5\U540d\U5b57\U542b\U4e49\U4e3a\U201c\U80cc\U7740\U57fa\U7763\U7684\U4eba\U201d\U3002\U5728\U65e9\U671f\U57fa\U7763\U5f92\U4e2d\U5341\U5206\U6d41\U884c\Uff0c\U5bd3\U610f\U201c\U5c06\U57fa\U7763\U8bb0\U5728\U5fc3\U91cc\U201d\U3002";
+"key_name" = Christopher;
+"key_recommend" = "MY\U82f1\U6587\U540d\U63a8\U8350-\U8fd9\U662f\U6211\U4eec\U7edd\U5bf9\U63a8\U8350\U7684\U540d\U79f0\U3002\U5b83\U662f\U4e2a\U5f88\U7a33\U5b9a\U7684\U597d\U540d\U5b57\Uff0c\U6bcf\U4e2a\U4eba\U90fd\U8ba4\U8bc6\U5b83\Uff0c\U89c9\U5f97\U8212\U670d\Uff0c\U5728\U6240\U6709\U8bb2\U82f1\U8bed\U7684\U56fd\U5bb6\U90fd\U80fd\U5f88\U597d\U5730\U9002\U7528\Uff0c\U5e76\U4e14\U4e00\U5b9a\U80fd\U4ee3\U8868\U4f60\U7684\U4e00\U751f\Uff01";
+"key_words" = "\U80cc\U7740\U57fa\U7763\U7684\U4eba";
+},
+{
+"key_about" = Kosima;
+"key_detail" = "\U662f\U201cCosimo\U201d\U7684\U5973\U751f\U540d\U5f62\U5f0f\Uff0c\U6e90\U4e8e\U5e0c\U814a\U8bed\Uff0c\U610f\U4e3a\U201c\U79e9\U5e8f\U3001\U4f53\U9762\"\U3002\U516c\U51434\U4e16\U7eaa\U6709\U4e00\U4f4d\U5723\U4eba\U53ebCosima\Uff0c\U4e0e\U5144\U5f1fDamian\U4e00\U8d77\U906d\U5230\U6740\U5bb3\Uff0c\U4e24\U4eba\U88ab\U5c01\U4e3a\U533b\U751f\U7684\U5b88\U62a4\U5723\U4eba\U3002";
+"key_name" = Cosima;
+"key_recommend" = "\U611f\U89c9\U4e0d\U50cf\U662f\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57-\U8fd9\U4e2a\U540d\U5b57\U4f3c\U4e4e\U4e0e\U5176\U4ed6\U56fd\U5bb6\U6709\U7740\U66f4\U7262\U56fa\U7684\U6e0a\U6e90\U3002\U5982\U679c\U4f60\U5728\U5bfb\U627e\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57\Uff0c\U90a3\U4e48\U8fd9\U4e0d\U662f\U6700\U597d\U7684\U9009\U62e9\U2014\U2014\U5982\U679c\U4f60\U60f3\U8981\U5728\U975e\U82f1\U8bed\U56fd\U5bb6\Uff0c\U90a3\U4e48\U5b83\U53ef\U80fd\U662f\U4f60\U7684";
+"key_words" = "\U987a\U5e8f\U3001\U4f53\U9762";
+},
+{
+"key_about" = "Kristal,Krystal,Crystle";
+"key_detail" = "\U6e90\U4e8e\U5e0c\U814a\U8bed\U201ckrystallos\U201d\Uff0c\U610f\U4e3a\U201c\U51b0\U201d\U3002\U82f1\U8bed\U201ccrystal\U201d\U610f\U601d\U662f\U201c\U6c34\U6676\U201d\Uff0c\U5bd3\U610f\U9ad8\U8d35\U3001\U73cd\U8d35\U3002";
+"key_name" = Crystal;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U51b0\Uff0c\U77f3\U5934";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/camille_0.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U201cCamilla\U201d\U5bf9\U5e94\U7684\U6cd5\U8bed\U540d\U5f62\U5f0f\Uff0c\U5728\U53e4\U7f57\U9a6c\U4f5c\U4e3a\U59d3\U6c0f\U201cCamillus\U201d\U4f7f\U7528\U3002\U5728\U5404\U79cd\U6587\U5316\U4e2d\U90fd\U81ea\U5e26\U8d35\U65cf\U6c14\U606f\U3002\U8fd9\U4e2a\U540d\U5b57\U7684\U62c9\U4e01\U8bed\U62fc\U5199\U5f62\U5f0f\U201cCamilla\U201d\U5728\U7f8e\U56fd\U7b49\U82f1\U8bed\U56fd\U5bb6\U7279\U522b\U53d7\U9752\U7750\Uff0c\U800c\U201cCamille\U201d\U5219\U66f4\U80fd\U7ed9\U4eba\U5e26\U6765\U65b0\U9c9c\U611f\U3002";
+"key_name" = Camille;
+"key_recommend" = "Cam,Cammy";
+"key_words" = "\U795e\U7236\U7684\U52a9\U624b\Uff08\U62c9\U4e01\U8bed\Uff09\Uff0cCamillia\U7684\U53d8\U4f53";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/charlie_1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U6e90\U4e8e\U53e4\U5fb7\U8bed\Uff0c\U7531\U201cCharles\U201d\U4e00\U540d\U6f14\U53d8\U800c\U6765\Uff0c\U610f\U4e3a\U201c\U81ea\U7531\U4e4b\U4eba\U201d\U3002\U8fd1\U5e74\U6765\Uff0c\U8fd9\U4e2a\U5728\U7ecf\U5178\U57fa\U7840\U4e0a\U7a0d\U4f5c\U6539\U53d8\U7684\U7537\U5973\U7686\U5b9c\U7684\U540d\U5b57\U53d8\U5f97\U8d8a\U6765\U8d8a\U6d41\U884c\U3002\U8457\U540d\U6f14\U5458CharlieChaplin\U548cCharlieSheen\U4e5f\U7ed9\U8fd9\U4e2a\U540d\U5b57\U589e\U8272\U4e0d\U5c11\U3002\U6b64\U5916\Uff0c\U8fd8\U6709\U201cCharlieBrown\U201d\U7b49\U5267\U4e2d\U4eba\U7269\U4e5f\U7ed9\U8fd9\U4e2a\U540d\U5b57\U589e\U52a0\U4e86\U4e00\U70b9\U6d3b\U6cfc\U3001\U6dd8\U6c14\U611f\U3002";
+"key_name" = Charlie;
+"key_recommend" = Char;
+"key_words" = "\U81ea\U7531\U6c11\Uff08\U82f1\U8bed\U3001\U5fb7\U8bed\Uff09\Uff0cCharles\U7684\U53d8\U4f53";
+},
+{
+"key_about" = "\U65e0";
+"key_detail" = "\U6e90\U4e8e\U53e4\U82f1\U8bed\U59d3\U6c0f\Uff0c\U610f\U4e3a\U201c\U60ac\U5d16\U201d\Uff0c\U6700\U5f00\U59cb\U662f\U4e00\U4e2a\U4f4f\U5728\U60ac\U5d16\U8fb9\U4e0a\U7684\U4eba\U7528\U7684\U59d3\U3002\U6700\U8457\U540d\U7684\U540c\U540d\U4eba\U7269\U662f18\U4e16\U7eaa\U82f1\U56fd\U7684\U519b\U4e8b\U5bb6\U548c\U653f\U6cbb\U5bb6\U514b\U83b1\U6b66\Uff08RobertClive\Uff09\Uff0c\U53c8\U79f0\U4e3a\U201c\U5370\U5ea6\U7684\U514b\U83b1\U6b66\U201d\Uff08\U66fe\U53c2\U4e0e\U6b96\U6c11\U5370\U5ea6\Uff09\U3002";
+"key_name" = Clive;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U60ac\U5d16\U3001\U4f4f\U5728\U60ac\U5d16\U9644\U8fd1";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/caleb1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U53e4\U5e0c\U4f2f\U6765\U4eba\U540d\Uff0c\U6700\U5148\U51fa\U73b0\U5728\U300a\U51fa\U57c3\U53ca\U8bb0\U300b\U4e2d\Uff0c\U4e0e\U6469\U897f\U540c\U65f6\U4ee3\U3002\U7531\U5e0c\U4f2f\U6765\U4eba\U540d\U201cKalebh\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U610f\U4e3a\U201c\U4e0e\U72d7\U5f88\U50cf\U201d\Uff08\U201ckelebh\U201d\U7684\U610f\U601d\U662f\U201c\U72d7\U201d\Uff09\Uff0c\U8868\U9762\U4e0a\U53ef\U80fd\U4e0d\U592a\U597d\U542c\Uff0c\U4f46\U662f\U5176\U5b9e\U8fd9\U662f\U4e2a\U8d5e\U626c\U7684\U540d\U5b57\Uff0c\U8868\U793aCaleb\U5bf9\U4e0a\U5e1d\U7684\U5fe0\U5fc3\U3002";
+"key_name" = Caleb;
+"key_recommend" = "MY\U82f1\U6587\U540d\U63a8\U8350-\U8fd9\U662f\U6211\U4eec\U7edd\U5bf9\U63a8\U8350\U7684\U540d\U79f0\U3002\U5b83\U662f\U4e2a\U5f88\U7a33\U5b9a\U7684\U597d\U540d\U5b57\Uff0c\U6bcf\U4e2a\U4eba\U90fd\U8ba4\U8bc6\U5b83\Uff0c\U89c9\U5f97\U8212\U670d\Uff0c\U5728\U6240\U6709\U8bb2\U82f1\U8bed\U7684\U56fd\U5bb6\U90fd\U80fd\U5f88\U597d\U5730\U9002\U7528\Uff0c\U5e76\U4e14\U4e00\U5b9a\U80fd\U4ee3\U8868\U4f60\U7684\U4e00\U751f\Uff01";
+"key_words" = "\U8c61\U5f81\U7740\U5949\U732e\U7684\U72d7";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/carl1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U6e90\U4e8e\U5fb7\U8bed\U201ckarl\U201d\U4e00\U8bcd\Uff0c\U610f\U4e3a\U201c\U81ea\U7531\U7684\U4eba\U201d\Uff0c\U540e\U6765\U8fd9\U4e2a\U8bcd\U5728\U4e2d\U53e4\U9ad8\U5730\U5fb7\U8bed\U548c\U4e2d\U4e16\U7eaa\U82f1\U8bed\U7684\U542b\U4e49\U6f14\U53d8\U4e3a\U201c\U4eba\U3001\U4f19\U4f34\U3001\U4e08\U592b\U201d\U3002\U4e2d\U4e16\U7eaa\U65f6\U671f\U6b27\U6d32\U7687\U5ba4\U6216\U8d35\U65cf\U4e2d\U6709\U4e0d\U5c11\U7531\U201cCarl\U201d\U6216\U201cKarl\U201d\U6f14\U53d8\U800c\U6765\U7684\U540d\U5b57\Uff0c\U6bd4\U5982Charlemagne\U3001Charles\U3001Caroline\U7b49\U3002\U540c\U540d\U7684\U8457\U540d\U4eba\U7269\U6709\U7f8e\U56fd\U5929\U6587\U5b66\U5bb6\U5361\U5c14\U00b7\U8428\U6839\Uff08CarlSagan\Uff09\U548c\U745e\U58eb\U5fc3\U7406\U5b66\U5bb6\U5361\U5c14\U00b7\U8363\U683c\Uff08CarlJung\Uff09\U300220\U4e16\U7eaa\U65e9\U671f\U8fd9\U4e2a\U540d\U5b57\U7684\U53d7\U6b22\U8fce\U5ea6\U7a0d\U6709\U70b9\U4e0b\U964d\Uff0c\U4f46\U4ecd\U7136\U662f\U4e2a\U77e5\U540d\U5ea6\U8f83\U9ad8\U7684\U540d\U5b57\U3002";
+"key_name" = Carl;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U81ea\U7531\U4eba\Uff08\U53e4\U9ad8\U5730\U5fb7\U8bed\Uff09\Uff1b\U540c\U4f34\Uff0c\U7537\U4eba\Uff08\U4e2d\U9ad8\U5730\U5fb7\U8bed\Uff0c\U4e2d\U53e4\U82f1\U8bed\Uff09";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/camden4.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U4e2a\U7537\U5973\U7686\U5b9c\U7684\U540d\U5b57\Uff0c\U6700\U521d\U4f5c\U4e3a\U59d3\U6c0f\U4f7f\U7528\Uff0c\U6e90\U4e8e\U82f1\U683c\U5170\U683c\U83b1\U65af\U7279\U90e1\U7684\U4e00\U5904\U5730\U540d\U3002\U516c\U514311\U4e16\U7eaa\U8fd9\U4e2a\U5730\U65b9\U540d\U53eb\U201cCampedene\U201d\Uff0c\U7531\U53e4\U82f1\U8bed\"campa-denu\"\U6f14\U53d8\U800c\U6765\Uff0c\U7531\U62c9\U4e01\U5355\U8bcd\U201ccampus\Uff08\U5e73\U5730\Uff09\U201d\U548c\U201cdenu\Uff08\U6751\U5e84\Uff09\U201d\U7ec4\U5408\U800c\U6210\Uff0c\U610f\U6307\U201c\U6709\U56f4\U5899\U7684\U6751\U5e84\U201d\U30021990\U5e74\U8d77\Uff0cCamden\U4f5c\U4e3a\U540d\U5b57\U5f00\U59cb\U5728\U7f8e\U56fd\U666e\U904d\U8d77\U6765\U3002";
+"key_name" = Camden;
+"key_recommend" = "Cam,Cammy";
+"key_words" = "\U6709\U8425\U5730\U6216\U56f4\U5899\U7684\U5c71\U8c37";
+},
+{
+"key_about" = "Constancia,Constanze";
+"key_detail" = "\U6e90\U4e8e\U62c9\U4e01\U8bed\U7684\U5973\U751f\U540d\Uff0c\U610f\U4e3a\U201c\U6301\U7eed\U7684\U3001\U7a33\U5b9a\U7684\U201d\Uff0c\U8bfa\U66fc\U4eba\U5c06\U8fd9\U4e2a\U540d\U5b57\U5e26\U5230\U4e86\U82f1\U683c\U5170\Uff0c\U5f81\U670d\U8005\U5a01\U5ec9\Uff08\U82f1\U56fd\U56fd\U738b\U5a01\U5ec9\U4e00\U4e16\Uff09\U7684\U4e00\U4e2a\U5973\U513f\U5c31\U53eb\U8fd9\U4e2a\U540d\U5b57\U3002";
+"key_name" = Constance;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U8fde\U7eed\U7684\U3001\U53ef\U9760\U7684";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/corey1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U6e90\U4e8e\U82cf\U683c\U5170\U59d3\U6c0f\Uff08Corey\U3001Corrie\U6216Corry\Uff09\Uff0c\U7531\U5730\U540d\U6f14\U53d8\U800c\U6765\U3002\U76d6\U5c14\U8bed\U201ccoire\U201d\U610f\U4e3a\U201c\U5927\U9505\U201d\Uff0c\U66fe\U7528\U6765\U6307\U4ee3\U67d0\U5730\U65b9\U7684\U5730\U5f62\U7279\U70b9\Uff08\U6bd4\U5982\U4f4d\U4e8e\U5c71\U9876\U51f9\U9677\U5904\U7684\U6751\U843d\Uff09\U3002";
+"key_name" = Corey;
+"key_recommend" = Cor;
+"key_words" = "\U5927\U9505";
+},
+{
+"key_about" = "Culen,Culenn,Cullenn";
+"key_detail" = "\U7531\U7231\U5c14\U5170\U59d3\U6c0f\U6f14\U53d8\U800c\U6765\Uff0c\U6e90\U4e8e\U53e4\U76d6\U5c14\U8bed\U540d\U201cCuileannain\U201d\U3002\U7531\U76d6\U5c14\U8bed\U5355\U8bcd\U201ccuileann\Uff08\U795e\U5723\Uff09\U201d\U548c\U201cain\Uff08\U513f\U5b50\Uff09\U201d\U7ec4\U5408\U800c\U6210\Uff0c\U6240\U4ee5\U6574\U4e2a\U540d\U5b57\U610f\U4e3a\U201c\U795e\U5723\U4e4b\U4eba\U7684\U513f\U5b50\U201d\U3002";
+"key_name" = Cullen;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U5723\U4eba\U7684\U513f\U5b50";
+},
+{
+"key_about" = Callista;
+"key_detail" = "\U6765\U6e90\U4e8e\U5e0c\U814a\U8bcd\U201cKallist\U014d\U201d\U3002\U610f\U601d\U662f\U201c\U6700\U7f8e\U4e3d\U7684\U5979\U201d\Uff0c\U6765\U81ea\U4e8ekallos\U8fd9\U4e2a\U8bcd\Uff08\U7f8e\U4e3d\Uff0c\U7f8e\U8c8c\Uff09\U3002\U8fd9\U4e2a\U540d\U5b57\U51fa\U73b0\U5728\U5e0c\U814a\U795e\U8bdd\Uff0c\U662f\U963f\U5c14\U5361\U8fea\U4e9a\U56fd\U738b\U7684\U5973\U513f\U3002";
+"key_name" = Calista;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U6700\U7f8e\U7684";
+},
+{
+"key_about" = "\U65e0";
+"key_detail" = "\U6765\U81ea\U4e8e\U62c9\U4e01\U6587\U201cClemens\U201d\Uff0c\U610f\U601d\U662f\U6148\U60b2\Uff0c\U95ee\U5934\U3002\U4e0eClements\U8fd9\U4e2a\U540d\U5b57\U6709\U5173\Uff0c\U4f46\U5728\U82f1\U8bed\U4e2d\U4ece\U6ca1\U6709\U88ab\U7528\U8fc7\U3002";
+"key_name" = Clemens;
+"key_recommend" = "\U611f\U89c9\U4e0d\U50cf\U662f\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57-\U8fd9\U4e2a\U540d\U5b57\U4f3c\U4e4e\U4e0e\U5176\U4ed6\U56fd\U5bb6\U6709\U7740\U66f4\U7262\U56fa\U7684\U6e0a\U6e90\U3002\U5982\U679c\U4f60\U5728\U5bfb\U627e\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57\Uff0c\U90a3\U4e48\U8fd9\U4e0d\U662f\U6700\U597d\U7684\U9009\U62e9\U2014\U2014\U5982\U679c\U4f60\U60f3\U8981\U5728\U975e\U82f1\U8bed\U56fd\U5bb6\Uff0c\U90a3\U4e48\U5b83\U53ef\U80fd\U662f\U4f60\U7684";
+"key_words" = "\U6148\U60b2\U7684\Uff0c\U6e29\U67d4\U7684";
+},
+{
+"key_about" = Connor;
+"key_detail" = "\U53e4\U76d6\U5c14\U4eba\U540d\U201cConchobhar\U201d\U5bf9\U5e94\U7684\U82f1\U6587\U62fc\U5199\U5f62\U5f0f\Uff0c\U610f\U4e3a\U201c\U559c\U6b22\U730e\U72ac\U7684\U4eba\U201d\U3002\U7231\U5c14\U5170\U795e\U8bdd\U4e2d\Uff0c\U963f\U5c14\U65af\U7279\U4f20\U5947\U56fd\U738b\U5c31\U53ebConchobharMacNessa\Uff0c\U636e\U8bf4\U8bed\U8036\U7a23\U57fa\U7763\U540c\U65f6\U51fa\U751f\U3002";
+"key_name" = Conor;
+"key_recommend" = "MY\U82f1\U6587\U540d\U63a8\U8350-\U8fd9\U662f\U6211\U4eec\U7edd\U5bf9\U63a8\U8350\U7684\U540d\U79f0\U3002\U5b83\U662f\U4e2a\U5f88\U7a33\U5b9a\U7684\U597d\U540d\U5b57\Uff0c\U6bcf\U4e2a\U4eba\U90fd\U8ba4\U8bc6\U5b83\Uff0c\U89c9\U5f97\U8212\U670d\Uff0c\U5728\U6240\U6709\U8bb2\U82f1\U8bed\U7684\U56fd\U5bb6\U90fd\U80fd\U5f88\U597d\U5730\U9002\U7528\Uff0c\U5e76\U4e14\U4e00\U5b9a\U80fd\U4ee3\U8868\U4f60\U7684\U4e00\U751f\Uff01";
+"key_words" = "\U72d7/\U72fc\U7684\U7231\U4eba";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/charlotte_0.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U4e2a\U7279\U522b\U7ecf\U5178\U7684\U540d\U5b57\Uff0c\U7ed9\U4eba\U4e00\U79cd\U6b63\U76f4\U3001\U65e0\U754f\U7684\U611f\U89c9\Uff0c\U80fd\U7ed9\U4eba\U7559\U4e0b\U6df1\U523b\U5370\U8c61\U3002\U6b64\U5916\U8fd8\U5e26\U6709\U6d53\U6d53\U7684\U7687\U5ba4\U611f\U89c9\Uff0c\U5a01\U5ec9\U738b\U5b50\U7b2c\U4e8c\U4e2a\U5b69\U5b50\U5c31\U53ebCharlott\Uff0c\U5168\U540d\U662fPrincessCharlotteElizabethDiana\U3002E.B.\U6000\U7279\U6709\U4e00\U90e8\U8457\U540d\U5c0f\U8bf4\U300a\U590f\U6d1b\U7279\U7684\U7f51\U300b\Uff08Charlotte'sWeb\Uff09\U3002";
+"key_name" = Charlotte;
+"key_recommend" = "Char,Lotte";
+"key_words" = "\U5a07\U5c0f\U7684\Uff0c\U5973\U4eba\U5473\Uff08\U6cd5\U8bed\Uff09";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/caroline.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U4e2d\U4e16\U7eaa\U65f6\U671f\U7537\U6027\U4eba\U540dCarolus\U5bf9\U5e94\U7684\U5973\U6027\U82f1\U6587\U540d\U5f62\U5f0f\Uff0c\U7531\U201cCarl\U201d\U6216\U201cKarl\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U53e4\U5fb7\U8bed\U201ckarl\U201d\U4e00\U8bcd\U610f\U4e3a\U201c\U81ea\U7531\U7684\U4eba\U3002\U8fd9\U4e2a\U540d\U5b57\U5728\U4f17\U591a\U6587\U5b66\U4f5c\U54c1\U548c\U97f3\U4e50\U4f5c\U54c1\U4e2d\U51fa\U73b0\U8fc7\Uff0c\U5305\U62ec\U5c0f\U8bf4\U300a\U50b2\U6162\U4e0e\U504f\U89c1\U300b\U4ee5\U53ca\U5c3c\U5c14\U00b7\U6234\U8499\U5fb7\Uff08NeilDiamond\Uff09\U7684\U7ecf\U5178\U6b4c\U66f2\U300aSweetCaroline\U300b\U3002";
+"key_name" = Caroline;
+"key_recommend" = "Care,Caro,Caz";
+"key_words" = "Carl\U7684\U4e00\U79cd\U53d8\U4f53\Uff0c\U610f\U4e3a\Uff1a\U81ea\U7531\U4eba\Uff08\U53e4\U9ad8\U5730\U5fb7\U8bed\Uff09\Uff1b\U540c\U4f34\Uff0c\U7537\U4eba\Uff08\U4e2d\U9ad8\U5730\U5fb7\U8bed\Uff0c\U4e2d\U53e4\U82f1\U8bed\Uff09";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/claire_0.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U4e2a\U6cd5\U8bed\U540d\Uff0c\U6e90\U4e8e\U62c9\U4e01\U8bed\Uff0c\U7531\U201ccl\U0101rus\U201d\U4e00\U8bcd\U6f14\U53d8\U800c\U6765\Uff0c\U610f\U4e3a\U201c\U6e05\U6f88\U3001\U660e\U4eae\U3001\U7a81\U51fa\U201d\U6216\U201c\U53d1\U5149\U3001\U8000\U773c\U201d\U3002\U5bf9\U5e94\U7684\U82f1\U6587\U5f62\U5f0f\U662f\U201cClare\U201d\Uff0c\U610f\U5927\U5229\U6587\U5f62\U4f3c\U662f\U201cChiara\U201d\U3002\U5386\U53f2\U4e0a\Uff0c\U516c\U514312\U300113\U4e16\U7eaa\U65f6\U671f\U6709\U4e00\U4f4d\U5973\U6027\U540d\U53ebChiaraOffreduccio\Uff0c\U4e5f\U5c31\U662f\U5723\U4eba\U514b\U83b1\U5c14\U3002";
+"key_name" = Claire;
+"key_recommend" = "MY\U82f1\U6587\U540d\U63a8\U8350-\U8fd9\U662f\U6211\U4eec\U7edd\U5bf9\U63a8\U8350\U7684\U540d\U79f0\U3002\U5b83\U662f\U4e2a\U5f88\U7a33\U5b9a\U7684\U597d\U540d\U5b57\Uff0c\U6bcf\U4e2a\U4eba\U90fd\U8ba4\U8bc6\U5b83\Uff0c\U89c9\U5f97\U8212\U670d\Uff0c\U5728\U6240\U6709\U8bb2\U82f1\U8bed\U7684\U56fd\U5bb6\U90fd\U80fd\U5f88\U597d\U5730\U9002\U7528\Uff0c\U5e76\U4e14\U4e00\U5b9a\U80fd\U4ee3\U8868\U4f60\U7684\U4e00\U751f\Uff01";
+"key_words" = "\U6e05\U695a\Uff0c\U660e\U4eae";
+},
+{
+"key_about" = Konstantine;
+"key_detail" = "\U6e90\U4e8e\U62c9\U4e01\U8bed\U201cconstans\U201d\U4e00\U8bcd\Uff0c\U610f\U4e3a\U201c\U7a33\U5b9a\U7684\U3001\U6301\U7eed\U7684\U201d\U3002\U66fe\U7ecf\U6709\U597d\U51e0\U4e2a\U7f57\U9a6c\U62dc\U5360\U5ead\U56fd\U738b\U90fd\U53eb\U8fd9\U4e2a\U540d\U5b57\Uff0c\U5305\U62ec\U5c06\U57fa\U7763\U6559\U53d1\U5c55\U6210\U4e3a\U7f57\U9a6c\U5e1d\U56fd\U56fd\U6559\U7684\U5eb7\U65af\U5766\U4e01\U5927\U5e1d\U3002";
+"key_name" = Constantine;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U8fde\U7eed\U7684\U3001\U7a33\U5b9a\U7684";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/carson2.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U8fd9\U4e2a\U540d\U5b57\U539f\U6765\U662f\U4f5c\U4e3a\U59d3\U6c0f\U4f7f\U7528\U7684\Uff0c\U610f\U4e3a\U201cCarr\U7684\U513f\U5b50\U201d\U3002\U201cCarr\U201d\U4e00\U540d\U7684\U6765\U6e90\U6709\U5f88\U591a\U79cd\U8bf4\U6cd5\Uff0c\U6709\U4eba\U8bf4\U6e90\U4e8e\U4e2d\U4e16\U7eaa\U82f1\U8bed\U548c\U82cf\U683c\U5170\U8bed\U201ccarre\U201d\Uff0c\U610f\U4e3a\U201c\U6cbc\U6cfd\U3001\U6e7f\U5730\U201d\Uff1b\U800c\U5a01\U5c14\U58eb\U8bed\U201ccaer\U201d\U610f\U4e3a\U201c\U5821\U5792\U3001\U8981\U585e\U201d\Uff0c\U51ef\U5c14\U7279\U8bed\U201ccarr\U201d\U610f\U4e3a\U201c\U5ca9\U77f3\U201d\U3002";
+"key_name" = Carson;
+"key_recommend" = "Carce,Car,Cars";
+"key_words" = "\U6cbc\U6cfd\U5730\U5c45\U4f4f\U8005\U7684\U513f\U5b50";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/chloe.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U6e90\U4e8e\U5e0c\U814a\U8bed\Uff0c\U662f\U53e4\U5e0c\U814a\U795e\U8bdd\U4e2d\U4e30\U9976\U5973\U795e\U3001\U8c37\U7269\U5973\U795e\U7684\U540d\U5b57\U3002\U8fd9\U4e2a\U540d\U5b57\U5728\U8fc7\U53bb\U5341\U5e74\U5341\U5206\U6d41\U884c\Uff0c\U4e0d\U8fc7\U5982\U4eca\U6d41\U884c\U5ea6\U7a0d\U6709\U4e0b\U964d\U3002\U8457\U540d\U6d41\U884c\U54c1\U724c\U201c\U853b\U4f9d\U201d\U82f1\U6587\U5c31\U53ebChloe\Uff0c\U540c\U540d\U7684\U8fd8\U6709\U8457\U540d\U6f14\U5458\U79d1\U6d1b\U00b7\U83ab\U745e\U5179\Uff08ChloeMoretz\Uff09\Uff0c\U8fd9\U4e2a\U6f02\U4eae\U5973\U751f\U5bf9\U8fd9\U4e2a\U540d\U5b57\U633a\U6709\U4ee3\U8868\U6027\Uff01";
+"key_name" = Chloe;
+"key_recommend" = Chlo;
+"key_words" = "\U76db\U5f00\U7684\Uff0c\U5e74\U5e7c\Uff0c\U7eff\U8272\U7684\U53d1\U82bd";
+},
+{
+"key_about" = Cammie;
+"key_detail" = "Calillus\U7684\U5973\U540d\U3002\U6c83\U5c14\U897f\U7684\U4f20\U5947\U5973\U6218\U795e\U5c31\U53ebCammy\U3002\U5728FannyBurney\U7684\U5c0f\U8bf4\U300aCamilla\U300b\U9762\U4e16\U4e4b\U540e\Uff0c\U8fd9\U4e2a\U540d\U5b57\U5728\U82f1\U8bed\U56fd\U5bb6\U53d7\U6b22\U8fce\U8d77\U6765\U3002";
+"key_name" = Cammy;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U7eaf\U51c0\U7684";
+},
+{
+"key_about" = "Colemann,Colleman,Collemann";
+"key_detail" = "\U7531\U76d6\U5c14\U8bed\U201ccolm\Uff08\U9e3d\U5b50\Uff09\U201d\U52a0\U4e0a\U540e\U7f00\U201c-an\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U610f\U4e3a\U201c\U5c0f\U9e3d\U5b50\U201d\U3002\U66fe\U7ecf\U4e5f\U662f\U76ce\U683c\U9c81-\U8428\U514b\U900a\U59d3\U6c0f\Uff0c\U539f\U610f\U6307\U4ece\U4e8b\U70e7\U7164\U804c\U4e1a\U7684\U4eba\U3002";
+"key_name" = Coleman;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U5c0f\U9e3d\U5b50\Uff0c\U7164\U77ff\U5de5\U4eba";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/calvin2.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U6e90\U4e8e\U6cd5\U8bed\U59d3\U6c0f\U201cCauvin\U201d\Uff0c\U7531\U201cChauve\Uff08\U5149\U5934\U7684\Uff09\U201d\U4e00\U8bcd\U6f14\U53d8\U800c\U6765\U3002\U8bcd\U6e90\U662f\U62c9\U4e01\U5355\U8bcd\U201ccalvinus\U201d\Uff08\U5c0f\U5c0f\U7684\U5149\U5934\Uff09\U3002\U867d\U7136\U542b\U4e49\U6709\U70b9\U602a\U5f02\Uff0c\U4f46\U8fd9\U4e2a\U540d\U5b57\U5982\U4eca\U7ed9\U4eba\U4e00\U79cd\U65f6\U5c1a\U6d41\U884c\U7684\U611f\U89c9\Uff0c\U8fd9\U53ef\U5c11\U4e0d\U4e86\U65f6\U5c1a\U54c1\U724cCalvinKlein\U7684\U529f\U52b3\Uff01\U53e6\U5916\U8fd8\U6709\U7ecf\U5178\U7684\U6f2b\U753b\U7cfb\U5217\U300aCalvinandHobbes\U300b\Uff0c\U6240\U4ee5\U4e5f\U7ed9\U4eba\U4e00\U79cd\U53cb\U597d\U3001\U6b22\U5feb\U7684\U611f\U89c9\U3002";
+"key_name" = Calvin;
+"key_recommend" = Cal;
+"key_words" = "\U79c3\U5934\Uff0c\U4f53\U6bdb\U5c11\U7684\Uff08\U6cd5\U8bed\Uff09\Uff1b\U5c0f\U5149\U5934\Uff08\U62c9\U4e01\U8bed\Uff09";
+},
+{
+"key_about" = "Chas,Chazz";
+"key_detail" = "Chaz\Uff08\U6709\U65f6\U4f5cchas\U6216Chazz\Uff09\U662f\U4e00\U4e2a\U7537\U540d\Uff0c\U6216\U6635\U79f0\Uff0c\U6700\U521d\U662fCharles\U7684\U77ed\U5199\Uff08\U7f29\U5199Chas\Uff09\U3002Charles\U6765\U81ea\U4e8eCharlemagne\Uff0c\U4e00\U4e2a\U5723\U7f57\U9a6c\U5e1d\U56fd\U56fd\U738b\U7684\U540d\U5b57\Uff0c\U8ddf\U5fb7\U8bed\U540dKarl\U6709\U5173\Uff08\U610f\U5473\U201c\U7537\U4eba\Uff09\U3002";
+"key_name" = Chaz;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U56fd\U738b\Uff0c\U6218\U58eb";
+},
+{
+"key_about" = "Carolynne,Caroline,Carolyne,Karolyn";
+"key_detail" = "\U662f\U4e2d\U4e16\U7eaa\U65f6\U671f\U7537\U6027\U4eba\U540dCarolus\U5bf9\U5e94\U7684\U5973\U6027\U82f1\U6587\U540d\U5f62\U5f0f\Uff0c\U7531\U201cCarl\U201d\U6216\U201cKarl\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U53e4\U5fb7\U8bed\U201ckarl\U201d\U4e00\U8bcd\U610f\U4e3a\U201c\U81ea\U7531\U7684\U4eba\U3002\U867d\U7136\U662f\U4e2a\U53e4\U8001\U7684\U540d\U5b57\Uff0c\U4f46\U662f\U76f8\U5f53\U6709\U97f5\U5473\U3002\U8fd9\U4e2a\U540d\U5b57\U5728\U7f8e\U56fd\U6587\U5316\U4e2d\U6709\U7740\U72ec\U7279\U7684\U4f5c\U7528\Uff0c\U7f8e\U56fd\U7684\U7ecf\U5178\U5c0f\U8bf4\U7cfb\U5217\U300a\U795e\U63a2\U5357\U831c\U300b\U7684\U4f5c\U8005\U7b14\U540d\U5c31\U53eb\U5361\U6d1b\U7433\U00b7\U57fa\U6069\Uff08CarolynKeene\Uff09\U3002";
+"key_name" = Carolyn;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "Carl\U7684\U4e00\U79cd\U53d8\U4f53\Uff0c\U610f\U4e3a\Uff1a\U81ea\U7531\U4eba\Uff08\U53e4\U9ad8\U5730\U5fb7\U8bed\Uff09\Uff1b\U540c\U4f34\Uff0c\U7537\U4eba\Uff08\U4e2d\U9ad8\U5730\U5fb7\U8bed\Uff0c\U4e2d\U53e4\U82f1\U8bed\Uff09";
+},
+{
+"key_about" = Chantelle;
+"key_detail" = "\U6765\U81ea\U4e00\U4e2a\U6cd5\U8bed\U59d3\Uff0c\U6700\U521d\U6765\U6e90\U4e8e\U4e00\U4e2a\U53ebstony\U7684\U5730\U65b9\U3002\U4e0e\U6d77\U5730\U6709\U5173\U3002\U6700\U521d\U662f\U56e0\U4e3aChantal\U7684Jeanne-Francose\U5723\U4eba\U800c\U53d8\U6210\U4e00\U4e2a\U540d\U5b57\U3002\U540e\U6765\U4e0e\U6cd5\U8bed\U8bcd\U201cchanter\U201d\U4ea7\U751f\U8054\U7cfb\Uff0c\U610f\U5473\U201c\U6b4c\U5531\U201d\U3002";
+"key_name" = Chantale;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U6b4c";
+},
+{
+"key_about" = "\U65f6\U9ae6-\U8fd9\U662f\U4e2a\U5f88\U65f6\U9ae6\U72ec\U7279\U7684\U82f1\U6587\U540d\Uff0c\U53ef\U80fd\U4e0d\U9002\U5408\U6bcf\U4e2a\U4eba\U3002\U8bf7\U8bb0\U4f4f\U5b83\U53ef\U80fd\U4f1a\U8fc7\U65f6\Uff0c\U867d\U7136\U5728\U6d41\U884c\U7684\U65f6\U5019\U4f1a\U975e\U5e38\U8131\U9896\U800c\U51fa\Uff01";
+"key_detail" = "\U82f1\U6587\U5355\U8bcd\U201ccash\U201d\U610f\U4e3a\U201c\U73b0\U91d1\U3001\U94b1\U201d\Uff0c\U6e90\U4e8e\U6cd5\U8bed\U5355\U8bcd\U201ccaisse\Uff08\U88c5\U94b1\U7684\U76d2\U5b50\Uff09\U201d\U3002\U6709\U4e00\U79cd\U8bf4\U6cd5\U662f\U8fd9\U4e2a\U8bcd\U662f\U7531\U5370\U5ea6\U8bed\U201ckaasu\U201d\U4e00\U8bcd\U6f14\U53d8\U800c\U6765\Uff0c\U610f\U4e3a\U201c\U786c\U5e01\U201d\U3002\U8fd8\U6709\U4eba\U8ba4\U4e3a\U8fd9\U540d\U5b57\U6e90\U4e8e\U7231\U5c14\U5170\U59d3\U6c0f\U201cCash\U201d\Uff0c\U6700\U521d\U6709\U4e2a\U82f1\U8bed\U59d3\U6c0f\U201cCasse\U201d\Uff0c\U662f\U5973\U6027\U540d\U201cCassandra\Uff08\U5e0c\U814a\U8bed\U4e2d\U610f\U601d\U662f\U5728\U4eba\U8eab\U4e0a\U53d1\U5149\Uff09\U201d\U7684\U6635\U79f0\U5f62\U5f0f\U3002";
+"key_name" = Cash;
+"key_words" = "\U94b1\Uff08\U82f1\U8bed\Uff09\Uff1b\U5728\U4eba\U7fa4\U4e0a\U65b9\U95ea\U8000\Uff08\U5e0c\U814a\U8bed\Uff09";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/casey1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U7531\U53e4\U65f6\U5e38\U89c1\U7684\U7231\U5c14\U5170\U76d6\U5c14\U8bed\U4eba\U540d\U201cCathasach\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U610f\U4e3a\U201c\U5145\U6ee1\U6d3b\U529b\U7684\U201d\U3002\U5728\U7231\U5c14\U5170\U5730\U533a\U5341\U5206\U7ecf\U5178\Uff0c\U800c\U4e14\U7279\U522b\U9002\U5408\U6709\U7231\U5c14\U5170\U60c5\U7f18\U7684\U4eba\U3002\U8fd9\U4e2a\U540d\U5b57\U7b80\U5355\U6613\U8bb0\Uff0c\U6709\U5f88\U591a\U4e0d\U540c\U7684\U53d8\U4f53\U5f62\U5f0f\Uff0c\U6240\U4ee5\U9002\U7528\U8303\U56f4\U7279\U522b\U5e7f\U3002\U53e6\U5916\Uff0c\U8fd9\U4e5f\U662f\U4e00\U4e2a\U7537\U5973\U7686\U5b9c\U7684\U540d\U5b57\Uff0c\U7537\U751f\U5973\U751f\U7528\U90fd\U7279\U522b\U4e0d\U9519\Uff01";
+"key_name" = Casey;
+"key_recommend" = Case;
+"key_words" = "\U8b66\U60d5";
+},
+{
+"key_about" = Cassia;
+"key_detail" = "\U7f57\U9a6c\U59d3\Uff0c\U53ef\U80fd\U6765\U6e90\U4e8e\U62c9\U4e01\U8bed\U201ccassus\U201d\Uff0c\U610f\U4e3a\U201c\U7a7a\U865a\Uff0c\U5f92\U52b3\U201d\U3002\U65e9\U671f\U8bb8\U591a\U5723\U4eba\U90fd\U662f\U8fd9\U4e2a\U540d\U5b57\U3002\U5728\U73b0\U4ee3\Uff0c\U8fd9\U662f\U62f3\U51fb\U624bMuhammadAli\Uff081942-2016)\U7684\U672c\U540d\Uff0c\U4e0e\U4ed6\U7684\U7236\U4eb2CassiusClay\U540c\U540d\U3002";
+"key_name" = Casia;
+"key_recommend" = "\U611f\U89c9\U4e0d\U50cf\U662f\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57-\U8fd9\U4e2a\U540d\U5b57\U4f3c\U4e4e\U4e0e\U5176\U4ed6\U56fd\U5bb6\U6709\U7740\U66f4\U7262\U56fa\U7684\U6e0a\U6e90\U3002\U5982\U679c\U4f60\U5728\U5bfb\U627e\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57\Uff0c\U90a3\U4e48\U8fd9\U4e0d\U662f\U6700\U597d\U7684\U9009\U62e9\U2014\U2014\U5982\U679c\U4f60\U60f3\U8981\U5728\U975e\U82f1\U8bed\U56fd\U5bb6\Uff0c\U90a3\U4e48\U5b83\U53ef\U80fd\U662f\U4f60\U7684";
+"key_words" = "\U7a7a\U7684";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/chase2.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U6e90\U4e8e\U6cd5\U8bed\Uff0c\U6700\U521d\U4f5c\U4e3a\U59d3\U6c0f\U4f7f\U7528\Uff0c\U6700\U8fd1\U8d8a\U6765\U8d8a\U591a\U5730\U7528\U4f5c\U540d\U5b57\U3002\U867d\U7136\U53ef\U80fd\U8ba9\U6709\U4e9b\U7f8e\U56fd\U4eba\U8054\U60f3\U5230\U7f8e\U56fd\U5927\U901a\U94f6\U884c\Uff08ChaseBank\Uff09\Uff0c\U4f46\U7edd\U5bf9\U662f\U4e2a\U597d\U540d\U5b57\Uff01";
+"key_name" = Chase;
+"key_words" = "\U730e\U4eba\Uff08\U6cd5\U8bed\Uff09";
+},
+{
+"key_about" = "Clawde,Cllawde,Cllaude";
+"key_detail" = "\U662f\U201cClaudius\U201d\U7684\U6cd5\U8bed\U7537\U6027\U540d\U5f62\U5f0f\Uff0c\U6e90\U4e8e\U7ecf\U5178\U7684\U53e4\U7f57\U9a6c\U59d3\U6c0f\Uff0c\U7531\U62c9\U4e01\U8bed\U6635\U79f0\U201cclaudus\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U610f\U4e3a\U201c\U7638\U817f\U7684\U201d\U3002Claudius\U59d3\U6c0f\U53ef\U8ffd\U6eaf\U5230\U516c\U5143\U524d6\U4e16\U7eaa\U7684\U8d5b\U5bbe\U4eba\Uff08\U5df2\U6d88\U5931\U7684\U53e4\U610f\U5927\U5229\U90e8\U843d\Uff0c\U51fa\U73b0\U65f6\U95f4\U751a\U81f3\U5728\U7f57\U9a6c\U5efa\U7acb\U524d\U3002\Uff09";
+"key_name" = Claude;
+"key_words" = "\U7638\U7684";
+},
+{
+"key_about" = Klaus;
+"key_detail" = "\U4e00\U4e2a\U6765\U81ea\U5fb7\U8bed\U548c\U5e0c\U814a\U8bed\U7684\U7537\U540d\U3002Claus\U7684\U610f\U601d\U662f\U201c\U80dc\U5229\U7684\U4eba\U6c11\U201d\U3002\U662fNicholas\U7684\U53d8\U5f62\Uff0c\U4ee3\U8868Niclaus\U6216\U8005Niklaus\U7684\U77ed\U5199\U3002\U5728\U7f8e\U56fd\U4e0e\U5723\U8bde\U8001\U4eba\U6709\U6e0a\U6e90\U3002";
+"key_name" = Claus;
+"key_recommend" = "\U611f\U89c9\U4e0d\U50cf\U662f\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57-\U8fd9\U4e2a\U540d\U5b57\U4f3c\U4e4e\U4e0e\U5176\U4ed6\U56fd\U5bb6\U6709\U7740\U66f4\U7262\U56fa\U7684\U6e0a\U6e90\U3002\U5982\U679c\U4f60\U5728\U5bfb\U627e\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57\Uff0c\U90a3\U4e48\U8fd9\U4e0d\U662f\U6700\U597d\U7684\U9009\U62e9\U2014\U2014\U5982\U679c\U4f60\U60f3\U8981\U5728\U975e\U82f1\U8bed\U56fd\U5bb6\Uff0c\U90a3\U4e48\U5b83\U53ef\U80fd\U662f\U4f60\U7684";
+"key_words" = "\U80dc\U5229";
+},
+{
+"key_about" = "Kristian,Christian";
+"key_detail" = "\U662f\U62c9\U4e01\U4eba\U540d\U201cChristianus\U201d\U5bf9\U5e94\U7684\U82f1\U8bed\U5973\U6027\U540d\Uff0c\U5bd3\U610f\U4e3a\U201c\U57fa\U7763\U7684\U8ffd\U968f\U8005\U201d\Uff0c\U6e90\U4e8e\U5e0c\U814a\U8bed\U201cKhristos\U201d\U4e00\U8bcd\Uff0c\U610f\U4e3a\U201c\U6d82\U6cb9\U7684\U201d\U3002\U5e0c\U4f2f\U6765\U8bed\U5723\U7ecf\U7ffb\U8bd1\U6210\U53e4\U5e0c\U814a\U8bed\U7684\U65f6\Uff0c\U201cKhristos\U201d\U4e00\U8bcd\U7528\U6765\U5bf9\U5e94\U5e0c\U4f2f\U6765\U8bed\U201cMashiah\U201d\Uff0c\U6307\U5f25\U8d5b\U4e9a\Uff08\U6551\U4e16\U4e3b\Uff09\U3002";
+"key_name" = Cristen;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U57fa\U7763\U7684\U8ffd\U968f\U8005\Uff0c\U53d7\U818f\U7684\Uff08\U57fa\U7763\U6559\U4eea\U5f0f\U4e4b\U4e00\Uff09";
+},
+{
+"key_about" = "Synthia,Cinthia,Cinnthia,Schynthia";
+"key_detail" = "\U6e90\U4e8e\U5e0c\U814a\U8bed\U5355\U8bcd\U201ckynthia\U201d\Uff0c\U610f\U4e3a\U201c\U6765\U81eaKynthos\U5c71\U7684\U5973\U4eba\U201d\U3002\U4eba\U4eec\U4e5f\U4eb2\U5207\U5730\U79f0\U5e0c\U814a\U795e\U8bdd\U4e2d\U7684\U963f\U8033\U7279\U5f25\U65af\U5973\U795e\U4e3a\U201cCynthia\U201d\Uff0c\U56e0\U4e3a\U5979\U51fa\U751f\U5728\U5e0c\U814a\U63d0\U6d1b\U5c9b\U4e0a\U7684Kynthos\U5c71\U3002";
+"key_name" = Cynthia;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "Artemis\Uff08\U963f\U8033\U7279\U5f25\U65af\Uff09\Uff0c\U5e0c\U814a\U72e9\U730e\U5973\U795e\Uff0c\U6765\U81eaKynthos\Uff08\U57fa\U8bfa\U65af\Uff09\U5c71\U7684\U5973\U4eba";
+},
+{
+"key_about" = "Katelyn,Kaitlin,Catelyn";
+"key_detail" = "\U662f\U201cCatherine\U201d\U7684\U7231\U5c14\U5170\U8bed\U62fc\U5199\U5f62\U5f0f\Uff0c\U53d1\U97f3\U4e3a\U201ccotch-leen\U201d\Uff08\U5e26\U70b9\U76d6\U5c14\U8bed\U97f3\Uff09\U3002\U4e2d\U4e16\U7eaa\U65f6\U671f\U4ee5\U8bfa\U66fc\U6cd5\U8bed\U4eba\U540d\U201cCateline\U201d\U7684\U5f62\U5f0f\U4f20\U5165\U4e0d\U5217\U98a0\U7fa4\U5c9b\U3002\U201cCatherine\U201d\U8fd9\U4e2a\U540d\U5b57\U6700\U65e9\U7684\U5f62\U5f0f\U53ef\U80fd\U662f\U5e0c\U814a\U8bed\U201cHekaterine\U201d\Uff0c\U6e90\U4e8e\U5355\U8bcd\U201chekateros\U201d\Uff0c\U610f\U4e3a\U201c\U9065\U8fdc\U7684\U3001\U6df1\U8fdc\U7684\U201d\Uff0c\U8fd9\U4e2a\U540d\U5b57\U4e0e\U5e0c\U814a\U5973\U795eHek\U00e1t\U0113(Hecate)\U540c\U6e90\U3002";
+"key_name" = Caitlin;
+"key_recommend" = "MY\U82f1\U6587\U540d\U63a8\U8350-\U8fd9\U662f\U6211\U4eec\U7edd\U5bf9\U63a8\U8350\U7684\U540d\U79f0\U3002\U5b83\U662f\U4e2a\U5f88\U7a33\U5b9a\U7684\U597d\U540d\U5b57\Uff0c\U6bcf\U4e2a\U4eba\U90fd\U8ba4\U8bc6\U5b83\Uff0c\U89c9\U5f97\U8212\U670d\Uff0c\U5728\U6240\U6709\U8bb2\U82f1\U8bed\U7684\U56fd\U5bb6\U90fd\U80fd\U5f88\U597d\U5730\U9002\U7528\Uff0c\U5e76\U4e14\U4e00\U5b9a\U80fd\U4ee3\U8868\U4f60\U7684\U4e00\U751f\Uff01";
+"key_words" = "\U7eaf\U6d01\U3001\U5929\U771f\U7684\U4eba";
+},
+{
+"key_about" = Christofe;
+"key_detail" = "\U610f\U4e3a\U201c\U7528\U80a9\U8180\U80cc\U57fa\U7763\U7684\U4eba\U201d\Uff0c\U6e90\U4e8e\U5e0c\U814a\U8bed\Uff0c\U662f\U201cChristopher\U201d\U7684\U53d8\U4f53\U5f62\U5f0f\Uff0c\U7531\U201cKhristophoros\U201d\U4e00\U8bcd\U6f14\U53d8\U800c\U6765\Uff0c\U8fd9\U4e2a\U540d\U5b57\U5728\U6709\U57fa\U7763\U6559\U4fe1\U4ef0\U7684\U4eba\U4e2d\U4e00\U76f4\U5f88\U6d41\U884c\Uff0c\U5bd3\U610f\U4e3a\U201c\U5fc3\U4e2d\U4e00\U76f4\U94ed\U8bb0\U57fa\U7763\U201d\U3002";
+"key_name" = Christophe;
+"key_recommend" = "\U65f6\U9ae6-\U8fd9\U662f\U4e2a\U5f88\U65f6\U9ae6\U72ec\U7279\U7684\U82f1\U6587\U540d\Uff0c\U53ef\U80fd\U4e0d\U9002\U5408\U6bcf\U4e2a\U4eba\U3002\U8bf7\U8bb0\U4f4f\U5b83\U53ef\U80fd\U4f1a\U8fc7\U65f6\Uff0c\U867d\U7136\U5728\U6d41\U884c\U7684\U65f6\U5019\U4f1a\U975e\U5e38\U8131\U9896\U800c\U51fa\Uff01";
+"key_words" = "\U57fa\U7763\U5f92\U7684\U627f\U53d7\U8005";
+},
+{
+"key_about" = Cohenn;
+"key_detail" = "\U6e90\U4e8e\U72b9\U592a\U59d3\U6c0f\Uff0c\U4ece\U5e0c\U4f2f\U6765\U8bed\U201ckohen\U201d\U4e00\U8bcd\U6f14\U53d8\U800c\U6765\Uff0c\U610f\U4e3a\U201c\U7267\U5e08\U3001\U795e\U7236\U201d\U3002\U8fd9\U4e2a\U540d\U5b57\U5728\U72b9\U592a\U4eba\U4e2d\U76f8\U5f53\U5e38\U89c1\Uff0c\U76f8\U5f53\U4e8e\U534e\U4eba\U7684\U201c\U5f20\U201d\U3002";
+"key_name" = Cohen;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U796d\U7940";
+},
+{
+"key_about" = Cassandra;
+"key_detail" = "\U6765\U81ea\U5e0c\U814a\U8bed\U540d\U5b57\Uff08Kassandra\Uff09\Uff0c\Uff08\U53ef\U80fd\Uff09\U6765\U6e90\U4e8e\U201ckekasmai\U201d\Uff0c\U610f\U4e3a\U201c\U95ea\U8000\U201d\U3002\U5728\U5e0c\U814a\U795e\U8bdd\U4e2d\Uff0cCanssandra\U662f\U4e00\U4f4d\U7279\U6d1b\U4f0a\U516c\U4e3b\Uff0c\U88ab\U963f\U6ce2\U7f57\U8d4b\U4e88\U9884\U8a00\U7684\U795e\U529b\U3002\U5728\U4e2d\U4e16\U7eaa\Uff0c\U8fd9\U4e2a\U540d\U5b57\U56e0\U4e3a\U8fd9\U4e2a\U6545\U4e8b\U800c\U5728\U82f1\U8bed\U56fd\U5bb6\U5f88\U53d7\U6b22\U8fce\U3002\U4e4b\U540e\U6709\U4e00\U6bb5\U65f6\U95f4\U4e0d\U5e38\U7528\Uff0c\U4f46\U572820\U4e16\U7eaa\U53c8\U88ab\U590d\U5174\U4e86\U3002";
+"key_name" = Casandra;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U9884\U8a00\U8005\Uff0c\U6210\U7ee9\U7a81\U51fa\Uff0c\U7167\U8000";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/cody1_0.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U6e90\U4e8e\U4e2d\U4e16\U7eaa\U6635\U79f0\U201cKoli\U201d\Uff0c\U7531\U7ef4\U4eac\U8bed\U6f14\U53d8\U800c\U6765\Uff0c\U6307\U5916\U5f62\U6709\U4e9b\U90e8\U4f4d\U989c\U8272\U8f83\U6df1\U7684\U4eba\Uff08\U76ae\U80a4\U9edd\U9ed1\U3001\U663e\U5f97\U9971\U7ecf\U98ce\U971c\U7b49\Uff09\U3002";
+"key_name" = Cole;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U9edd\U9ed1\U7684\Uff0c\U6df1\U8272\U76ae\U80a4";
+},
+{
+"key_about" = "Colbee,Colbie,Colbey,Cobeigh";
+"key_detail" = "\U6e90\U4e8e\U82f1\U8bed\U59d3\U6c0f\Uff0c\U6700\U5f00\U59cb\U662f\U4e2a\U5730\U540d\Uff0c\U6307\U4f4d\U4e8e\U82f1\U683c\U5170\U5a01\U65af\U7279\U6469\U5170\U90e1\U548c\U6797\U80af\U90e1\U7684ColbyNorfolk\U6751\U5e84\U3002\U8fd9\U4e9b\U6751\U5e84\U90fd\U5c5e\U4e8e\U4e00\U4e2a\U53eb\U505a\U201cKoli\U201d\U7684\U4eba\Uff0c\U56e0\U6b64\U800c\U5f97\U540d\U3002\U800c\U201cKoli\U201d\U662f\U4ece\U7ef4\U4eac\U8bed\U6f14\U53d8\U800c\U6765\U7684\U4e00\U4e2a\U6635\U79f0\Uff0c\U6307\U5916\U5f62\U6709\U4e9b\U90e8\U4f4d\U989c\U8272\U8f83\U6df1\U7684\U4eba\Uff08\U76ae\U80a4\U9edd\U9ed1\U3001\U663e\U5f97\U9971\U7ecf\U98ce\U971c\U7b49\Uff09\U3002";
+"key_name" = Colby;
+"key_words" = "\U80a4\U8272\U9edd\U9ed1\U7684\U4eba\Uff0c\U7164\U77ff\U533a";
+},
+{
+"key_about" = "Caden,Caydan,Kadyn,Kaydan";
+"key_detail" = "\U8fd9\U4e2a\U540d\U5b57\U6709\U4e24\U4e2a\U8d77\U6e90\U3002\U4f5c\U4e3a\U76d6\U5c14\U8bed\U59d3\U6c0f\U7684\U5ef6\U4f38\Uff0cMacCadain\Uff0c\U5b83\U6839\U6e90\U4e8e\U82cf\U683c\U5170\U548c\U7231\U5c14\U5170\U7684\U76d6\U5c14\U8bed\U5355\U8bcd\U00a0\U201ccadain\U201d\Uff0c\U610f\U601d\U662f\U201c\U6218\U6597\U3001\U6218\U58eb\U201d\U3002\U5b83\U4e5f\U88ab\U8ba4\U4e3a\U662fAdam\U8fd9\U4e2a\U540d\U5b57\U7684\U5ef6\U4f38\Uff0c\U5723\U7ecf\U91cc\U9762\U7684\U201c\U7b2c\U4e00\U4e2a\U7537\U4eba\U201d\Uff0c\U610f\U601d\U662f\U201c\U571f\U5730\U201d\U3002";
+"key_name" = Cayden;
+"key_recommend" = "\U65f6\U9ae6-\U8fd9\U662f\U4e2a\U5f88\U65f6\U9ae6\U72ec\U7279\U7684\U82f1\U6587\U540d\Uff0c\U53ef\U80fd\U4e0d\U9002\U5408\U6bcf\U4e2a\U4eba\U3002\U8bf7\U8bb0\U4f4f\U5b83\U53ef\U80fd\U4f1a\U8fc7\U65f6\Uff0c\U867d\U7136\U5728\U6d41\U884c\U7684\U65f6\U5019\U4f1a\U975e\U5e38\U8131\U9896\U800c\U51fa\Uff01";
+"key_words" = "\U6218\U58eb\Uff0c\U571f\U5730";
+},
+{
+"key_about" = "Cyara,Ceiara,Syara,Siara";
+"key_detail" = "\U662f\U4e2a\U7231\U5c14\U5170\U5973\U6027\U540d\Uff0c\U6e90\U4e8e\U76d6\U5c14\U8bed\U201cCiar\U00e1n\U201d\U4e00\U8bcd\Uff0c\U610f\U4e3a\U201c\U5c0f\U7684\U3001\U80a4\U8272\U6216\U53d1\U8272\U6df1\U7684\U4eba\U201d\U3002\U53e4\U65f6\U5019\U548c\U4e2d\U4e16\U7eaa\U65f6\U671f\Uff0c\U4eba\U4eec\U901a\U5e38\U4f1a\U7ed9\U6709\U6df1\U8272\U5934\U53d1\U6216\U68d5\U8272\U773c\U775b\U7b49\U7279\U8d28\U7684\U5b69\U5b50\U8d77\U540d\U4e3a\U201cCiara\U201d\U3002";
+"key_name" = Ciara;
+"key_recommend" = "\U65f6\U9ae6-\U8fd9\U662f\U4e2a\U5f88\U65f6\U9ae6\U72ec\U7279\U7684\U82f1\U6587\U540d\Uff0c\U53ef\U80fd\U4e0d\U9002\U5408\U6bcf\U4e2a\U4eba\U3002\U8bf7\U8bb0\U4f4f\U5b83\U53ef\U80fd\U4f1a\U8fc7\U65f6\Uff0c\U867d\U7136\U5728\U6d41\U884c\U7684\U65f6\U5019\U4f1a\U975e\U5e38\U8131\U9896\U800c\U51fa\Uff01";
+"key_words" = "\U5c0f\U7684\U9ed1\U6697\U7684";
+},
+{
+"key_about" = Charissa;
+"key_detail" = "\U5e0c\U814a\U8bed\U540d\U5b57\U201cChares\U201d\U7684\U5973\U540d\U30024\U4e16\U7eaa\U4e00\U4e2a\U96c5\U5178\U5c06\U519b\U5c31\U53eb\U8fd9\U4e2a\U540d\U5b57\U3002\U4e5f\U662f\U7f57\U5fb7\U65af\U5de8\U578b\U96d5\U50cf\Uff08\U4e16\U754c\U4e03\U5927\U5947\U8ff9\U4e4b\U4e00\Uff09\U7684\U96d5\U5851\U5bb6\U7684\U540d\U5b57\U3002Charis\U8fd9\U4e2a\U540d\U5b57\U572817\U4e16\U7eaa\U88ab\U5e26\U5230\U82f1\U8bed\U56fd\U5bb6\U3002";
+"key_name" = Charisa;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U4f18\U96c5\Uff0c\U5584\U826f";
+},
+{
+"key_about" = Kara;
+"key_detail" = "\U5728\U62c9\U4e01\U8bed\U548c\U610f\U5927\U5229\U8bed\U4e2d\U610f\U4e3a\U201c\U4eb2\U7231\U7684\U201d\Uff0c\U800c\U76d6\U5c14\U8bed\U610f\U4e3a\U201c\U670b\U53cb\U201d\Uff0c\U897f\U73ed\U7259\U8bed\U610f\U4e3a\U201c\U8138\U201d\U3002\U8fd9\U4e2a\U540d\U5b57\U751c\U7f8e\U7b80\U5355\Uff0c\U53d1\U97f3\U6e05\U8106\U6709\U529b\Uff0c\U542b\U4e49\U4e5f\U7279\U522b\U79ef\U6781\U5411\U4e0a\U3002\U8457\U540d\U4eba\U7269\U6709CaraDelevigne\Uff08\U7535\U5f71\U300a\U81ea\U6740\U5c0f\U961f\U300b\U5973\U4e3b\U89d2\Uff09\U548cCaraTheobold\U3002\U53d1\U97f3\U53ef\U4ee5\U662f\U201cKAR-UH\U201d\U4e5f\U53ef\U4ee5\U662f\U201cKAIR-UH\U201d\Uff0c\U603b\U4e4b\U662f\U4e2a\U7ecf\U5178\U53ef\U7231\U7684\U540d\U5b57\U3002";
+"key_name" = Cara;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U4eb2\U7231\U7684\Uff0c\U53d7\U5ba0\U7231\U7684\Uff08\U62c9\U4e01\U8bed\Uff0c\U610f\U5927\U5229\U8bed\Uff09\Uff1b\U670b\U53cb\Uff08\U76d6\U5c14\U8bed\Uff09\Uff1b\U8138\Uff08\U897f\U73ed\U7259\U8bed\Uff09";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/chandler1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U4e2a\U6e90\U4e8e\U6cd5\U8bed\U7684\U7537\U751f\U540d\Uff0c\U610f\U4e3a\U201c\U5236\U4f5c\U8721\U70db\U7684\U4eba\U201d\U3002\U5bf9\U4e8e\U7f8e\U56fd\U4eba\U548c\U5176\U4ed6\U82f1\U8bed\U56fd\U5bb6\U7684\U4eba\U6765\U8bf4\Uff0c\U6700\U719f\U6089\U7684\U201cChandler\U201d\U83ab\U8fc7\U4e8e\U7f8e\U5267\U300a\U8001\U53cb\U8bb0\U300b\U4e2d\U7684\U4eba\U7269\U94b1\U5fb7\U52d2\U3002";
+"key_name" = Chandler;
+"key_words" = "\U505a\U8721\U70db\U7684\U4eba\Uff08\U6cd5\U8bed\Uff09";
+},
+{
+"key_about" = Cliffton;
+"key_detail" = "\U6765\U81ea\U53e4\U82f1\U8bed\U4e2d\U7684\U4e00\U4e2a\U59d3\Uff0c\U539f\U610f\U662f\U4e00\U4e2a\U5730\U540d\Uff0c\U5728\U53e4\U82f1\U8bed\U4e2d\U662f\U201c\U5c71\U8fb9\U7684\U6751\U843d\U201d\U3002";
+"key_name" = Clifton;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U201c\U5c71\U5d16\U8fb9\U7684\U9547\U201d";
+},
+{
+"key_about" = "Cashten,Cashtyn,Cashtynn";
+"key_detail" = "\U662f\U82f1\U6587\U540d\U201cCash\U201d\U7684\U53d8\U4f53\U5f62\U5f0f\Uff0c\U82f1\U6587\U5355\U8bcd\U201ccash\U201d\U610f\U4e3a\U201c\U73b0\U91d1\U3001\U94b1\U201d\Uff0c\U6e90\U4e8e\U6cd5\U8bed\U5355\U8bcd\U201ccaisse\Uff08\U88c5\U94b1\U7684\U76d2\U5b50\Uff09\U201d\U3002\U6709\U4e00\U79cd\U8bf4\U6cd5\U662f\U8fd9\U4e2a\U8bcd\U662f\U7531\U5370\U5ea6\U8bed\U201ckaasu\U201d\U4e00\U8bcd\U6f14\U53d8\U800c\U6765\Uff0c\U610f\U4e3a\U201c\U786c\U5e01\U201d\U3002\U8fd8\U6709\U4eba\U8ba4\U4e3a\U8fd9\U540d\U5b57\U6e90\U4e8e\U7231\U5c14\U5170\U59d3\U6c0f\U201cCash\U201d\Uff0c\U6700\U521d\U6709\U4e2a\U82f1\U8bed\U59d3\U6c0f\U201cCasse\U201d\Uff0c\U662f\U5973\U6027\U540d\U201cCassandra\Uff08\U5e0c\U814a\U8bed\U4e2d\U610f\U601d\U662f\U5411\U4eba\U7c7b\U53d1\U5149\Uff09\U201d\U7684\U6635\U79f0\U5f62\U5f0f\U3002";
+"key_name" = Cashton;
+"key_recommend" = "\U65f6\U9ae6-\U8fd9\U662f\U4e2a\U5f88\U65f6\U9ae6\U72ec\U7279\U7684\U82f1\U6587\U540d\Uff0c\U53ef\U80fd\U4e0d\U9002\U5408\U6bcf\U4e2a\U4eba\U3002\U8bf7\U8bb0\U4f4f\U5b83\U53ef\U80fd\U4f1a\U8fc7\U65f6\Uff0c\U867d\U7136\U5728\U6d41\U884c\U7684\U65f6\U5019\U4f1a\U975e\U5e38\U8131\U9896\U800c\U51fa\Uff01";
+"key_words" = "\U94b1\Uff1b\U5728\U4eba\U7fa4\U4e0a\U65b9\U95ea\U8000";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/conrad_0.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U5fb7\U8bed\U7537\U751f\U540dKonrad\U5bf9\U5e94\U7684\U82f1\U6587\U540d\U5f62\U5f0f\Uff0c\U6e90\U4e8e\U65e5\U8033\U66fc\U8bed\U201ckuon\Uff08\U5927\U80c6\U7684\Uff09\U201d\U548c\U201crad\Uff08\U987e\U95ee\U3001\U5fe0\U544a\Uff09\U201d\Uff0c\U6574\U4e2a\U540d\U5b57\U610f\U4e3a\U201c\U52c7\U6562\U7684\U7edf\U6cbb\U8005\U201d\U3002\U5eb7\U62c9\U5fb7\U4e00\U4e16\U662f\U516c\U514310\U4e16\U7eaa\U65e9\U671f\U5fb7\U56fd\U7684\U7edf\U6cbb\U8005\Uff0c\U800c\U5eb7\U62c9\U5fb7\U4e8c\U4e16\U5219\U662f\U516c\U514311\U4e16\U7eaa\U65e9\U671f\U7f57\U9a6c\U5e1d\U56fd\U7684\U56fd\U738b\U3002";
+"key_name" = Conrad;
+"key_recommend" = Con;
+"key_words" = "\U52c7\U6562\U7684\U7edf\U6cbb\U8005";
+},
+{
+"key_about" = Charisse;
+"key_detail" = "Charise/Charis\U662f\U5e0c\U814a\U8bed\U540d\U5b57\U201cChares\U201d\U7684\U5973\U540d\U30024\U4e16\U7eaa\U4e00\U4e2a\U96c5\U5178\U5c06\U519b\U5c31\U53eb\U8fd9\U4e2a\U540d\U5b57\U3002\U4e5f\U662f\U7f57\U5fb7\U65af\U5de8\U578b\U96d5\U50cf\Uff08\U4e16\U754c\U4e03\U5927\U5947\U8ff9\U4e4b\U4e00\Uff09\U7684\U96d5\U5851\U5bb6\U7684\U540d\U5b57\U3002Charis\U8fd9\U4e2a\U540d\U5b57\U572817\U4e16\U7eaa\U88ab\U5e26\U5230\U82f1\U8bed\U56fd\U5bb6\U3002";
+"key_name" = Charise;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U4f18\U96c5\Uff0c\U5584\U826f";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/chelsea.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U4e00\U4e2a\U751c\U7f8e\U3001\U53ef\U7231\U3001\U5145\U6ee1\U9b45\U529b\U7684\U5973\U751f\U540d\Uff0c\U65e0\U8bba\U5e74\U9f84\U591a\U5927\U90fd\U80fd\U7ed9\U4eba\U4e00\U79cd\U6e29\U67d4\U7ec6\U817b\U7684\U611f\U89c9\U3002\U8457\U540d\U540c\U540d\U4eba\U7269\U6709\U8131\U53e3\U79c0\U4e3b\U6301\U4ebaChelseaHandler\U3002\U82f1\U683c\U5170\U548c\U7ebd\U7ea6\U5730\U533a\U90fd\U6709\U4e00\U4e2a\U5730\U65b9\U53eb\U201cChelsea\U201d\U3002";
+"key_name" = Chelsea;
+"key_recommend" = Chels;
+"key_words" = "\U767d\U57a9\U7801\U5934\Uff08\U53e4\U82f1\U8bed\Uff09";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/cody1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U6e90\U4e8e\U7231\U5c14\U5170\U59d3\U6c0f\Uff0c\U7531\U76d6\U5c14\U8bed\U201cOCuidighthigh\Uff08\U6307\U4e50\U4e8e\U52a9\U4eba\U7684\U4eba\Uff09\U201d\U6f14\U53d8\U800c\U6765\U3002\U4e5f\U6709\U4eba\U8ba4\U4e3a\U662f\U4ece\U65e5\U8033\U66fc\U8bed\U201cMacOda\Uff08Otto\U7684\U513f\U5b50\Uff09\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U5bd3\U610f\U201c\U7e41\U8363\U201d\U3002";
+"key_name" = Cody;
+"key_recommend" = Co;
+"key_words" = "\U52a9\U4eba\U4e3a\U4e50\U7684\Uff0c\U8d22\U4ea7";
+},
+{
+"key_about" = "Corrine,Corin";
+"key_detail" = "\U662f\U5e0c\U814a\U8bed\U201cKorinna\U201d\U7684\U540c\U6e90\U540d\Uff0c\U7531\U201cKor\U0113\Uff08\U5c11\U5973\Uff09\U201d\U6f14\U53d8\U800c\U6765\U3002\U6765\U81ea\U53e4\U5e0c\U814a\U57ce\U90a6\U7ef4\U5965\U8482\U4e9a\U7684\U4e00\U4f4d\U5973\U8bd7\U4eba\U5c31\U53ebCoryn\Uff0c\U5979\U66fe\U5728\U5e95\U6bd4\U65af\U83b7\U5f97\U6781\U9ad8\U8363\U8a89\Uff0c\U4f46\U53ea\U6709\U5f88\U5c11\U90e8\U5206\U7684\U4f5c\U54c1\U5f97\U4ee5\U4fdd\U7559\U81f3\U4eca\U3002";
+"key_name" = Coryn;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U5c11\U5973";
+},
+{
+"key_about" = "Katherine,Cathryn,Kathryn";
+"key_detail" = "\U8fd9\U4e2a\U540d\U5b57\U6700\U65e9\U7684\U5f62\U5f0f\U53ef\U80fd\U662f\U5e0c\U814a\U8bed\U201cHekaterine\U201d\Uff0c\U6e90\U4e8e\U5355\U8bcd\U201chekateros\U201d\Uff0c\U610f\U4e3a\U201c\U9065\U8fdc\U7684\U3001\U6df1\U8fdc\U7684\U201d\Uff0c\U8fd9\U4e2a\U540d\U5b57\U4e0e\U5e0c\U814a\U5973\U795eHek\U00e1t\U0113(Hecate)\U540c\U6e90\U3002\U76f4\U5230\U4e0a\U4e2a\U4e16\U7eaa70\U5e74\U4ee3\Uff0c\U6cd5\U8bed\U62fc\U5199\U5f62\U5f0f\"Catherine\"\U5728\U7f8e\U56fd\U90fd\U5341\U5206\U6d41\U884c\Uff0c\U5982\U4eca\U66f4\U4e3a\U6d41\U884c\U7684\U662f\U201cKatherine\U201d\Uff0c\U4e0d\U8fc7\U4e24\U79cd\U62fc\U5199\U90fd\U662f\U5341\U5206\U53d7\U6b22\U8fce\U7684\U5973\U6027\U82f1\U6587\U540d\U3002";
+"key_name" = Catherine;
+"key_recommend" = "MY\U82f1\U6587\U540d\U63a8\U8350-\U8fd9\U662f\U6211\U4eec\U7edd\U5bf9\U63a8\U8350\U7684\U540d\U79f0\U3002\U5b83\U662f\U4e2a\U5f88\U7a33\U5b9a\U7684\U597d\U540d\U5b57\Uff0c\U6bcf\U4e2a\U4eba\U90fd\U8ba4\U8bc6\U5b83\Uff0c\U89c9\U5f97\U8212\U670d\Uff0c\U5728\U6240\U6709\U8bb2\U82f1\U8bed\U7684\U56fd\U5bb6\U90fd\U80fd\U5f88\U597d\U5730\U9002\U7528\Uff0c\U5e76\U4e14\U4e00\U5b9a\U80fd\U4ee3\U8868\U4f60\U7684\U4e00\U751f\Uff01";
+"key_words" = "\U7eaf\U6d01\U3001\U6e05\U6f88\U3001\U5929\U771f";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/cassie_0.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "Cassie\U6765\U81eaCassandra\Uff0c\U6765\U81ea\U5e0c\U814a\U8bed\U540d\U5b57\Uff08Kassandra\Uff09\Uff0c\Uff08\U53ef\U80fd\Uff09\U6765\U6e90\U4e8e\U201ckekasmai\U201d\Uff0c\U610f\U4e3a\U201c\U95ea\U8000\U201d\U3002\U5728\U5e0c\U814a\U795e\U8bdd\U4e2d\Uff0cCanssandra\U662f\U4e00\U4f4d\U7279\U6d1b\U4f0a\U516c\U4e3b\Uff0c\U88ab\U963f\U6ce2\U7f57\U8d4b\U4e88\U9884\U8a00\U7684\U795e\U529b\U3002\U5728\U4e2d\U4e16\U7eaa\Uff0c\U8fd9\U4e2a\U540d\U5b57\U56e0\U4e3a\U8fd9\U4e2a\U6545\U4e8b\U800c\U5728\U82f1\U8bed\U56fd\U5bb6\U5f88\U53d7\U6b22\U8fce\U3002";
+"key_name" = Cassie;
+"key_recommend" = "Cass,Cas";
+"key_words" = "\U9884\U8a00";
+},
+{
+"key_about" = Chaning;
+"key_detail" = "\U6765\U6e90\U4e0d\U660e\Uff0c\U53ef\U80fd\U4e0e\U6cd5\U8bed\U201c\U8fd0\U6cb3\U201d\U6709\U5173\U7cfb\U3002\U62fc\U5199\U53ef\U4ee5\U8ffd\U6eaf\U5230\U7236\U59d3Chan\U6216Cana\U3002";
+"key_name" = Channing;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U5e7c\U72fc";
+},
+{
+"key_about" = Klinton;
+"key_detail" = "\U6700\U5f00\U59cb\U4f5c\U4e3a\U59d3\U6c0f\U4f7f\U7528\Uff0c\U6e90\U4e8e\U53e4\U82f1\U8bed\U7684\U5730\U540d\Uff0c\U610f\U4e3a\U201c\U4f4f\U5728Glyme\U6cb3\U8fb9\U4e0a\U201d\U3002\U6700\U8457\U540d\U7684\U540c\U540d\U4eba\U7269\U5c31\U662f\U7f8e\U56fd\U524d\U603b\U7edf\U6bd4\U5c14\U00b7\U514b\U6797\U987f\Uff08BillClinton1946-\Uff09\U3002";
+"key_name" = Clinton;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U5c45\U4f4f\U5730";
+},
+{
+"key_about" = "Karissa,Charissa";
+"key_detail" = "Carissa\U4e0eCharis\U6709\U8054\U7cfb\U3002\U800cCharis\U6765\U6e90\U4e8e\U5e0c\U814a\U8bed\Uff0c\U610f\U601d\U662f\U201c\U4f18\U96c5\Uff0c\U5584\U826f\U201d\U30024\U4e16\U7eaa\U4e00\U4e2a\U96c5\U5178\U5c06\U519b\U5c31\U53eb\U8fd9\U4e2a\U540d\U5b57\U3002\U4e5f\U662f\U7f57\U5fb7\U65af\U5de8\U578b\U96d5\U50cf\Uff08\U4e16\U754c\U4e03\U5927\U5947\U8ff9\U4e4b\U4e00\Uff09\U7684\U96d5\U5851\U5bb6\U7684\U540d\U5b57\U3002";
+"key_name" = Carissa;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U4f18\U96c5\Uff0c\U5584\U826f";
+},
+{
+"key_about" = Charmain;
+"key_detail" = "\U6765\U6e90\U4e0d\U660e\U3002\U53ef\U80fd\U662f\U201ccharm\U201d\U548c\U201caine\U201d\U7684\U7ed3\U5408\U3002\U53ef\U80fd\U8ddf\U62c9\U4e01\U8bed\U4e2d\U7684\U201c\U6b4c\U624b\U201d\U4e00\U8bcd\U6709\U5173\U3002\U838e\U58eb\U6bd4\U4e9a\U7684\U300a\U5b89\U4e1c\U5c3c\U4e0e\U514b\U4e3d\U5965\U4f69\U6258\U62c9\U300b\U6709\U4e00\U4e2a\U4eba\U7269\U53ebCharmian\U3002";
+"key_name" = Charmaine;
+"key_recommend" = "\U611f\U89c9\U4e0d\U50cf\U662f\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57-\U8fd9\U4e2a\U540d\U5b57\U4f3c\U4e4e\U4e0e\U5176\U4ed6\U56fd\U5bb6\U6709\U7740\U66f4\U7262\U56fa\U7684\U6e0a\U6e90\U3002\U5982\U679c\U4f60\U5728\U5bfb\U627e\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57\Uff0c\U90a3\U4e48\U8fd9\U4e0d\U662f\U6700\U597d\U7684\U9009\U62e9\U2014\U2014\U5982\U679c\U4f60\U60f3\U8981\U5728\U975e\U82f1\U8bed\U56fd\U5bb6\Uff0c\U90a3\U4e48\U5b83\U53ef\U80fd\U662f\U4f60\U7684";
+"key_words" = "\U9b45\U529b\Uff08\U542b\U4e49\U6ca1\U786e\U5b9a\Uff09";
+},
+{
+"key_about" = Coara;
+"key_detail" = "\U662f\U62c9\U4e01\U4eba\U540d\U201cCorinna\U201d\U5bf9\U5e94\U7684\U82f1\U8bed\U548c\U6cd5\U8bed\U540d\U5f62\U5f0f\Uff0c\U6e90\U4e8e\U5e0c\U814a\U4eba\U540d\U201cKorinna\U201d\Uff0c\U8bcd\U6839\U201ckore\U201d\U610f\U4e3a\U201c\U5973\U5b69\U201d\U3002\U53e4\U5e0c\U814a\U65f6\U671f\U4e00\U4f4d\U8bd7\U4eba\U540d\U53eb\U201cKorinna\U201d\Uff0c\U751a\U81f3\U5728\U57fa\U7763\U51fa\U73b0\Uff08\U516c\U5143\U524d5\U4e16\U7eaa\Uff09\U4ee5\U524d\U5c31\U5f00\U59cb\U521b\U4f5c\Uff0c\U4e0e\U5e0c\U814a\U8bd7\U4eba\U54c1\U8fbe\Uff08Pindar\Uff09\U540c\U65f6\U671f\U3002";
+"key_name" = Cora;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U5c11\U5973";
+},
+{
+"key_about" = Krosby;
+"key_detail" = "\U662f\U4e2a\U632a\U5a01Baby\U540d\Uff0c\U610f\U4e3a\U201c\U5c45\U4f4f\U5728\U5341\U5b57\U67b6\U5723\U5730\U201d\U3002";
+"key_name" = Crosby;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U5c45\U4f4f\U5728\U5728\U5723\U6bbf\U9644\U8fd1\U3001\U4ea4\U53c9";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/colton1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U6e90\U4e8e\U82f1\U8bed\U59d3\U6c0f\Uff0c\U539f\U6765\U662f\U4e2a\U5730\U540d\U6216\U6635\U79f0\U3002\U6709\U4eba\U8ba4\U4e3a\U6e90\U4e8e\U53e4\U82f1\U8bed\U5355\U8bcd\U201ccol\Uff08\U6728\U70ad\Uff09\U201d\U548c\U201ctun\Uff08\U9547\U3001\U5c45\U4f4f\U5730\Uff09\U201d\U3002\U82f1\U683c\U5170\U5730\U533a\U5e38\U7ed9\U76ae\U80a4\U9edd\U9ed1\U7684\U4eba\U8d77\U6635\U79f0\U4e3a\U201cCola\U201d\Uff08\U5c31\U662f\U201c\U53ef\U4e50\U201d\Uff01\Uff09";
+"key_name" = Colton;
+"key_recommend" = Colt;
+"key_words" = "\U4ea7\U77ff\U5c0f\U9547\Uff0c\U76ae\U80a4\U9edd\U9ed1\U7684\U4eba";
+},
+{
+"key_about" = "\U65e0";
+"key_detail" = "Claudette\U662fClaudius\U7684\U5973\U540d\U548c\U6635\U79f0\U3002Claudius\U662f\U4e00\U4e2a\U7f57\U9a6c\U5f88\U91cd\U8981\U7684\U8d35\U65cf\U5bb6\U5ead\U7684\U540d\U5b57\U3002\U636e\U8bf4\U5bb6\U65cf\U7684\U7956\U5148\U662f\U516d\U4e16\U7eaa\U7684\U8428\U5bbe\U9886\U5bfc\U8005AttiusClausus\Uff0c\U5728\U83b7\U5f97\U7f57\U9a6c\U516c\U6c11\U8d44\U683c\U4e4b\U540e\U6539\U540dAttiusClaudius\U3002\U8fd9\U4e2a\U5bb6\U5ead\U8bde\U751f\U4e86\U591a\U540d\U7b2c\U4e00\U4e16\U7eaa\U7684\U7f57\U9a6c\U5e1d\U738b\U3002";
+"key_name" = Claudette;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U53e4\U4ee3\U59d3\U6c0f\Uff0c\U201c\U6b8b\U75be\U4eba\U201d";
+},
+{
+"key_about" = "Ceril,Cyrill,Curil,Syril";
+"key_detail" = "\U7531\U53e4\U5e0c\U814a\U4eba\U540d\U201cK\U00fdrillos\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U6e90\U4e8e\U201ckurios\U3001Kurillos\U201d\Uff0c\U610f\U4e3a\U201c\U4e0a\U5e1d\U3001\U4e3b\U4eba\U3001\U5b88\U62a4\U8005\U3001\U7edf\U6cbb\U8005\U3001\U4e3b\U4eba\U3001\U6709\U6743\U529b\U7684\U4eba\U201d\U3002";
+"key_name" = Cyril;
+"key_recommend" = "\U8fc7\U65f6\U7684-\U867d\U7136\U6709\U4e9b\U540d\U5b57\U4f1a\U65f6\U800c\U6d41\U884c\U65f6\U800c\U8fc7\U65f6\Uff0c\U4f46\U8fd9\U4e2a\U540d\U5b57\U5728\U51e0\U5341\U5e74\U6765\U5e76\U4e0d\U6d41\U884c\U3002\U5b83\U611f\U89c9\U8fc7\U65f6\U4e86\Uff0c\U4e0d\U6d41\U884c\Uff0c\U6211\U4eec\U4e0d\U5efa\U8bae\U7528\U8fd9\U4e2a\U4f5c\U4e3a\U4f60\U7684\U82f1\U6587\U540d\U5b57\U3002";
+"key_words" = "\U5b88\U671b\U8005\Uff0c\U7edf\U6cbb\U8005\Uff0c\U6240\U6709\U8005\Uff0c\U7edf\U6cbb\Uff0c\U638c\U6743";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/cooper1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U6700\U5f00\U59cb\U4f5c\U4e3a\U82f1\U8bed\U59d3\U6c0f\U4f7f\U7528\Uff0c\U539f\U6307\U4ece\U4e8b\U67d0\U79cd\U804c\U4e1a\U7684\U4eba\U3002\U4e2d\U4e16\U7eaa\U65f6\U671f\Uff0c\U201ccupere\U201d\U6307\U5236\U4f5c\U6728\U8239\U6216\U6728\U6876\U7684\U4eba\Uff0c\U6e90\U4e8e\U4e2d\U53e4\U4f4e\U5730\U5fb7\U8bed\U201ckupe\Uff08\U6728\U6876\U3001\U5bb9\U5668\Uff09\U201d\U3002\U4e2d\U4e16\U7eaa\U65f6\U671f\Uff0c\U5728\U82f1\U683c\U5170\U5730\U533a\Uff0c\U4eba\U4eec\U7528\U201ccooper\U201d\U6307\U5236\U4f5c\U6728\U6876\U6216\U9152\U6876\U7684\U4eba\U3002";
+"key_name" = Cooper;
+"key_recommend" = Coop;
+"key_words" = "\U6728\U6876\U5de5\U5320";
+},
+{
+"key_about" = "Calan,Callann";
+"key_detail" = "\U662f\U7531\U59d3\U6c0f\U201cCallen\U201d\U548c\U201cCallan\U201d\U65b0\U53d1\U5c55\U800c\U6765\U7684\U7537\U6027\U82f1\U6587\U540d\Uff0c\U539f\U578b\U4e3a\U53e4\U7231\U5c14\U5170\U90e8\U843d\U540d\U201cCathgalain\U201d\Uff0c\U6e90\U4e8e\U7531\U76d6\U5c14\U8bed\U5355\U8bcd\U201ccath\Uff08\U6218\U6597\Uff09\U201d\U548c\U201cgal\Uff08\U52c7\U6562\Uff09\U201d\U7ec4\U5408\U800c\U6210\U3002";
+"key_name" = Callan;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U52c7\U6562\U7684\U5c0f\U6218\U58eb";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/clara.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U4e2a\U62c9\U4e01\U540d\Uff0c\U5e38\U5e38\U7528\U4e8e\U5a74\U513f\U540d\Uff0c\U7531\U62c9\U4e01\U5f62\U5bb9\U8bcd\U201cclarus\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U610f\U4e3a\U201c\U660e\U4eae\U3001\U6e05\U6f88\U3001\U7a81\U51fa\U201d\U3002\U8457\U540d\U540c\U540d\U4eba\U7269\U6709\U5723\U4ebaSt.Clare\Uff08\U4e5f\U62fc\U5199\U4e3aClara\Uff09\U3002";
+"key_name" = Clara;
+"key_recommend" = Clar;
+"key_words" = "\U6e05\U695a\Uff0c\U660e\U4eae";
+},
+{
+"key_about" = "\U65e0";
+"key_detail" = "\U4e0d\U80fd\U7b97\U662f\U6b63\U5f0f\U7684\U540d\U5b57\Uff0c\U6240\U4ee5\U6ca1\U6709\U5173\U4e8e\U6765\U6e90\U7684\U4fe1\U606f\U3002\U542c\U8d77\U6765\U50cf\U662fClancy\Uff0c\U610f\U601d\U662f\U6218\U58eb\Uff0c\U6765\U81ea\U4e8e\U7231\U5c14\U5170\U3002\U4f46\U662fClany\U6ca1\U6709\U4efb\U4f55\U610f\U601d\U3002";
+"key_name" = Clany;
+"key_recommend" = "\U611f\U89c9\U4e0d\U50cf\U662f\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57-\U8fd9\U4e2a\U540d\U5b57\U4f3c\U4e4e\U4e0e\U5176\U4ed6\U56fd\U5bb6\U6709\U7740\U66f4\U7262\U56fa\U7684\U6e0a\U6e90\U3002\U5982\U679c\U4f60\U5728\U5bfb\U627e\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57\Uff0c\U90a3\U4e48\U8fd9\U4e0d\U662f\U6700\U597d\U7684\U9009\U62e9\U2014\U2014\U5982\U679c\U4f60\U60f3\U8981\U5728\U975e\U82f1\U8bed\U56fd\U5bb6\Uff0c\U90a3\U4e48\U5b83\U53ef\U80fd\U662f\U4f60\U7684";
+"key_words" = "\U6ca1\U6709\U91ca\U4e49";
+},
+{
+"key_about" = "\U65e0";
+"key_detail" = "\U6765\U81ea\U4e8e\U7f57\U9a6c\U8bed\U540d\U5b57Caecilius\U3002\U662f\U4e09\U4e16\U7eaa\U4e00\U4e2a\U5723\U4eba\U7684\U540d\U5b57\U3002\U5728\U4e2d\U4e16\U7eaa\U7531\U6cd5\U56fd\U4eba\U5e26\U5165\U82f1\U56fd\Uff0c\U4e00\U76f4\U523019\U4e16\U7eaa\U624d\U56e0\U4e3aCecil\Uff08\U585e\U897f\U5c14\Uff09\U5bb6\U65cf\U53d8\U5f97\U5e38\U7528\U3002\U6700\U6709\U540d\U7684Cecil\U662fCecilRhodes\Uff0c\U65e7\U6d25\U5df4\U5e03\U97e6\U5c31\U662f\U4ee5Rhodeisa\U547d\U540d\U3002";
+"key_name" = Cecil;
+"key_recommend" = "\U8fc7\U65f6\U7684-\U867d\U7136\U6709\U4e9b\U540d\U5b57\U4f1a\U65f6\U800c\U6d41\U884c\U65f6\U800c\U8fc7\U65f6\Uff0c\U4f46\U8fd9\U4e2a\U540d\U5b57\U5728\U51e0\U5341\U5e74\U6765\U5e76\U4e0d\U6d41\U884c\U3002\U5b83\U611f\U89c9\U8fc7\U65f6\U4e86\Uff0c\U4e0d\U6d41\U884c\Uff0c\U6211\U4eec\U4e0d\U5efa\U8bae\U7528\U8fd9\U4e2a\U4f5c\U4e3a\U4f60\U7684\U82f1\U6587\U540d\U5b57\U3002";
+"key_words" = "\U5931\U660e\U7684";
+},
+{
+"key_about" = "Cassanndra,Caszandra";
+"key_detail" = "\U662f\U5e0c\U814a\U795e\U8bdd\U4e2d\U7684\U540d\U5b57\Uff0c\U6e90\U4e8e\U5e0c\U814a\U5355\U8bcd\U201ckekasmai\U201d\U548c\U201caner\U201d\Uff0c\U610f\U4e3a\U201c\U5411\U4eba\U7c7b\U53d1\U5149\U201d\Uff0c\U4e5f\U6709\U201c\U8d4b\U4e88\U4eba\U7c7b\U4ee5\U7231\U201d\U7684\U610f\U601d\U3002\U5e0c\U814a\U795e\U8bdd\U4e2d\Uff0cCassandra\U662f\U4f4d\U516c\U4e3b\Uff0c\U662f\U7279\U6d1b\U4f0a\U53e4\U57ce\U7edf\U6cbb\U8005\U666e\U91cc\U963f\U6469\U738b\U7684\U5973\U513f\U3002";
+"key_name" = Cassandra;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U5728\U4eba\U7fa4\U4e0a\U65b9\U95ea\U8000";
+},
+{
+"key_about" = Crista;
+"key_detail" = "Christa\U662f\U4e00\U4e2a\U5973\U540d\Uff0c\U6765\U81ea\U4e8e\U5e0c\U814a\U8bed\U201cChristos\U201d\Uff0c\U610f\U601d\U662f\U201c\U88ab\U9009\U4e2d\U7684\U201d\Uff0c\U4e5f\U662f\U57fa\U7763\U6559\U7684\U540d\U5b57\U3002\U82f1\U8bed\U4e2d\U975e\U5e38\U5c11\U89c1\Uff0c\U5728\U745e\U5178\Uff0c\U82ac\U5170\Uff0c\U632a\U5a01\Uff0c\U4e39\U9ea6\U548c\U5fb7\U56fd\U66f4\U5e38\U89c1\U3002";
+"key_name" = Christa;
+"key_recommend" = "\U65f6\U9ae6-\U8fd9\U662f\U4e2a\U5f88\U65f6\U9ae6\U72ec\U7279\U7684\U82f1\U6587\U540d\Uff0c\U53ef\U80fd\U4e0d\U9002\U5408\U6bcf\U4e2a\U4eba\U3002\U8bf7\U8bb0\U4f4f\U5b83\U53ef\U80fd\U4f1a\U8fc7\U65f6\Uff0c\U867d\U7136\U5728\U6d41\U884c\U7684\U65f6\U5019\U4f1a\U975e\U5e38\U8131\U9896\U800c\U51fa\Uff01";
+"key_words" = "\U5929\U9009\U4e4b\U5b50\Uff0c\U57fa\U7763\U6559\U5f92";
+},
+{
+"key_about" = Konan;
+"key_detail" = "\U610f\U4e3a\U201c\U5c0f\U72fc\U201d\U3001\U201c\U5c0f\U730e\U72ac\U201d\Uff0c\U7531\U7231\U5c14\U5170\U8bed\U201cc\U00fa\Uff08\U72fc\U3001\U730e\U72ac\Uff09\U201d\U548c\U8868\U793a\U6635\U79f0\U7684\U540e\U7f00\U7ec4\U6210\U3002\U4e5f\U662f\U51ef\U5c14\U7279\U8bedBaby\U540d\Uff0c\U610f\U4e3a\U201c\U9ad8\U3001\U667a\U6167\U201d\U3002";
+"key_name" = Conan;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U5c0f\U72fc\U3001\U9ad8\U3001\U667a\U6167";
+},
+{
+"key_about" = "Caen,Cayn,Caynn";
+"key_detail" = "\U8fd9\U4e2a\U540d\U5b57\U4f1a\U8ba9\U4eba\U8054\U60f3\U5230\U5723\U7ecf\U4eba\U7269Cain\U2014\U2014\U8be5\U9690\Uff0c\U4e9a\U5f53\U4e4b\U5b50\U3002\U540c\U65f6\U8fd8\U7528\U4f5c\U59d3\U6c0f\Uff0c\U6e90\U4e8e\U82cf\U683c\U5170\U8bed\U3001\U82f1\U8bed\U548c\U8bfa\U66fc\U8bed\U3002";
+"key_name" = Cain;
+"key_words" = "\U88ab\U521b\U9020\U7684\U4eba\Uff0c\U94c1\U5320";
+},
+{
+"key_about" = Clif;
+"key_detail" = "Cliff\U662fClifton\U6216\U8005Clifford\U7684\U77ed\U5199\U3002Clifford\U6765\U81ea\U53e4\U82f1\U8bed\U7684\U201c\U5c71\U8fb9\U7684\U6cb3\U201d\Uff0cClifton\U6765\U81ea\U53e4\U82f1\U8bed\U201c\U5c71\U8fb9\U7684\U9547\U201d\U3002\U5f88\U6709\U540d\U7684\U4f8b\U5b50\U662f50\U5e74\U4ee3\U82f1\U56fd\U6b4c\U624bCliffRichard";
+"key_name" = Cliff;
+"key_recommend" = "MY\U82f1\U6587\U540d\U63a8\U8350-\U8fd9\U662f\U6211\U4eec\U7edd\U5bf9\U63a8\U8350\U7684\U540d\U79f0\U3002\U5b83\U662f\U4e2a\U5f88\U7a33\U5b9a\U7684\U597d\U540d\U5b57\Uff0c\U6bcf\U4e2a\U4eba\U90fd\U8ba4\U8bc6\U5b83\Uff0c\U89c9\U5f97\U8212\U670d\Uff0c\U5728\U6240\U6709\U8bb2\U82f1\U8bed\U7684\U56fd\U5bb6\U90fd\U80fd\U5f88\U597d\U5730\U9002\U7528\Uff0c\U5e76\U4e14\U4e00\U5b9a\U80fd\U4ee3\U8868\U4f60\U7684\U4e00\U751f\Uff01";
+"key_words" = "\U201c\U5c71\U5d16\U8fb9\U201d";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/collin1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U76d6\U5c14\U8bed\U4eba\U540d\U201cColin\U201d\U7684\U53e6\U4e00\U79cd\U62fc\U5199\U59d3\U6c0f\U3002\U5728\U82cf\U683c\U5170\U5730\U533a\Uff0c\U8fd9\U4e2a\U540d\U5b57\U6e90\U4e8e\U76d6\U5c14\U8bed\U201ccailean\U201d\U4e00\U8bcd\Uff0c\U610f\U4e3a\U201c\U5e7c\U5d3d\U3001\U5e74\U8f7b\U7684\U201d\U3002\U4e5f\U6709\U53e6\U4e00\U79cd\U8bf4\U6cd5\U8ba4\U4e3a\U8fd9\U540d\U5b57\U53ef\U80fd\U6e90\U4e8e\U201ccoll\U201d\Uff08\U9ad8\U7684\U3001\U9996\U9886\Uff09\U3002";
+"key_name" = Collin;
+"key_recommend" = Coll;
+"key_words" = "\U5e7c\U5d3d\Uff0c\U9ad8\Uff0c\U5e74\U8f7b\U4eba";
+},
+{
+"key_about" = "Clide,Cllyde,Clliede";
+"key_detail" = "\U53ef\U80fd\U662f\U6e90\U4e8e\U5e03\U5229\U541e\U8bed\U201cclota\U201d\U4e00\U8bcd\Uff0c\U662f\U51ef\U5c14\U7279\U6bcd\U4eb2\U5973\U795e\U548c\U6c34\U795e\U7684\U540d\U5b57\Uff0c2000\U5e74\U524d\U514b\U83b1\U5fb7\U6cb3\U7684\U5b88\U62a4\U8005\Uff08\U5e03\U5229\U541e\U4eba\U5c5e\U4e8e\U51ef\U5c14\U7279\U4eba\Uff0c\U4f46\U8bed\U76d6\U5c14\U4eba\U7b49\U5c5e\U4e0d\U540c\U90e8\U843d\Uff09\U3002\U8fd8\U6709\U4eba\U8ba4\U4e3a\U201cclota\U201d\U610f\U4e3a\U201c\U8457\U540d\U7684\U4eba\U201d\U6216\U201c\U51c0\U5316\U7684\U4eba\U201d\U3002";
+"key_name" = Clyde;
+"key_words" = "\U51fa\U540d\U7684\Uff0c\U51c0\U5316\U7684\U4eba";
+},
+{
+"key_about" = "Crayg,Craeg";
+"key_detail" = "\U662f\U4e2a\U53e4\U82cf\U683c\U5170\U6635\U79f0\Uff0c\U6e90\U4e8e\U76d6\U5c14\U8bed\U201ccarraig\U201d\Uff0c\U610f\U4e3a\U201c\U5ca9\U77f3\U3001\U5ced\U58c1\U201d\Uff0c\U540e\U6765\U8fd8\U53d1\U5c55\U6210\U4e3a\U59d3\U6c0f\Uff0c\U539f\U610f\U662f\U67d0\U79cd\U5730\U5f62\U7279\U5f81\Uff0c\U6307\U5c45\U4f4f\U5728\U5ca9\U77f3\U5ced\U58c1\U9644\U8fd1\U7684\U4eba\U3002";
+"key_name" = Craig;
+"key_words" = "\U5ca9\U77f3\Uff0c\U5ced\U58c1";
+},
+{
+"key_about" = "Corrine,Korinne";
+"key_detail" = "\U662f\U62c9\U4e01\U4eba\U540d\U201cCorinna\U201d\U4e00\U540d\U7684\U82f1\U8bed\U6216\U6cd5\U8bed\U540d\U5f62\U5f0f\Uff0c\U6e90\U4e8e\U5e0c\U814a\U4eba\U540d\U201cKorinna\U201d\Uff0c\U201ckore\U201d\U610f\U4e3a\U201c\U5973\U5b69\U201d\U3002\U53e4\U5e0c\U814a\U65f6\U671f\U4e00\U4f4d\U8bd7\U4eba\U540d\U53eb\U201cKorinna\U201d\Uff0c\U751a\U81f3\U5728\U57fa\U7763\U51fa\U73b0\Uff08\U516c\U5143\U524d5\U4e16\U7eaa\Uff09\U4ee5\U524d\U5c31\U5f00\U59cb\U521b\U4f5c\Uff0c\U4e0e\U5e0c\U814a\U8bd7\U4eba\U54c1\U8fbe\Uff08Pindar\Uff09\U540c\U65f6\U671f\U3002";
+"key_name" = Corinne;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U5c11\U5973";
+},
+{
+"key_about" = "Caedennce,Kadence,Cadense";
+"key_detail" = "\U8fd9\U4e2a\U5973\U6027\U82f1\U6587\U540d\U7ed9\U4eba\U65e0\U9650\U7f8e\U4e3d\U548c\U6e29\U6696\U7684\U611f\U89c9\Uff0c\U6e90\U4e8e\U62fc\U5199\U76f8\U540c\U7684\U82f1\U6587\U5355\U8bcd\U201ccadence\U201d\Uff0c\U610f\U4e3a\U201c\U8282\U594f\U3001\U97f5\U5f8b\U201d\Uff0c\U662f\U4e2a\U5f88\U6709\U97f3\U4e50\U611f\U7684\U540d\U5b57\U3002\U867d\U7136\U8fd9\U4e2a\U540d\U5b57\U5e76\U4e0d\U5e38\U89c1\Uff0c\U4f46\U5728\U6700\U8fd1\U5341\U5e74\U6d41\U884c\U5ea6\U5927\U589e\U3002";
+"key_name" = Cadence;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U8282\U594f\Uff1b\U6d41\U52a8\Uff08\U82f1\U8bed\Uff09";
+},
+{
+"key_about" = Caspar;
+"key_detail" = "\U6765\U81ea\U62c9\U4e01\U8bedGaspar\Uff0c\Uff08\U53ef\U80fd\U6765\U6e90\U4e8e\U5723\U7ecf\U5e0c\U4f2f\U6765\U8bed\U8bcdgizbar\Uff0c\U610f\U4e3a\U201c\U73cd\U5b9d\U201d\Uff09\U548c\U6ce2\U65af\U8bedganzabara\U3002\U662f\U4e1c\U65b9\U4e09\U535a\U58eb\U4e4b\U4e00\U7684\U540d\U5b57\U3002\U4e2d\U4e16\U7eaa\U4ee5\U6765\U65f6\U4e0d\U65f6\U5728\U82f1\U8bed\U56fd\U5bb6\U88ab\U4f7f\U7528\U3002Jasper\U4e5f\U662f\U6c34\U82cd\U7389\U7684\U610f\U601d\U3002";
+"key_name" = Casper;
+"key_recommend" = "\U8fc7\U65f6\U7684-\U867d\U7136\U6709\U4e9b\U540d\U5b57\U4f1a\U65f6\U800c\U6d41\U884c\U65f6\U800c\U8fc7\U65f6\Uff0c\U4f46\U8fd9\U4e2a\U540d\U5b57\U5728\U51e0\U5341\U5e74\U6765\U5e76\U4e0d\U6d41\U884c\U3002\U5b83\U611f\U89c9\U8fc7\U65f6\U4e86\Uff0c\U4e0d\U6d41\U884c\Uff0c\U6211\U4eec\U4e0d\U5efa\U8bae\U7528\U8fd9\U4e2a\U4f5c\U4e3a\U4f60\U7684\U82f1\U6587\U540d\U5b57\U3002";
+"key_words" = "\U85cf\U5b9d\U4eba";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/callie.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U201cCalista\U201d\U7684\U6635\U79f0\U5f62\U5f0f\Uff0c\U6765\U6e90\U53ef\U80fd\U6709\U4e24\U4e2a\Uff08\U5e0c\U814a\U8bed\U548c\U62c9\U4e01\U8bed\Uff09\U3002\U5e0c\U814a\U8bed\U5355\U8bcd\U201ckallista\U201d\U610f\U4e3a\U201c\U6700\U7f8e\U7684\U201d\Uff0c\U4e5f\U6709\U4eba\U8ba4\U4e3a\U8fd9\U540d\U5b57\U6e90\U4e8e\U62c9\U4e01\U7537\U6027\U4eba\U540d\U201cCalixtus\U201d\Uff0c\U8bcd\U6839\U201ccalix\U201d\U610f\U4e3a\U201c\U676f\U5b50\U201d\U3002\U5e0c\U814a\U8bed\U201ckallista\U201d\U5f88\U53ef\U80fd\U4e0e\U5973\U795eCallisto\U6709\U5173\U3002";
+"key_name" = Callie;
+"key_recommend" = Cal;
+"key_words" = "\U7f8e\U4e3d\U7684(\U5e0c\U814a\U8bed)\Uff0c\U5361\U6d1b\U7433\Uff08Caroline\Uff09\U7684\U7f29\U5199";
+},
+{
+"key_about" = "\U65e0";
+"key_detail" = "\U62c9\U4e01\U6587\U201cClemens\U201d\Uff08\U6216\U8005clementius\Uff09\U7684\U82f1\U8bed\U53d8\U5f62\Uff0c\U610f\U4e3a\U6148\U60b2\Uff0c\U6e29\U67d4\U300214\U4e2a\U6559\U7687\U90fd\U66fe\U7528\U8fd9\U4e2a\U540d\U5b57\Uff0c\U5305\U62ec\U7b2c\U4e09\U4ee3\U6559\U7687\Uff0c\U8fd8\U6709\U4e9a\U5386\U5c71\U5927\U57ce\U6559\U7236\Uff08\U4e09\U4e16\U7eaa\U4e00\U4f4d\U7406\U8bba\U5bb6\U548c\U6559\U7236\Uff0c\U66fe\U8bd5\U56fe\U5c06\U57fa\U7763\U6559\U548c\U5176\U4ed6\U6c11\U95f4\U54f2\U5b66\U5408\U4f53\Uff09\U5f88\U65e9\U5c31\U5728\U57fa\U7763\U6559\U6b27\U6d32\U662f\U5e38\U7528\U7684\U540d\U5b57\Uff0c\U5b97\U6559\U6539\U9769\U4e4b\U540e\U5c31\U53d8\U5f97\U5c11\U89c1\U4e86\U3002";
+"key_name" = Clement;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U6148\U60b2\U7684\Uff0c\U6e29\U67d4\U7684";
+},
+{
+"key_about" = Cheienne;
+"key_detail" = "\U6e90\U4e8e\U8fbe\U79d1\U4ed6\U5730\U533a\U5370\U7b2c\U5b89\U8bed\U201cshaiyena\U201d\Uff0c\U7531\U201cShaia\Uff08\U8bf4\U8bdd\U6666\U6da9\U542b\U7cca\Uff09\U201d\U4e00\U8bcd\U6f14\U53d8\U800c\U6765\U3002\U4e5f\U6709\U4e00\U4e2a\U5370\U7b2c\U5b89\U90e8\U843d\U5c31\U53eb\U8fd9\U4e2a\U540d\U5b57\Uff0c\U540c\U65f6\U8fd8\U4f1a\U6cb3\U6d41\U3001\U57ce\U5e02\U7684\U540d\U5b57\Uff08\U4ece\U8fd9\U4e2a\U90e8\U843d\U7684\U540d\U5b57\U5ef6\U4f38\U800c\U6765\U7684\Uff09\U3002\U4e0a\U4e2a\U4e16\U7eaa90\U5e74\U4ee3\U8d77\U5f00\U59cb\U4f5c\U4e3a\U5973\U751f\U540d\U6d41\U884c\U8d77\U6765\U3002";
+"key_name" = Cheyenne;
+"key_words" = "\U4e0d\U8fde\U8d2f\U5730\U8bf4\Uff08\U5370\U7b2c\U5b89\U4eba\U8bed)";
+},
+{
+"key_about" = Collette;
+"key_detail" = "\U662f\U201cNicole\U201d\U7684\U6635\U79f0\U201cNicolette\U201d\U7684\U7b80\U5199\U5f62\U5f0f\Uff0c\U800c\U201cNicolette\U201d\U662f\U201cNicolas\Uff08\U4eba\U6c11\U7684\U80dc\U5229\Uff09\U201d\U5bf9\U5e94\U7684\U5973\U751f\U540d\U3002\U8457\U540d\U540c\U540d\U4eba\U7269\U6709\U516c\U514315\U4e16\U7eaa\U4e13\U95e8\U6551\U6d4e\U7a77\U4eba\U7684\U5973\U50e7\U4eba\U3001\U5723\U4ebaColette\U3002";
+"key_name" = Colette;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U80dc\U5229";
+},
+{
+"key_about" = "Kris,Chrys";
+"key_detail" = "\U867d\U7136\U8fd9\U4e2a\U540d\U5b57\U6d41\U884c\U5ea6\U5df2\U6709\U6240\U4e0b\U964d\Uff0c\U4f46\U4ecd\U7136\U662f\U5f88\U5e38\U89c1\U7684\U5355\U97f3\U8282\U7537\U751f\U540d\Uff0c\U6709\U65f6\U5019\U4e5f\U53ef\U4ee5\U4f5c\U4e3a\U5973\U751f\U6635\U79f0\U4f7f\U7528\U3002\U540c\U540d\U4eba\U7269\U6709\U96f7\U795e\U626e\U6f14\U8005\U514b\U91cc\U65af\U00b7\U6d77\U59c6\U65af\U6c83\U65af\Uff08ChrisHemsworth\Uff09\Uff0c\U4ee5\U53ca\U7f8e\U56fd\U559c\U5267\U6f14\U5458\U514b\U91cc\U65af\U00b7\U6d1b\U514b\Uff08ChrisRock\Uff09\U3002";
+"key_name" = Chris;
+"key_words" = "\U57fa\U7763\U5f92\Uff0cChrist\U7684\U8ffd\U968f\U8005\Uff08\U5e0c\U814a\U8bed\Uff09\Uff0cChristopher,Christine,\U548cChristina\U7684\U53d8\U4f53";
+},
+{
+"key_about" = Karmen;
+"key_detail" = "\U6e90\U4e8e\U5e0c\U4f2f\U6765\U4eba\U540d\U201cCarmel\U201d\Uff0c\U5728\U897f\U73ed\U7259\U8bed\U4e2d\U201ccarmen\U201d\U4e00\U8bcd\U610f\U4e3a\U201c\U8461\U8404\U7259\U3001\U82b1\U56ed\U201d\U3002\U201cCarmen\U201d\U4e5f\U662f\U4e54\U6cbb\U00b7\U6bd4\U624d1875\U5e74\U521b\U4f5c\U7684\U4f5c\U54c1\U300aCarmen\U300b\U4e2d\U7684\U4e3b\U8981\U4eba\U7269\U3002\U8fd9\U4e2a\U540d\U5b57\U5e26\U6709\U62c9\U4e01\U548c\U6b27\U6d32\U97f5\U5473\Uff0c\U5728\U82f1\U8bed\U56fd\U5bb6\U4e5f\U540c\U6837\U53d7\U6b22\U8fce\U3002";
+"key_name" = Carmen;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U6b4c\U66f2\Uff0c\U8bd7\U6b4c\Uff08\U62c9\U4e01\U8bed\Uff09\Uff1b\U8461\U8404\U56ed\U6216\U82b1\U56ed\Uff08\U897f\U73ed\U7259\U8bed\Uff09";
+},
+{
+"key_about" = "Casen,Casyn,Cayson";
+"key_detail" = "\U8fd9\U662f\U7f8e\U56fd\U4eba\U572821\U4e16\U7eaa\U65b0\U521b\U9020\U7684\U4e00\U4e2a\U540d\U5b57\Uff0c\U7075\U611f\U5f88\U53ef\U80fd\U6765\U6e90\U4e8e\U53d1\U97f3\U76f8\U4f3c\U4e14\U5341\U5206\U6d41\U884c\U7684\U201cJason\U201d\U3001\U201cMason\U201d\U7b49\U4eba\U540d\Uff0c\U4e5f\U53ef\U80fd\U662f\U201cCarson\U201d\U3001\U201cCasey\U201d\U7684\U53d8\U4f53\U5f62\U5f0f\U3002\U867d\U7136\U662f\U65b0\U540d\U5b57\Uff0c\U4f46\U81ea2002\U5e74\U4ee5\U6765\U4f7f\U7528\U7a0b\U5ea6\U6709\U6240\U4e0a\U5347\Uff0c\U6210\U7ee9\U53ef\U8c13\U76f8\U5f53\U4e0d\U9519\U3002";
+"key_name" = Cason;
+"key_recommend" = "\U65f6\U9ae6-\U8fd9\U662f\U4e2a\U5f88\U65f6\U9ae6\U72ec\U7279\U7684\U82f1\U6587\U540d\Uff0c\U53ef\U80fd\U4e0d\U9002\U5408\U6bcf\U4e2a\U4eba\U3002\U8bf7\U8bb0\U4f4f\U5b83\U53ef\U80fd\U4f1a\U8fc7\U65f6\Uff0c\U867d\U7136\U5728\U6d41\U884c\U7684\U65f6\U5019\U4f1a\U975e\U5e38\U8131\U9896\U800c\U51fa\Uff01";
+"key_words" = "\U65b0\U521b\U7684\U540d\U5b57\Uff0c\U6ca1\U6709\U5177\U4f53\U7684\U542b\U4e49";
+},
+{
+"key_about" = Caroll;
+"key_detail" = "\U8d77\U6e90\U8bf4\U6cd5\U6709\U4e24\U4e2a\U3002\U6709\U4eba\U8ba4\U4e3a\U662f\U6cd5\U8bed\U5973\U6027\U540d\U201cCaroline\U201d\U7684\U7b80\U5199\U5f62\U5f0f\U3002\U800c\U201cCaroline\U201d\U7684\U539f\U578b\U662f\U201cCarolus\U201d\Uff0c\U7531\U201cCarl\U201d\U6216\U201cKarl\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U53e4\U5fb7\U8bed\U201ckarl\U201d\U4e00\U8bcd\U610f\U4e3a\U201c\U81ea\U7531\U7684\U4eba\U201d\U3002\U5f53\U4eca\Uff0c\U8fd9\U4e2a\U540d\U5b57\U8fd8\U6709\U201c\U6b22\U5feb\U7684\U6b4c\U66f2\U201d\U7684\U610f\U601d\Uff0c\U5728\U82f1\U8bed\U56fd\U5bb6\U6700\U4e3a\U8457\U540d\U7684\U9882\U6b4c\U5c31\U662f\U5723\U8bde\U9882\U6b4c\U4e86\U3002\U867d\U7136\U8fd9\U540d\U5b57\U5386\U5e74\U6765\U90fd\U76f8\U5f53\U53d7\U6b22\U8fce\Uff0c\U4f46\U81ea\U4e0a\U4e16\U7eaa80\U5e74\U4ee3\U5f00\U59cb\U5176\U6d41\U884c\U7a0b\U5ea6\U7a0d\U6709\U70b9\U4e0b\U964d\U3002";
+"key_name" = Carol;
+"key_recommend" = "\U8fc7\U65f6\U7684-\U867d\U7136\U6709\U4e9b\U540d\U5b57\U4f1a\U65f6\U800c\U6d41\U884c\U65f6\U800c\U8fc7\U65f6\Uff0c\U4f46\U8fd9\U4e2a\U540d\U5b57\U5728\U51e0\U5341\U5e74\U6765\U5e76\U4e0d\U6d41\U884c\U3002\U5b83\U611f\U89c9\U8fc7\U65f6\U4e86\Uff0c\U4e0d\U6d41\U884c\Uff0c\U6211\U4eec\U4e0d\U5efa\U8bae\U7528\U8fd9\U4e2a\U4f5c\U4e3a\U4f60\U7684\U82f1\U6587\U540d\U5b57\U3002";
+"key_words" = "\U81ea\U7531\U4eba\Uff08\U53e4\U9ad8\U5730\U5fb7\U8bed\Uff09\Uff1b\U540c\U4f34\Uff0c\U7537\U4eba\Uff08\U4e2d\U9ad8\U5730\U5fb7\U8bed\Uff0c\U4e2d\U53e4\U82f1\U8bed\Uff09\Uff1bCarol\Uff0c\U6b22\U5feb\U7684\U6b4c\U66f2\Uff08\U82f1\U8bed\Uff09";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/christina_0.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U201cChristian\U201d\U5bf9\U5e94\U7684\U5973\U6027\U540d\U5f62\U5f0f\Uff0c\U662f\U6bd4\U8f83\U5e38\U89c1\U7684\U4e00\U4e2a\U82f1\U6587\U540d\Uff0c\U5145\U6ee1\U5973\U4eba\U5473\Uff0c\U5f88\U5bb9\U6613\U7ed9\U4eba\U7559\U4e0b\U6df1\U523b\U5370\U8c61\U3002\U540c\U540d\U4eba\U7269\U7f8e\U56fd\U5973\U6f14\U5458ChristinaApplegate\U3001\U6d41\U884c\U6b4c\U624bChristinaAguilera\U7ed9\U8fd9\U4e2a\U540d\U5b57\U589e\U8272\U4e0d\U5c11\U3002";
+"key_name" = Christina;
+"key_recommend" = "Chris,Chrissy,Tina";
+"key_words" = "\U57fa\U7763\U5f92\Uff0cChrist\U7684\U8ffd\U968f\U8005\Uff08\U5e0c\U814a\U8bed\Uff09";
+},
+{
+"key_about" = "Clarrissa,Clarisza,Clarysza";
+"key_detail" = "\U6e90\U4e8e\U65e5\U8033\U66fc\U8bed\U4eba\U540d\U201cClarice\U201d\Uff0c\U7531\U62c9\U4e01\U5355\U8bcd\U201cclarus\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U610f\U4e3a\U201c\U660e\U4eae\U3001\U6e05\U6f88\U3001\U7a81\U51fa\U201d\U3002\U201cClarissa\U201d\U8fd9\U4e2a\U540d\U5b57\U518d\U82f1\U8bed\U56fd\U5bb6\U3001\U610f\U5927\U5229\U3001\U8461\U8404\U7259\U7b49\U56fd\U5bb6\U90fd\U901a\U7528\Uff0c\U5176\U5bf9\U5e94\U7684\U897f\U73ed\U7259\U8bed\U5f62\U5f0f\U4e3a\U201cClarisa\U201d\U3002";
+"key_name" = Clarissa;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U6e05\U695a\Uff0c\U660e\U4eae";
+},
+{
+"key_about" = "Cason,Caysynn,Caeson,Caesen";
+"key_detail" = "\U8fd9\U662f\U4e2a\U804c\U4e1a\U540d\U5b57\U3002\U4ece\U82f1\U8bed\U59d3\U6c0f\U53d1\U6e90\U800c\U6765\U3002\U5728\U4e2d\U4e16\U7eaa\U82f1\U683c\U5170\U00a0\U201ccas(s)e\U201d\U6765\Uff0c\U63cf\U8ff0\U7684\U662f\U505a\U76d2\U5b50\U7684\U4eba\U3002\U8fd9\U4e2a\U5355\U8bcd\U4ece\U62c9\U4e01\U8bed\U201ccapsa\U201d\U6765\Uff0c\U610f\U601d\U662f\U201c\U76d2\U5b50\U201d\U3002";
+"key_name" = Cayson;
+"key_recommend" = "\U65f6\U9ae6-\U8fd9\U662f\U4e2a\U5f88\U65f6\U9ae6\U72ec\U7279\U7684\U82f1\U6587\U540d\Uff0c\U53ef\U80fd\U4e0d\U9002\U5408\U6bcf\U4e2a\U4eba\U3002\U8bf7\U8bb0\U4f4f\U5b83\U53ef\U80fd\U4f1a\U8fc7\U65f6\Uff0c\U867d\U7136\U5728\U6d41\U884c\U7684\U65f6\U5019\U4f1a\U975e\U5e38\U8131\U9896\U800c\U51fa\Uff01";
+"key_words" = "\U5236\U4f5c\U76d2\U5b50\U7684\U5de5\U5320";
+},
+{
+"key_about" = "Cassidie,Cassidey,Cassydy,Cassydi";
+"key_detail" = "\U5b83\U8d77\U6e90\U4e8e\U4e00\U4e2a\U6700\U521d\U4e3a\U53e4\U76d6\U5c14\U4eba\U540d\U201cOCaiside\U201d\U7684\U7231\U5c14\U5170\U59d3\U6c0f\Uff0c\U610f\U601d\U662fCaiside\U7684\U513f\U5b50\U3002\U7231\U5c14\U5170\U76d6\U5c14\U8bed\U91cc\U201ccas\U201d\U610f\U601d\U662f\U201c\U5377\U53d1\Uff0c\U806a\U660e\U201d\U3002\U4f20\U7edf\U4e0a\U6765\U8bf4\U4e00\U822c\U7ed9\U5377\U53d1\U5b69\U5b50\U8fd9\U4e2a\U540d\U5b57\U3002\U5982\U4eca\U5b83\U6210\U4e3a\U4e86\U4e00\U4e2a\U73b0\U4ee3\U65f6\U9ae6\U7684\U540d\U5b57\U3002";
+"key_name" = Cassidy;
+"key_recommend" = "\U65f6\U9ae6-\U8fd9\U662f\U4e2a\U5f88\U65f6\U9ae6\U72ec\U7279\U7684\U82f1\U6587\U540d\Uff0c\U53ef\U80fd\U4e0d\U9002\U5408\U6bcf\U4e2a\U4eba\U3002\U8bf7\U8bb0\U4f4f\U5b83\U53ef\U80fd\U4f1a\U8fc7\U65f6\Uff0c\U867d\U7136\U5728\U6d41\U884c\U7684\U65f6\U5019\U4f1a\U975e\U5e38\U8131\U9896\U800c\U51fa\Uff01";
+"key_words" = "\U806a\U660e\Uff0c\U667a\U6167";
+},
+{
+"key_about" = Kruz;
+"key_detail" = "\U897f\U73ed\U7259\U8bed\U548c\U8461\U8404\U7259\U8bed\U4e2d\U610f\U4e3a\U201c\U5341\U5b57\U67b6\U201d\Uff0c\U897f\U73ed\U7259\U5973\U5f71\U661f\U4f69\U5185\U6d1b\U666e\U00b7\U514b\U9c81\U5179\Uff08PenelopeCruz\Uff09\U4f7f\U5176\U6210\U4e3a\U4e00\U4e2a\U8457\U540d\U7684\U59d3\U6c0f\U3002";
+"key_name" = Cruz;
+"key_recommend" = "\U65f6\U9ae6-\U8fd9\U662f\U4e2a\U5f88\U65f6\U9ae6\U72ec\U7279\U7684\U82f1\U6587\U540d\Uff0c\U53ef\U80fd\U4e0d\U9002\U5408\U6bcf\U4e2a\U4eba\U3002\U8bf7\U8bb0\U4f4f\U5b83\U53ef\U80fd\U4f1a\U8fc7\U65f6\Uff0c\U867d\U7136\U5728\U6d41\U884c\U7684\U65f6\U5019\U4f1a\U975e\U5e38\U8131\U9896\U800c\U51fa\Uff01";
+"key_words" = "\U5341\U5b57\U67b6\Uff08\U57fa\U7763\U6559\U7684\U8c61\U5f81\Uff09";
+},
+{
+"key_about" = "\U65e0";
+"key_detail" = "Chester\U662f\U4e00\U4e2a\U82f1\U8bed\U59d3\Uff0c\U4e5f\U662f\U5730\U540d\U3002\U6765\U6e90\U4e8e\U62c9\U4e01\U8bed\U201dcastra\U201c\U610f\U4e3a\U8425\U5730\U3002\U6240\U4ee5\U6700\U521d\U8fd9\U4e2a\U540d\U5b57\U8d77\U6e90\U4e8e\U7f57\U9a6c\U4e0d\U5217\U98a0\Uff0c\U6709\U53e4\U82f1\U8bed\U6839\U6e90\U3002";
+"key_name" = Chester;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\Uff08\U5730\U540d\Uff09\U519b\U8425";
+},
+{
+"key_about" = Klint;
+"key_detail" = "\U6e90\U4e8e\U53e4\U82f1\U8bed\U7684\U7537\U751f\U540d\Uff0c\U610f\U4e3a\U201c\U56f4\U8d77\U6765\U7684\U5c45\U4f4f\U5730\U201d\U3002\U6b64\U5916\Uff0c\U8fd8\U6709\U53e6\U4e00\U79cd\U5f62\U5f0f\U201cClinton\U201d\U3002";
+"key_name" = Clint;
+"key_recommend" = "MY\U82f1\U6587\U540d\U63a8\U8350-\U8fd9\U662f\U6211\U4eec\U7edd\U5bf9\U63a8\U8350\U7684\U540d\U79f0\U3002\U5b83\U662f\U4e2a\U5f88\U7a33\U5b9a\U7684\U597d\U540d\U5b57\Uff0c\U6bcf\U4e2a\U4eba\U90fd\U8ba4\U8bc6\U5b83\Uff0c\U89c9\U5f97\U8212\U670d\Uff0c\U5728\U6240\U6709\U8bb2\U82f1\U8bed\U7684\U56fd\U5bb6\U90fd\U80fd\U5f88\U597d\U5730\U9002\U7528\Uff0c\U5e76\U4e14\U4e00\U5b9a\U80fd\U4ee3\U8868\U4f60\U7684\U4e00\U751f\Uff01";
+"key_words" = "\U5c45\U4f4f\U5730";
+},
+{
+"key_name" = Claudia;
+},
+{
+"key_about" = Cecelia;
+"key_detail" = "\U6765\U81ea\U62c9\U4e01\U5973\U6027\U540d\U5b57\U201cCaecil\U00eda\U201d\Uff0c\U53e4\U7f57\U9a6c\U59d3\U6c0f\U201cCaecilius\U201d\U6765\U81ea\U62c9\U4e01\U8bed\U201ccaecus\U201d\Uff0c\U610f\U601d\U662f\U201c\U76f2\U76ee\U7684\U201d\Uff0c\U540e\U6765\U53d1\U5c55\U6210\U4e00\U4e2a\U59d3\Uff0c5\U4e16\U7eaa\U7f57\U9a6c\U5e73\U6c11\U4f7f\U7528\U3002";
+"key_name" = Cecilia;
+"key_recommend" = "\U5728\U4e2d\U56fd\U6709\U5f88\U591a\U4eba\U4f7f\U7528-\U8fd9\U4e2a\U82f1\U6587\U540d\U5728\U4e2d\U56fd\U6709\U5f88\U591a\U4eba\U4f7f\U7528\Uff0c\U4f46\U6211\U4eec\U5e76\U4e0d\U63a8\U8350\U3002\U867d\U7136\U5b83\U53ef\U80fd\U542c\U8d77\U6765\U548c\U4f60\U7684\U82f1\U6587\U540d\U6709\U4e9b\U8bb8\U76f8\U540c\Uff0c\U4f46\U5b83\U5e76\U4e0d\U80fd\U5f88\U597d\U5730\U4ee3\U8868\U4f60\U3002\U8bf7\U8bb0\U4f4f\U4f60\U7684\U82f1\U6587\U540d\U5e94\U8be5\U9002\U5408\U4f60\U7684\U5e74\U9f84\U548c\U6027\U683c\Uff01";
+"key_words" = "\U76f2\U76ee";
+},
+{
+"key_about" = Klarice;
+"key_detail" = "\U540e\U62c9\U4e01\U6587Claritia\U7684\U4e2d\U4e16\U7eaa\U53d8\U5f62\Uff0c\U6765\U81eaClara\Uff0c\U610f\U601d\U662f\U201c\U660e\U4eae\Uff0c\U6e05\U6670\Uff0c\U5f15\U4eba\U6ce8\U76ee\U201d";
+"key_name" = Clarice;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U660e\U4eae\Uff0c\U6e05\U6670";
+},
+{
+"key_about" = "Casenn,Cason";
+"key_detail" = "\U662f\U201cCasey\U201d\U7684\U53e6\U4e00\U79cd\U62fc\U5199\U5f62\U5f0f\Uff0c\U7531\U53e4\U65f6\U5e38\U89c1\U7684\U7231\U5c14\U5170\U76d6\U5c14\U8bed\U4eba\U540d\U201cCathasach\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U610f\U4e3a\U201c\U8b66\U60d5\U201d\U3002\U867d\U7136\U73b0\U5728\U66f4\U5e7f\U6cdb\U5730\U662f\U4f5c\U4e3a\U5973\U6027\U540d\U4f7f\U7528\Uff0c\U4f46\U6700\U5f00\U59cb\U5176\U5b9e\U662f\U4e2a\U7537\U6027\U540d\U3002\U8fc7\U53bb\U8fd9\U4e2a\U540d\U5b57\U4e0d\U7b97\U5e38\U89c1\Uff0c\U4f46\U8fd1\U5e74\U6765\U53d8\U5f97\U8d8a\U6765\U8d8a\U53d7\U6b22\U8fce\U3002";
+"key_name" = Casen;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U8b66\U60d5";
+},
+{
+"key_about" = "Caeden,Caedyn,Cadan,Kaden";
+"key_detail" = "\U8fd9\U4e2a\U540d\U5b57\U8d77\U6e90\U6709\U4e24\U5904\Uff1a\U4e00\U662f\U6e90\U4e8e\U76d6\U5c14\U8bed\U59d3\U6c0f\U201cMacCadain\U201d\Uff0c\U8bcd\U6839\U201ccadain\U201d\U610f\U4e3a\U201c\U6218\U58eb\U201d\U3002\U53e6\U4e00\U79cd\U8bf4\U6cd5\U662f\U6e90\U4e8e\U7b2c\U4e00\U4e2a\U4eba\U7c7b\U201cAdam\U201d\U7684\U540d\U5b57\Uff0c\U8ba9\U4eba\U8054\U60f3\U5230\U201c\U571f\U5730\U201d\U3002";
+"key_name" = Caden;
+"key_recommend" = "\U65f6\U9ae6-\U8fd9\U662f\U4e2a\U5f88\U65f6\U9ae6\U72ec\U7279\U7684\U82f1\U6587\U540d\Uff0c\U53ef\U80fd\U4e0d\U9002\U5408\U6bcf\U4e2a\U4eba\U3002\U8bf7\U8bb0\U4f4f\U5b83\U53ef\U80fd\U4f1a\U8fc7\U65f6\Uff0c\U867d\U7136\U5728\U6d41\U884c\U7684\U65f6\U5019\U4f1a\U975e\U5e38\U8131\U9896\U800c\U51fa\Uff01";
+"key_words" = "\U6218\U58eb\Uff0c\U571f\U5730";
+},
+{
+"key_about" = Candice;
+"key_detail" = "\U65b0\U7ea6\U4e2d\U63d0\U53ca\Uff0c\U8fd9\U662f\U57c3\U585e\U4fc4\U6bd4\U4e9a\U5973\U738b\U7684\U4e16\U88ad\U540d\U79f0\U3002\U6765\U81ea\U5e93\U897f\U7279\U65cf\U8bed\U4e2d\U7684kdke\Uff0c\U610f\U601d\U662f\"\U5973\U738b\U6bcd\U4eb2\U201c\U3002\U5728\U4e00\U4e9b\U7248\U672c\U7684\U5723\U7ecf\U4e2d\U62fc\U5199\U662f\U201ckandake\U201d\Uff0c\U6765\U81ea\U5e0c\U814a\U8bed\U62fc\U5199\U039a\U03b1\U03bd\U03b4\U03b1\U03ba\U03b7\U3002";
+"key_name" = Candace;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U6bcd\U4eb2\Uff0c\U5973\U738b";
+},
+{
+"key_about" = "Chrissie,Crissy";
+"key_detail" = "Chrissy\U7684\U610f\U601d\U662f\U201c\U57fa\U7763\U7684\U8ffd\U968f\U8005\U201d\U3002Chrissy\U662fChristina\Uff08\U62c9\U4e01\U8bed\Uff09\U7684\U4e00\U4e2a\U53d8\U5f62\U3002Chrissy\U4e5f\U662fChristy\U7684\U4e00\U4e2a\U53d8\U5f62\Uff0c\U662fChristine\U7684\U77ed\U5199\U3002";
+"key_name" = Chrissy;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U4e3b\U7684\U8ffd\U968f\U8005";
+},
+{
+"key_about" = "Cannen,Cannyn,Canneyn,Cannien";
+"key_detail" = "\U662f\U7f8e\U56fd\U4eba\U65b0\U521b\U9020\U51fa\U6765\U7684\U540d\U5b57\Uff0c\U5728\U524d\U4e9b\U5e74\U4e16\U7eaa\U4ea4\U66ff\U65f6\U6d41\U884c\U8d77\U6765\Uff0c\U6700\U8fd1\U8fd9\U4e9b\U5e74\U6b63\U597d\U6d41\U884cArcher\U3001Gunner\U3001Hunter\U3001Jett\U7b49\U8d85\U7537\U5b50\U6c49\U7684\U540d\U5b57\U3002\U4e5f\U6709\U4eba\U8ba4\U4e3a\U5176\U539f\U578b\U662f\U4e2d\U4e16\U7eaa\U65f6\U671f\U7684\U59d3\U6c0f\Uff0c\U7279\U6307\U67d0\U79cd\U5b97\U6559\U884c\U4e3a\U2014\U2014\U201ctheCanon\U201d\U610f\U4e3a\U6559\U58eb\U3002\U867d\U7136\U5386\U53f2\U5e76\U4e0d\U60a0\U4e45\Uff0c\U4f46\U8fd9\U4e5f\U6070\U6070\U662f\U8fd9\U4e2a\U540d\U5b57\U7684\U4f18\U52bf\Uff0c\U5728\U4e0d\U540c\U6587\U5316\U4e2d\U90fd\U80fd\U627e\U5230\U7c7b\U4f3c\U7684\U5355\U8bcd\Uff0c\U542b\U4e49\U4e5f\U4e0d\U4e00\U6837\U3002\U6bd4\U5982\Uff0c\U62c9\U4e01\U8bed\U201ccanon\U201d\U610f\U4e3a\U201c\U89c4\U77e9\U3001\U89c4\U5219\U201d\Uff1b\U800c\U7231\U5c14\U5170\U8bed\U4e2d\U6709\U4eba\U540d\U201cO'Canain\U201d\Uff0c\U6e90\U4e8e\U76d6\U5c14\U8bed\U201ccana\U201d\Uff0c\U610f\U4e3a\U201c\U5e7c\U72fc\U201d\Uff1b\U65e5\U8bed\U201cKanon\U201d\U610f\U4e3a\U201c\U82b1\U7684\U58f0\U97f3\U201d\U3002";
+"key_name" = Cannon;
+"key_recommend" = "\U611f\U89c9\U4e0d\U50cf\U662f\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57-\U8fd9\U4e2a\U540d\U5b57\U4f3c\U4e4e\U4e0e\U5176\U4ed6\U56fd\U5bb6\U6709\U7740\U66f4\U7262\U56fa\U7684\U6e0a\U6e90\U3002\U5982\U679c\U4f60\U5728\U5bfb\U627e\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57\Uff0c\U90a3\U4e48\U8fd9\U4e0d\U662f\U6700\U597d\U7684\U9009\U62e9\U2014\U2014\U5982\U679c\U4f60\U60f3\U8981\U5728\U975e\U82f1\U8bed\U56fd\U5bb6\Uff0c\U90a3\U4e48\U5b83\U53ef\U80fd\U662f\U4f60\U7684";
+"key_words" = "\U591a\U79cd\U610f\U601d\Uff1a\U52a0\U519c\U70ae\Uff08\U82f1\U8bed\Uff09\Uff1b\U5c0f\U72fc\Uff08\U7231\U5c14\U5170\U76d6\U5c14\U8bed\Uff09\Uff1b\U82b1\U7684\U7269\U8bed\Uff08\U65e5\U8bed\Uff09";
+},
+{
+"key_about" = Chayleigh;
+"key_detail" = "Chaylee\U6765\U81ea\U4e8e\U5e0c\U4f2f\U6765\U8bed\U3002Chaylee\U662fChaya\Uff08\U82f1\U8bed\Uff0c\U5e0c\U4f2f\U6765\U8bed\Uff0c\U548c\U5370\U5ea6\U8bed\Uff09\U7684\U53d8\U5f62\U3002\U6709\U7684\U65f6\U5019\U88ab\U5199\U4e3aKaylee\Uff0c\U662fKay\Uff08Katherine\Uff09\U7684\U53d8\U5f62\U3002";
+"key_name" = Chaylee;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U5149\U4e4b\U8d50\U798f\Uff0c\U751f\U547d";
+},
+{
+"key_about" = "Cornellia,Cornnelia,Cornellya";
+"key_detail" = "\U6e90\U4e8e\U62c9\U4e01\U8bed\U201ccorneus\"\U6216\U201ccornelius\U201d\Uff0c\U610f\U4e3a\U201d\U89d2\U3001\U5982\U89d2\U4e00\U822c\U575a\U786c\U201c\U3002\U201cCornelius\"\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U6e90\U4e8e\U201cCorneus\U201d\U8fd9\U4e2a\U59d3\Uff0c\U610f\U4e3a\U6709\U7740\U539a\U7684\U3001\U7c97\U7cd9\U7684\U76ae\U80a4\U3002";
+"key_name" = Cornelia;
+"key_recommend" = "\U8fc7\U65f6\U7684-\U867d\U7136\U6709\U4e9b\U540d\U5b57\U4f1a\U65f6\U800c\U6d41\U884c\U65f6\U800c\U8fc7\U65f6\Uff0c\U4f46\U8fd9\U4e2a\U540d\U5b57\U5728\U51e0\U5341\U5e74\U6765\U5e76\U4e0d\U6d41\U884c\U3002\U5b83\U611f\U89c9\U8fc7\U65f6\U4e86\Uff0c\U4e0d\U6d41\U884c\Uff0c\U6211\U4eec\U4e0d\U5efa\U8bae\U7528\U8fd9\U4e2a\U4f5c\U4e3a\U4f60\U7684\U82f1\U6587\U540d\U5b57\U3002";
+"key_words" = "\U89d2\Uff0c\U6709\U89d2\U7684\Uff0c\U8ddf\U89d2\U4e00\U6837\U786c";
+},
+{
+"key_about" = "Christy,Kristi,Kristy";
+"key_detail" = "\U5728\U82f1\U8bed\U4e2d\Uff0cChristie\U662f\U4efb\U4f55\U4ee5Christ-\U5f00\U5934\U7684\U540d\U5b57\U7684\U6635\U79f0\Uff0c\U6bd4\U5982Christahel\Uff0cChristian\U6216Christopher\U3002";
+"key_name" = Christie;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U201c\U57fa\U7763\U201d";
+},
+{
+"key_about" = "Correy,Corry,Corri,Corree";
+"key_detail" = "\U4e5f\U62fc\U505a\U201cCorry\U201d\Uff0c\U539f\U6765\U662f\U4e2a\U5730\U540d\Uff0c\U6e90\U4e8e\U76d6\U5c14\U8bed\U201ccoire\U201d\Uff0c\U610f\U4e3a\U201c\U5927\U9505\U201d\Uff0c\U66fe\U7528\U6765\U6307\U4ee3\U67d0\U5730\U65b9\U7684\U5730\U5f62\U7279\U70b9\Uff08\U6bd4\U5982\U4f4d\U4e8e\U5c71\U9876\U51f9\U9677\U5904\U7684\U6751\U843d\Uff09\U3002";
+"key_name" = Corrie;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U5927\U9505";
+},
+{
+"key_about" = Clio;
+"key_detail" = "Cleo\U662fCleopatra\U6216\U8005Cleophus\U7684\U77ed\U5199\Uff0c\U53e6\U4e00\U79cd\U62fc\U5199\U662fClio\U3002\U6765\U81ea\U4e8e\U5e0c\U814a\U8bed\Uff0c\U5927\U591a\U6570\U65f6\U5019\U88ab\U8bd1\U4e3a\U201c\U8363\U8000\U201d\U6216\U201c\U5149\U8363\U201d\U3002";
+"key_name" = Cleo;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U9a84\U50b2\Uff0c\U8363\U8000";
+},
+{
+"key_about" = "Kristian,Cristian";
+"key_detail" = "\U6e90\U4e8e\U4e2d\U4e16\U7eaa\U65f6\U671f\U62c9\U4e01\U4eba\U540d\U201cChristianus\U201d\Uff0c\U610f\U601d\U4e3a\U201c\U57fa\U7763\U6559\U5f92\U201d\U3002\U81ea\U4e2d\U4e16\U7eaa\U65f6\U671f\U5c31\U5f00\U59cb\U5728\U82f1\U56fd\U5170\U5730\U533a\U4f7f\U7528\Uff0c\U5f53\U65f6\U7537\U751f\U3001\U5973\U751f\U90fd\U53ef\U4ee5\U8d77\U8fd9\U4e2a\U540d\U5b57\Uff0c\U4f46\U76f4\U523017\U4e16\U7eaa\U624d\U5f00\U59cb\U5927\U8303\U56f4\U666e\U904d\U4f7f\U7528\U3002";
+"key_name" = Christian;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U57fa\U7763\U5f92\Uff0cChrist\U7684\U8ffd\U968f\U8005\Uff08\U5e0c\U814a\U8bed\Uff09";
+},
+{
+"key_about" = Curtys;
+"key_detail" = "\U539f\U4f5c\U4e3a\U82f1\U8bed\U59d3\U6c0f\Uff0c\U6307\U53d7\U8fc7\U826f\U597d\U6559\U80b2\U7684\U4eba\U3002\U6e90\U4e8e\U53e4\U6cd5\U8bed\U5355\U8bcd\U201ccurteis\U201d\Uff0c\U610f\U4e3a\U201c\U7cbe\U81f4\U3001\U5b8c\U6574\U7684\U201d\U3002\U53e6\U5916\Uff0c\U8fd9\U4e2a\U540d\U5b57\U4e5f\U6709\U53ef\U80fd\U6e90\U4e8e\U73b0\U4ee3\U6cd5\U8bed\U201ccourtois\U201d\Uff0c\U610f\U4e3a\U201c\U6709\U6559\U517b\U3001\U6709\U793c\U8c8c\U7684\U201d\U3002";
+"key_name" = Curtis;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U7cbe\U81f4\U7684\Uff0c\U5b8c\U5584\U7684\Uff0c\U6709\U6559\U517b\U7684";
+},
+{
+"key_about" = "Clarc,Cllark,Cllarc";
+"key_detail" = "\U6700\U5f00\U59cb\U7528\U4f5c\U5f62\U5f0f\Uff0c\U6307\U4ee3\U67d0\U79cd\U804c\U4e1a\U3002\U53e4\U82f1\U8bed\U4e2d\Uff0c\U201cclerc\U201d\U610f\U6307\U201c\U7267\U5e08\U201d\Uff0c\U4e5f\U66fe\U7528\U4f5c\U6307\U4ee3\U5c0f\U578b\U6559\U4f1a\U4e2d\U7684\U795e\U7236\U3002";
+"key_name" = Clark;
+"key_words" = "\U795e\U804c\U4eba\U5458\Uff0c\U795e\U7236";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/celeste.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U8fd9\U662f\U4e2a\U6709\U62c9\U4e01\U80cc\U666f\U7684\U5973\U751f\U540d\Uff0c\U610f\U601d\U662f\U201c\U5929\U7684\U201d\U3002\U5168\U4e16\U754c\U90fd\U61c2\U5b83\U7684\U8bfb\U97f3\Uff0c\U6240\U4ee5\U4ec0\U4e48\U6587\U5316\U90fd\U80fd\U4f7f\U7528\Uff0c\U5c24\U5176\U662f\U4e0e\U62c9\U4e01\U8bed\U7cfb\U76f8\U5173\U7684\U6587\U5316\U4e2d\U3002";
+"key_name" = Celeste;
+"key_words" = "\U4ed9\U5883\U4e00\U822c\Uff08\U6cd5\U8bed\Uff09";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/courtney.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U539f\U6765\U662f\U4e2a\U59d3\U6c0f\Uff0c\U6e90\U4e8e\U8bfa\U66fc\U6cd5\U8bed\U4e00\U4e2a\U5730\U540d\U2014\U2014\U4f4d\U4e8e\U6cd5\U56fd\U5317\U90e8\U7684\U201cCourtenay\U201d\U3002\U7531\U53e4\U6cd5\U8bed\U201ccourt\U3001curt\Uff08\U77ed\U7684\Uff09\U201d\U548c\U201cnes\Uff08\U9f3b\U5b50\Uff09\U201d\U7ec4\U5408\U800c\U6210\Uff0c\U6210\U4e3a\U5bf9\U77ee\U9f3b\U5b50\U7684\U4eba\U7684\U6635\U79f0\U3002";
+"key_name" = Courtney;
+"key_recommend" = Court;
+"key_words" = "\U584c\U9f3b\U6881";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/christine.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U662f\U6e90\U4e8e\U5e0c\U814a\U8bed\U548c\U57c3\U53ca\U8bed\U7684\U5973\U751f\U82f1\U6587\U540d\Uff0c\U5728\U6cd5\U56fd\U3001\U82f1\U683c\U5170\U3001\U5fb7\U56fd\U3001\U65af\U582a\U7684\U7eb3\U7ef4\U4e9a\U5730\U533a\U3001\U5fb7\U56fd\U3001\U7231\U5c14\U5170\U3001\U82cf\U683c\U5170\U7b49\U5730\U533a\U5341\U5206\U5e38\U89c1\Uff0c\U610f\U4e3a\U201c\U57fa\U7763\U7684\U8ffd\U968f\U8005\U201d\U3002";
+"key_name" = Christine;
+"key_recommend" = "Chirs,Chrissy";
+"key_words" = "\U57fa\U7763\U5f92\Uff0cChrist\U7684\U8ffd\U968f\U8005\Uff08\U5e0c\U814a\U8bed\Uff09";
+},
+{
+"key_about" = Carys;
+"key_detail" = "Caris\U662f\U5e0c\U814a\U8bed\Uff0c\U610f\U601d\U662f\U201c\U4f18\U96c5\Uff0c\U5584\U826f\U201d\Uff0c\U4e5f\U88ab\U5f53\U505a\U5a01\U5c14\U58eb\U540d\Uff0c\U610f\U4e3a\U7231\U3002\U201ccaru\U201d\U662f\U5a01\U5c14\U58eb\U8bed\Uff0c\U610f\U601d\U662f\U7231\U3002Carys\U5c31\U662f\U5a01\U5c14\U58eb\U540d\U5b57\U3002";
+"key_name" = Caris;
+"key_recommend" = "\U611f\U89c9\U4e0d\U50cf\U662f\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57-\U8fd9\U4e2a\U540d\U5b57\U4f3c\U4e4e\U4e0e\U5176\U4ed6\U56fd\U5bb6\U6709\U7740\U66f4\U7262\U56fa\U7684\U6e0a\U6e90\U3002\U5982\U679c\U4f60\U5728\U5bfb\U627e\U4e00\U4e2a\U82f1\U8bed\U7684\U540d\U5b57\Uff0c\U90a3\U4e48\U8fd9\U4e0d\U662f\U6700\U597d\U7684\U9009\U62e9\U2014\U2014\U5982\U679c\U4f60\U60f3\U8981\U5728\U975e\U82f1\U8bed\U56fd\U5bb6\Uff0c\U90a3\U4e48\U5b83\U53ef\U80fd\U662f\U4f60\U7684";
+"key_words" = "\U4f18\U96c5\Uff0c\U5584\U826f\Uff0c\U7231";
+},
+{
+"key_about" = Chessy;
+"key_detail" = "Chessie\U6709\U4e24\U4e2a\U6765\U6e90\U3002\U4e00\U4e2a\U662f\U53e4\U82f1\U8bed\U4e2d\U82f1\U56fd\U767d\U57a9\U5d16\U6240\U5728\U5730\U3002\U53e6\U4e00\U4e2a\U662f\U65af\U62c9\U592b\U8bed\U201cchessa\U201d\Uff0c\U610f\U4e3a\U201c\U5e73\U9759\U201d\U3002";
+"key_name" = Chessie;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U5e73\U9759";
+},
+{
+"key_about" = Karla;
+"key_detail" = "\U7531\U201cCarl\U201d\U4e00\U540d\U6f14\U53d8\U800c\U6765\Uff0c\U5176\U4ed6\U5f62\U5f0f\U8fd8\U6709\"Caroline\"\U548c\"Charlotte\"\U7b49\U3002\U8fd9\U4e2a\U540d\U5b57\U5728\U4e0a\U4e2a\U4e16\U7eaa80\U300190\U5e74\U4ee3\U5341\U5206\U6d41\U884c\Uff0c\U4e0d\U8fc7\U8fd1\U5e74\U6765\U6d41\U884c\U5ea6\U7a0d\U6709\U4e0b\U964d\U3002\U6e90\U4e8e\U5fb7\U8bed\U201ckarl\U201d\U4e00\U8bcd\Uff0c\U610f\U4e3a\U201c\U81ea\U7531\U7684\U4eba\U201d\Uff0c\U540e\U6765\U8fd9\U4e2a\U8bcd\U5728\U4e2d\U53e4\U9ad8\U5730\U5fb7\U8bed\U548c\U4e2d\U4e16\U7eaa\U82f1\U8bed\U7684\U542b\U4e49\U6f14\U53d8\U4e3a\U201c\U4eba\U3001\U4f19\U4f34\U3001\U4e08\U592b\U201d\U3002\U4e2d\U4e16\U7eaa\U65f6\U671f\U6b27\U6d32\U7687\U5ba4\U6216\U8d35\U65cf\U4e2d\U6709\U4e0d\U5c11\U7531\U201cCarl\U201d\U6216\U201cKarl\U201d\U6f14\U53d8\U800c\U6765\U7684\U540d\U5b57\Uff0c\U6bd4\U5982Charlemagne\U3001Charles\U3001Caroline\U7b49\U3002\U540c\U540d\U7684\U8457\U540d\U4eba\U7269\U6709\U7f8e\U56fd\U5929\U6587\U5b66\U5bb6\U5361\U5c14\U00b7\U8428\U6839\Uff08CarlSagan\Uff09\U548c\U745e\U58eb\U5fc3\U7406\U5b66\U5bb6\U5361\U5c14\U00b7\U8363\U683c\Uff08CarlJung\Uff09\U300220\U4e16\U7eaa\U65e9\U671f\U201cCarl\U201d\U4e00\U540d\U7684\U53d7\U6b22\U8fce\U5ea6\U7a0d\U6709\U70b9\U4e0b\U964d\Uff0c\U4f46\U4ecd\U7136\U662f\U4e2a\U77e5\U540d\U5ea6\U8f83\U9ad8\U7684\U540d\U5b57\U3002";
+"key_name" = Carla;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "Carl\U7684\U4e00\U79cd\U53d8\U4f53\Uff0c\U610f\U4e3a\Uff1a\U81ea\U7531\U4eba\Uff08\U53e4\U9ad8\U5730\U5fb7\U8bed\Uff09\Uff1b\U540c\U4f34\Uff0c\U7537\U4eba\Uff08\U4e2d\U9ad8\U5730\U5fb7\U8bed\Uff0c\U4e2d\U53e4\U82f1\U8bed\Uff09";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/clay1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U539f\U6765\U662f\U82f1\U8bed\U59d3\U6c0f\Uff0c\U6e90\U4e8e\U76ce\U683c\U9c81-\U8428\U514b\U900a\Uff0c\U539f\U610f\U6307\U67d0\U79cd\U571f\U8d28\U6216\U804c\U4e1a\U3002\U53e4\U82f1\U8bed\U201ccl\U00e6g\U201d\U7528\U6765\U5f62\U5bb9\U9ecf\U571f\Uff0c\U7531\U65e5\U8033\U66fc\U8bed\U201cglei\Uff08\U9ecf\U5728\U4e00\U8d77\Uff09\U201d\U6f14\U53d8\U800c\U6765\Uff0c\U5728\U5236\U4f5c\U9676\U3001\U7816\U3001\U6c34\U6ce5\U65f6\U7ecf\U5e38\U4f1a\U7528\U5230\U9ecf\U571f\U3002";
+"key_name" = Clay;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U9ecf\U571f";
+},
+{
+"key_about" = "Seline,Celline";
+"key_detail" = "\U662f\U4e2a\U6e90\U4e8e\U6cd5\U8bed\U7684\U5973\U751f\U540d\Uff0c\U610f\U4e3a\U201c\U4ed9\U5883\U4e00\U822c\U7684\U201d\U3002\U662f\U4e2a\U5f88\U76f4\U767d\U7684\U540d\U5b57\Uff0c\U5145\U6ee1\U5973\U6027\U9b45\U529b\Uff0c\U5bb9\U6613\U5f15\U8d77\U4eba\U6ce8\U610f\U3002\U6700\U8457\U540d\U7684\U540c\U540d\U4eba\U7269\U5f53\U5c5e\U6cd5\U88d4\U52a0\U62ff\U5927\U5973\U6b4c\U624b\U5e2d\U7433\U00b7\U8fea\U7fc1\Uff08CelineDion\Uff09\U3002";
+"key_name" = Celine;
+"key_words" = "\U4ed9\U5883\U4e00\U822c\Uff08\U6cd5\U8bed\Uff09";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/cameron1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U6e90\U4e8e\U82cf\U683c\U5170\U59d3\U6c0f\U201cCameron\U201d\U3002\U82cf\U54e5\U5170\U9ad8\U5730\U5730\U533a\U7684\U4eba\U8ba4\U4e3a\U8fd9\U540d\U5b57\U662f\U7531\U76d6\U5c14\U8bed\U5355\U8bcd\U201ccamsr\U00f2n\Uff08\U5f2f\U5f2f\U7684\U9f3b\U5b50\U3001\U5f2f\U66f2\U7684\U6cb3\U6d41\Uff09\U201d\U6f14\U53d8\U800c\U6765\U7684\Uff0c\U800c\U4f4e\U5730\U5730\U533a\U7684\U4eba\U4eec\U8ba4\U4e3a\U8fd9\U540d\U5b57\U7684\U539f\U578b\U662f\U8bfa\U66fc\U7537\U7235\U7684\U540d\U5b57\U2014\U2014\U8bfa\U66fc\U5e95\U7684Cambernon\U3002";
+"key_name" = Cameron;
+"key_recommend" = "Cam,Cammy";
+"key_words" = "\U9e70\U94a9\U9f3b\Uff08\U82cf\U683c\U5170\U76d6\U5c14\U8bed\Uff09";
+},
+{
+"key_about" = "Cerus,Syrus,Cirus";
+"key_detail" = "\U662f\U5e0c\U814a\U4eba\U540d\U201cKyros\U201d\U5bf9\U5e94\U7684\U82f1\U6587\U540d\U5f62\U5f0f\Uff0c\U6e90\U4e8e\U201ckyrios\U201d\U4e00\U8bcd\Uff0c\U610f\U4e3a\U201c\U4e3b\Uff0c\U4e0a\U5e1d\U201d\Uff0c\U597d\U51e0\U4efb\U6ce2\U65af\U56fd\U738b\U5c31\U53ebCyrus\Uff0c\U6700\U8457\U540d\U7684\U5c31\U662f\U5efa\U7acb\U6ce2\U65af\U5e1d\U56fd\Uff08\U4e16\U754c\U4e0a\U6700\U5927\U5e1d\U56fd\Uff09\U7684\U5c45\U9c81\U58eb\U5927\U5e1d\Uff08CyrustheGreat\Uff09\U3002";
+"key_name" = Cyrus;
+"key_recommend" = "\U8fc7\U65f6\U7684-\U867d\U7136\U6709\U4e9b\U540d\U5b57\U4f1a\U65f6\U800c\U6d41\U884c\U65f6\U800c\U8fc7\U65f6\Uff0c\U4f46\U8fd9\U4e2a\U540d\U5b57\U5728\U51e0\U5341\U5e74\U6765\U5e76\U4e0d\U6d41\U884c\U3002\U5b83\U611f\U89c9\U8fc7\U65f6\U4e86\Uff0c\U4e0d\U6d41\U884c\Uff0c\U6211\U4eec\U4e0d\U5efa\U8bae\U7528\U8fd9\U4e2a\U4f5c\U4e3a\U4f60\U7684\U82f1\U6587\U540d\U5b57\U3002";
+"key_words" = "\U4e3b";
+},
+{
+"key_about" = Kade;
+"key_detail" = "\U6e90\U4e8e\U53e4\U82f1\U8bed\Uff0c\U610f\U4e3a\U201c\U5706\U7684\U201d\U3001\U201c\U6876\U201d\Uff0c\U5728\U53e4\U82f1\U8bed\U4e2d\U4e5f\U4f5c\U4e3a\U5bf9\U8eab\U5f62\U5706\U6da6\U4eba\U7684\U6635\U79f0\U3002\U867d\U7136\U8d77\U6e90\U5f88\U53e4\U8001\Uff0c\U4f46\U5982\U4eca\U4f1a\U7ed9\U4eba\U4e00\U79cd\U52c7\U6562\U65e0\U754f\U7684\U611f\U89c9\U3002";
+"key_name" = Cade;
+"key_words" = "\U5706\U7684\Uff0c\U6728\U6876";
+},
+{
+"key_about" = "Yourbrowserdoesnotsupporttheaudioplayer.<ahref=\"https://www.yingwenming.com/sites/default/files/name/audio/charles1.mp3\"target=\"_blank\"class=\"download-audio\">Hereisalinktotheaudiofile</a>.";
+"key_detail" = "\U6e90\U4e8e\U65e5\U8033\U66fc\U8bed\U201cKarl\Uff08\U6210\U719f\U7684\U3001\U4eba\Uff09\U201d\U4e00\U8bcd\Uff0c\U4e0e\U53e4\U82f1\U8bed\U5355\U8bcd\U201cCeorl\Uff08\U4eba\U3001\U519c\U6c11\U3001\U81ea\U7531\U4e4b\U4eba\Uff09\U201d\U540c\U6e90\U3002\U8fd9\U662f\U4e2a\U5f88\U4f20\U7edf\U7684\U7537\U6027\U82f1\U6587\U540d\Uff0c\U7ed9\U4eba\U4e00\U79cd\U5e05\U6c14\U3001\U4fca\U6717\U7684\U611f\U89c9\U3002\U300aX\U6218\U8b66\U300b\U4e2d\U7684X\U6559\U6388\U672c\U540d\U4e3aCharlesXavier\Uff0c\U8fd8\U6709\U82f1\U5267\U300a\U795e\U63a2\U590f\U6d1b\U514b\U300b\U4e2d\U7684CharlesAugustusMagnussen\U65e0\U7591\U7ed9\U8fd9\U4e2a\U540d\U5b57\U589e\U6dfb\U4e86\U66f4\U591a\U9b45\U529b\U548c\U529b\U91cf\U3002\U6b64\U5916\Uff0c\U540c\U540d\U7684\U5386\U53f2\U4eba\U7269\U8fd8\U6709\U8fbe\U5c14\U6587\Uff08CharlesDarwin\Uff09\U548c\U72c4\U66f4\U65af\Uff08CharlesDickens\Uff09\U3002";
+"key_name" = Charles;
+"key_recommend" = Charlie;
+"key_words" = "\U6210\U4eba\U3001\U7537\U4eba\Uff08\U5fb7\U8bed\Uff09\Uff1b\U7537\U4eba\U3001\U519c\U6c11\U3001\U81ea\U7531\U6c11\Uff08\U53e4\U82f1\U8bed\Uff09";
+},
+{
+"key_about" = Katalina;
+"key_detail" = "Katalina\U7684\U8461\U8404\U7259\U8bed\U7248\U672c\Uff0c\U8fd9\U662f\U4e00\U4e2a\U897f\U73ed\U7259\U8bed\U540d\U5b57\Uff0c\U6765\U81ea\U5e0c\U814a\U8bed\U5973\U540d\U201cCathrine\U201d-\U610f\U601d\U662f\U201c\U7eaf\U51c0\U201d";
+"key_name" = Catalina;
+"key_recommend" = "\U65f6\U9ae6-\U8fd9\U662f\U4e2a\U5f88\U65f6\U9ae6\U72ec\U7279\U7684\U82f1\U6587\U540d\Uff0c\U53ef\U80fd\U4e0d\U9002\U5408\U6bcf\U4e2a\U4eba\U3002\U8bf7\U8bb0\U4f4f\U5b83\U53ef\U80fd\U4f1a\U8fc7\U65f6\Uff0c\U867d\U7136\U5728\U6d41\U884c\U7684\U65f6\U5019\U4f1a\U975e\U5e38\U8131\U9896\U800c\U51fa\Uff01";
+"key_words" = "\U7eaf\U51c0";
+},
+{
+"key_about" = Carey;
+"key_detail" = "Cary\U662f\U4e00\U4e2a\U82f1\U8bed\U5a74\U513f\U540d\U3002\U5728\U82f1\U8bed\U4e2d\U610f\U601d\U662f\U201c\U6c34\U6d41\U201d\U3002\U56e0\U4e3aCaryGrant\Uff0c\U8fd9\U4e2a\U540d\U5b57\U5728\U4e0a\U4e16\U7eaa\U4e2d\U671f\U662f\U5f88\U53d7\U6b22\U8fce\U7684\U7537\U540d\U3002Cary\U8fd9\U4e2a\U540d\U5b57\U4e5f\U4e0e\U7231\U5c14\U5170\U5f88\U6709\U6e0a\U6e90\U3002";
+"key_name" = Cary;
+"key_recommend" = "\U4e0d\U63a8\U8350-\U6709\U4e9b\U82f1\U6587\U540d\U5b57\U53ef\U80fd\U89c9\U5f97\U6709\U70b9\U5947\U602a\U6216\U6709\U70b9\U8fc7\U65f6\U3002\U8fd9\U4e2a\U540d\U5b57\U53ef\U80fd\U4f1a\U8ba9\U4eba\U611f\U5230\U56f0\U60d1\Uff0c\U96be\U4ee5\U8bb0\U5fc6\Uff0c\U6216\U8005\U6709\U70b9\U8001\U6c14\U3002";
+"key_words" = "\U6c34\U6d41";
+},
+{
+"key_about" = Cyndy;
+"key_detail" = "Cindy\U662fCynthia\U7684\U77ed\U5199\Uff0c\U5e0c\U814a\U8bedKynthia\U7684\U62c9\U4e01\U7248\U672c\Uff0c\U610f\U601d\U662fKynthos\U7684\U5973\U4eba\U3002\U8fd9\U4e2a\U540d\U5b57\U4e00\U76f4\U523020\U4e16\U7eaa\U624d\U5728\U6b27\U7f8e\U5730\U533a\U5e38\U7528\U8d77\U6765\U3002";
+"key_name" = Cindy;
+"key_recommend" = "\U4e2d\U7acb-\U6211\U4eec\U5bf9\U8fd9\U4e2a\U540d\U5b57\U7684\U6001\U5ea6\U662f\U4e2d\U7acb\U7684\Uff0c\U5982\U679c\U4f60\U559c\U6b22\U5b83\Uff0c\U90a3\U4e48\U4f60\U53ef\U4ee5\U4f7f\U7528\Uff01\U8fd9\U4ec5\U4ec5\U610f\U5473\U7740\U8fd9\U4e2a\U82f1\U6587\U540d\U5c06\U7531\U4f7f\U7528\U5b83\U7684\U4eba\U53d8\U5f97\U66f4\U5f3a\U5927\Uff01";
+"key_words" = "\U6765\U81eaCynthus\U5c71";
+}
+)

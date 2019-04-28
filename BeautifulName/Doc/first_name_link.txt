@@ -1,0 +1,1948 @@
+(
+{
+link = "http://xh.5156edu.com/xing/x65i32n491.html";
+word = "\U66fe ";
+},
+{
+link = "http://xh.5156edu.com/xing/x89i54n490.html";
+word = "\U8d75 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x26i14n489.html";
+word = "\U94b1 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x94i91n488.html";
+word = "\U5b59 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x76i93n487.html";
+word = "\U674e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x70i13n486.html";
+word = "\U5468 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x59i59n485.html";
+word = "\U5434 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x21i37n484.html";
+word = "\U90d1 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x46i15n483.html";
+word = "\U738b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x85i65n482.html";
+word = "\U51af ";
+},
+{
+link = "http://xh.5156edu.com/xing/x63i21n481.html";
+word = "\U9648 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x83i42n480.html";
+word = "\U891a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x89i91n479.html";
+word = "\U536b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x65i51n478.html";
+word = "\U848b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x60i14n477.html";
+word = "\U6c88 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x32i38n476.html";
+word = "\U97e9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x47i74n475.html";
+word = "\U6768 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x33i84n474.html";
+word = "\U6731 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x74i60n473.html";
+word = "\U79e6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x70i47n472.html";
+word = "\U5c24 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x32i76n471.html";
+word = "\U8bb8 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x12i97n470.html";
+word = "\U4f55 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x37i91n469.html";
+word = "\U5415 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x40i91n468.html";
+word = "\U65bd ";
+},
+{
+link = "http://xh.5156edu.com/xing/x67i29n467.html";
+word = "\U5f20 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x24i22n466.html";
+word = "\U5b54 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x60i39n465.html";
+word = "\U66f9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x55i14n464.html";
+word = "\U4e25 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x85i46n463.html";
+word = "\U534e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x91i61n462.html";
+word = "\U91d1 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x77i18n461.html";
+word = "\U9b4f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x46i18n460.html";
+word = "\U9676 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x18i60n459.html";
+word = "\U59dc ";
+},
+{
+link = "http://xh.5156edu.com/xing/x57i58n458.html";
+word = "\U621a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x21i50n457.html";
+word = "\U8c22 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x36i36n456.html";
+word = "\U90b9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x68i92n455.html";
+word = "\U55bb ";
+},
+{
+link = "http://xh.5156edu.com/xing/x32i34n454.html";
+word = "\U67cf ";
+},
+{
+link = "http://xh.5156edu.com/xing/x93i66n453.html";
+word = "\U6c34 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x48i89n452.html";
+word = "\U7aa6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x77i76n451.html";
+word = "\U7ae0 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x41i12n450.html";
+word = "\U4e91 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x46i91n449.html";
+word = "\U82cf ";
+},
+{
+link = "http://xh.5156edu.com/xing/x15i20n448.html";
+word = "\U6f58 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x70i34n447.html";
+word = "\U845b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x16i15n446.html";
+word = "\U595a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x83i56n445.html";
+word = "\U8303 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x48i33n444.html";
+word = "\U5f6d ";
+},
+{
+link = "http://xh.5156edu.com/xing/x67i79n443.html";
+word = "\U90ce ";
+},
+{
+link = "http://xh.5156edu.com/xing/x69i65n442.html";
+word = "\U9c81 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x46i73n441.html";
+word = "\U97e6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x81i59n440.html";
+word = "\U660c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x92i53n439.html";
+word = "\U9a6c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x42i95n438.html";
+word = "\U82d7 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x48i76n437.html";
+word = "\U51e4 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x45i30n436.html";
+word = "\U82b1 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x76i68n435.html";
+word = "\U65b9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x48i37n434.html";
+word = "\U4fde ";
+},
+{
+link = "http://xh.5156edu.com/xing/x21i87n433.html";
+word = "\U4efb ";
+},
+{
+link = "http://xh.5156edu.com/xing/x53i60n432.html";
+word = "\U8881 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x43i57n431.html";
+word = "\U67f3 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x20i93n430.html";
+word = "\U9146 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x78i37n429.html";
+word = "\U9c8d ";
+},
+{
+link = "http://xh.5156edu.com/xing/x39i81n428.html";
+word = "\U53f2 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x15i42n427.html";
+word = "\U5510 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x69i16n426.html";
+word = "\U8d39 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x60i41n425.html";
+word = "\U5ec9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x24i25n424.html";
+word = "\U5c91 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x14i47n423.html";
+word = "\U859b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x40i10n422.html";
+word = "\U96f7 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x82i29n421.html";
+word = "\U8d3a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x30i95n420.html";
+word = "\U502a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x64i93n419.html";
+word = "\U6c64 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x43i95n418.html";
+word = "\U6ed5 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x75i26n417.html";
+word = "\U6bb7 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x81i44n416.html";
+word = "\U7f57 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x95i23n415.html";
+word = "\U6bd5 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x12i25n414.html";
+word = "\U90dd ";
+},
+{
+link = "http://xh.5156edu.com/xing/x61i52n413.html";
+word = "\U90ac ";
+},
+{
+link = "http://xh.5156edu.com/xing/x19i73n412.html";
+word = "\U5b89 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x42i39n411.html";
+word = "\U5e38 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x59i91n410.html";
+word = "\U4e50 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x63i42n409.html";
+word = "\U4e8e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x46i26n408.html";
+word = "\U65f6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x16i75n407.html";
+word = "\U5085 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x26i48n406.html";
+word = "\U76ae ";
+},
+{
+link = "http://xh.5156edu.com/xing/x14i16n405.html";
+word = "\U535e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x94i14n404.html";
+word = "\U9f50 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x40i62n403.html";
+word = "\U5eb7 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x27i97n402.html";
+word = "\U4f0d ";
+},
+{
+link = "http://xh.5156edu.com/xing/x27i89n401.html";
+word = "\U4f59 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x97i61n400.html";
+word = "\U5143 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x46i22n399.html";
+word = "\U535c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x83i80n398.html";
+word = "\U987e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x33i11n397.html";
+word = "\U5b5f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x77i99n396.html";
+word = "\U5e73 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x57i70n395.html";
+word = "\U9ec4 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x37i20n394.html";
+word = "\U548c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x55i77n393.html";
+word = "\U7a46 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x56i60n392.html";
+word = "\U8427 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x96i46n391.html";
+word = "\U5c39 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x92i30n390.html";
+word = "\U59da ";
+},
+{
+link = "http://xh.5156edu.com/xing/x26i37n389.html";
+word = "\U90b5 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x57i57n388.html";
+word = "\U6e5b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x95i64n387.html";
+word = "\U6c6a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x90i42n386.html";
+word = "\U7941 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x58i96n385.html";
+word = "\U6bdb ";
+},
+{
+link = "http://xh.5156edu.com/xing/x12i22n384.html";
+word = "\U79b9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x76i56n383.html";
+word = "\U72c4 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x53i79n382.html";
+word = "\U7c73 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x83i94n381.html";
+word = "\U8d1d ";
+},
+{
+link = "http://xh.5156edu.com/xing/x34i68n380.html";
+word = "\U660e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x62i44n379.html";
+word = "\U81e7 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x94i73n378.html";
+word = "\U8ba1 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x35i55n377.html";
+word = "\U4f0f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x56i38n376.html";
+word = "\U6210 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x75i52n375.html";
+word = "\U6234 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x56i46n374.html";
+word = "\U8c08 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x26i92n373.html";
+word = "\U5b8b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x99i43n372.html";
+word = "\U8305 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x48i10n371.html";
+word = "\U5e9e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x51i21n370.html";
+word = "\U718a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x78i46n369.html";
+word = "\U7eaa ";
+},
+{
+link = "http://xh.5156edu.com/xing/x96i17n368.html";
+word = "\U8212 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x94i33n367.html";
+word = "\U5c48 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x11i22n366.html";
+word = "\U9879 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x33i31n365.html";
+word = "\U795d ";
+},
+{
+link = "http://xh.5156edu.com/xing/x70i72n364.html";
+word = "\U8463 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x55i52n363.html";
+word = "\U6881 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x50i69n362.html";
+word = "\U675c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x94i68n361.html";
+word = "\U962e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x44i50n360.html";
+word = "\U84dd ";
+},
+{
+link = "http://xh.5156edu.com/xing/x43i91n359.html";
+word = "\U95f5 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x99i96n358.html";
+word = "\U5e2d ";
+},
+{
+link = "http://xh.5156edu.com/xing/x15i90n357.html";
+word = "\U5b63 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x39i63n356.html";
+word = "\U9ebb ";
+},
+{
+link = "http://xh.5156edu.com/xing/x81i80n355.html";
+word = "\U5f3a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x91i35n354.html";
+word = "\U8d3e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x86i30n353.html";
+word = "\U8def ";
+},
+{
+link = "http://xh.5156edu.com/xing/x79i46n352.html";
+word = "\U5a04 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x11i44n351.html";
+word = "\U5371 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x49i88n350.html";
+word = "\U6c5f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x61i91n349.html";
+word = "\U7ae5 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x95i19n348.html";
+word = "\U989c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x36i94n347.html";
+word = "\U90ed ";
+},
+{
+link = "http://xh.5156edu.com/xing/x85i99n346.html";
+word = "\U6885 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x52i24n345.html";
+word = "\U76db ";
+},
+{
+link = "http://xh.5156edu.com/xing/x21i95n344.html";
+word = "\U6797 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x89i74n343.html";
+word = "\U5201 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x41i89n342.html";
+word = "\U5f90 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x82i32n341.html";
+word = "\U90b1 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x58i27n340.html";
+word = "\U9a86 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x12i94n339.html";
+word = "\U9ad8 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x30i81n338.html";
+word = "\U590f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x83i48n337.html";
+word = "\U8521 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x50i18n336.html";
+word = "\U7530 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x97i89n335.html";
+word = "\U6a0a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x75i98n334.html";
+word = "\U80e1 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x78i95n333.html";
+word = "\U51cc ";
+},
+{
+link = "http://xh.5156edu.com/xing/x18i89n332.html";
+word = "\U970d ";
+},
+{
+link = "http://xh.5156edu.com/xing/x97i80n331.html";
+word = "\U865e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x18i73n330.html";
+word = "\U4e07 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x89i14n329.html";
+word = "\U652f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x76i84n328.html";
+word = "\U67ef ";
+},
+{
+link = "http://xh.5156edu.com/xing/x34i90n327.html";
+word = "\U661d ";
+},
+{
+link = "http://xh.5156edu.com/xing/x61i26n326.html";
+word = "\U7ba1 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x49i98n325.html";
+word = "\U5362 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x66i25n324.html";
+word = "\U83ab ";
+},
+{
+link = "http://xh.5156edu.com/xing/x22i52n323.html";
+word = "\U7ecf ";
+},
+{
+link = "http://xh.5156edu.com/xing/x48i72n322.html";
+word = "\U623f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x69i10n321.html";
+word = "\U88d8 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x10i24n320.html";
+word = "\U7f2a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x82i77n319.html";
+word = "\U5e72 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x90i52n318.html";
+word = "\U89e3 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x84i42n317.html";
+word = "\U5e94 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x21i14n316.html";
+word = "\U5b97 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x56i99n315.html";
+word = "\U4e01 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x30i80n314.html";
+word = "\U5ba3 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x24i37n313.html";
+word = "\U9093 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x31i17n312.html";
+word = "\U8d32 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x58i51n311.html";
+word = "\U90c1 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x70i87n310.html";
+word = "\U5355 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x94i18n309.html";
+word = "\U676d ";
+},
+{
+link = "http://xh.5156edu.com/xing/x62i56n308.html";
+word = "\U6d2a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x21i43n307.html";
+word = "\U5305 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x54i96n306.html";
+word = "\U8bf8 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x44i96n305.html";
+word = "\U5de6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x49i64n304.html";
+word = "\U77f3 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x55i10n303.html";
+word = "\U5d14 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x93i40n302.html";
+word = "\U5409 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x78i24n301.html";
+word = "\U94ae ";
+},
+{
+link = "http://xh.5156edu.com/xing/x11i62n300.html";
+word = "\U9f9a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x94i63n299.html";
+word = "\U7a0b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x31i31n298.html";
+word = "\U5d47 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x39i95n297.html";
+word = "\U90a2 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x64i74n296.html";
+word = "\U6ed1 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x71i45n295.html";
+word = "\U88f4 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x68i92n294.html";
+word = "\U9646 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x38i61n293.html";
+word = "\U8363 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x48i31n292.html";
+word = "\U7fc1 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x98i68n291.html";
+word = "\U8340 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x49i64n290.html";
+word = "\U7f8a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x98i35n289.html";
+word = "\U65bc ";
+},
+{
+link = "http://xh.5156edu.com/xing/x76i47n288.html";
+word = "\U60e0 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x17i66n287.html";
+word = "\U7504 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x86i62n286.html";
+word = "\U9eb4 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x62i39n285.html";
+word = "\U5bb6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x81i54n284.html";
+word = "\U5c01 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x31i60n283.html";
+word = "\U82ae ";
+},
+{
+link = "http://xh.5156edu.com/xing/x20i16n282.html";
+word = "\U7fbf ";
+},
+{
+link = "http://xh.5156edu.com/xing/x42i96n281.html";
+word = "\U50a8 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x86i74n280.html";
+word = "\U9773 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x73i72n279.html";
+word = "\U6c72 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x55i40n278.html";
+word = "\U90b4 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x60i48n277.html";
+word = "\U7cdc ";
+},
+{
+link = "http://xh.5156edu.com/xing/x22i40n276.html";
+word = "\U677e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x74i37n275.html";
+word = "\U6bb5 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x33i66n274.html";
+word = "\U5bcc ";
+},
+{
+link = "http://xh.5156edu.com/xing/x50i98n273.html";
+word = "\U5deb ";
+},
+{
+link = "http://xh.5156edu.com/xing/x92i65n272.html";
+word = "\U4e4c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x58i65n271.html";
+word = "\U7126 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x67i27n270.html";
+word = "\U5df4 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x33i88n269.html";
+word = "\U5f13 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x50i80n268.html";
+word = "\U7267 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x47i90n267.html";
+word = "\U9697 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x88i35n266.html";
+word = "\U5c71 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x33i41n265.html";
+word = "\U8c37 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x96i19n264.html";
+word = "\U5173 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x63i44n263.html";
+word = "\U59ab ";
+},
+{
+link = "http://xh.5156edu.com/xing/x31i22n262.html";
+word = "\U6842 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x71i69n261.html";
+word = "\U56fd ";
+},
+{
+link = "http://xh.5156edu.com/xing/x75i83n260.html";
+word = "\U6d77 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x39i39n259.html";
+word = "\U4faf ";
+},
+{
+link = "http://xh.5156edu.com/xing/x96i12n258.html";
+word = "\U540e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x81i15n257.html";
+word = "\U5f18 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x97i26n256.html";
+word = "\U5e9a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x88i99n255.html";
+word = "\U5de9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x37i26n254.html";
+word = "\U8d21 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x84i81n253.html";
+word = "\U53e4 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x97i49n252.html";
+word = "\U7518 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x51i65n251.html";
+word = "\U90dc ";
+},
+{
+link = "http://xh.5156edu.com/xing/x56i87n250.html";
+word = "\U6208 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x14i20n249.html";
+word = "\U827e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x96i86n248.html";
+word = "\U6587";
+},
+{
+link = "http://xh.5156edu.com/xing/x42i49n247.html";
+word = "\U4e30 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x85i38n246.html";
+word = "\U9102 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x72i34n245.html";
+word = "\U6cd5 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x26i69n244.html";
+word = "\U90fd ";
+},
+{
+link = "http://xh.5156edu.com/xing/x83i76n243.html";
+word = "\U94ad ";
+},
+{
+link = "http://xh.5156edu.com/xing/x57i81n242.html";
+word = "\U5835 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x11i55n241.html";
+word = "\U6276 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x91i21n240.html";
+word = "\U7b26 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x16i76n239.html";
+word = "\U695a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x85i59n238.html";
+word = "\U4ece ";
+},
+{
+link = "http://xh.5156edu.com/xing/x34i17n237.html";
+word = "\U82cd ";
+},
+{
+link = "http://xh.5156edu.com/xing/x43i53n236.html";
+word = "\U6c60 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x44i73n235.html";
+word = "\U4ec7 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x11i84n234.html";
+word = "\U662f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x73i32n233.html";
+word = "\U515a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x84i98n232.html";
+word = "\U4e1c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x10i89n231.html";
+word = "\U767d ";
+},
+{
+link = "http://xh.5156edu.com/xing/x38i88n230.html";
+word = "\U73ed ";
+},
+{
+link = "http://xh.5156edu.com/xing/x60i32n229.html";
+word = "\U66b4 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x57i89n228.html";
+word = "\U6556 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x25i56n227.html";
+word = "\U80fd ";
+},
+{
+link = "http://xh.5156edu.com/xing/x98i94n226.html";
+word = "\U8042 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x19i40n225.html";
+word = "\U725b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x74i49n224.html";
+word = "\U519c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x23i87n223.html";
+word = "\U8584 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x33i35n222.html";
+word = "\U6b65 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x62i77n221.html";
+word = "\U8fb9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x67i90n220.html";
+word = "\U6641 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x26i25n219.html";
+word = "\U5de2 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x46i24n218.html";
+word = "\U8f66 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x31i78n217.html";
+word = "\U67e5 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x61i54n216.html";
+word = "\U67f4 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x56i71n215.html";
+word = "\U8346 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x70i81n214.html";
+word = "\U5c45 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x38i64n213.html";
+word = "\U76d6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x76i53n212.html";
+word = "\U84af ";
+},
+{
+link = "http://xh.5156edu.com/xing/x46i70n211.html";
+word = "\U5914 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x36i51n210.html";
+word = "\U5229 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x17i58n209.html";
+word = "\U8fde ";
+},
+{
+link = "http://xh.5156edu.com/xing/x45i21n208.html";
+word = "\U5ed6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x19i42n207.html";
+word = "\U853a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x59i46n206.html";
+word = "\U5218 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x79i81n205.html";
+word = "\U9f99 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x81i70n204.html";
+word = "\U4e5c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x86i10n203.html";
+word = "\U8499 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x69i87n202.html";
+word = "\U7984 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x67i68n201.html";
+word = "\U52b3 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x26i43n200.html";
+word = "\U6ee1 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x91i88n199.html";
+word = "\U90a3 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x90i18n198.html";
+word = "\U5b93 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x94i40n197.html";
+word = "\U5b81 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x83i51n196.html";
+word = "\U9686 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x56i27n195.html";
+word = "\U683e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x54i42n194.html";
+word = "\U7ec8 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x93i19n193.html";
+word = "\U4ef2 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x95i28n192.html";
+word = "\U960e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x94i30n191.html";
+word = "\U664f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x74i90n190.html";
+word = "\U71d5 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x85i29n189.html";
+word = "\U7fdf ";
+},
+{
+link = "http://xh.5156edu.com/xing/x83i85n188.html";
+word = "\U6b27 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x46i30n187.html";
+word = "\U7afa ";
+},
+{
+link = "http://xh.5156edu.com/xing/x81i95n186.html";
+word = "\U8a3e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x93i92n185.html";
+word = "\U7956 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x71i66n184.html";
+word = "\U8d8a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x25i48n183.html";
+word = "\U5bb0 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x99i79n182.html";
+word = "\U9ece ";
+},
+{
+link = "http://xh.5156edu.com/xing/x49i49n181.html";
+word = "\U5389 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x80i82n180.html";
+word = "\U90e6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x55i18n179.html";
+word = "\U666f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x61i66n178.html";
+word = "\U97a0 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x67i15n177.html";
+word = "\U7a7a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x44i67n176.html";
+word = "\U5bc7 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x67i52n175.html";
+word = "\U5321 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x77i77n174.html";
+word = "\U8d56 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x79i11n173.html";
+word = "\U7b80 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x74i43n172.html";
+word = "\U66a8 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x84i83n171.html";
+word = "\U5180 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x82i46n170.html";
+word = "\U90cf ";
+},
+{
+link = "http://xh.5156edu.com/xing/x17i59n169.html";
+word = "\U59ec ";
+},
+{
+link = "http://xh.5156edu.com/xing/x14i32n168.html";
+word = "\U6853 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x38i43n167.html";
+word = "\U76ca ";
+},
+{
+link = "http://xh.5156edu.com/xing/x97i84n166.html";
+word = "\U4ec9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x83i93n165.html";
+word = "\U4ef0 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x65i57n164.html";
+word = "\U517b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x42i44n163.html";
+word = "\U4f0a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x56i34n162.html";
+word = "\U6613 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x31i44n161.html";
+word = "\U9c7c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x71i51n160.html";
+word = "\U96cd ";
+},
+{
+link = "http://xh.5156edu.com/xing/x29i18n159.html";
+word = "\U5353 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x70i99n158.html";
+word = "\U949f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x62i26n157.html";
+word = "\U5370 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x54i35n156.html";
+word = "\U53f6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x21i80n155.html";
+word = "\U5e84 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x72i31n154.html";
+word = "\U65f7 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x20i60n153.html";
+word = "\U909d ";
+},
+{
+link = "http://xh.5156edu.com/xing/x36i33n152.html";
+word = "\U6765 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x40i70n151.html";
+word = "\U64cd ";
+},
+{
+link = "http://xh.5156edu.com/xing/x84i32n150.html";
+word = "\U627f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x16i80n149.html";
+word = "\U6d6e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x39i66n148.html";
+word = "\U6d11 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x19i12n147.html";
+word = "\U84ec ";
+},
+{
+link = "http://xh.5156edu.com/xing/x40i36n146.html";
+word = "\U670b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x73i17n145.html";
+word = "\U6734 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x87i68n144.html";
+word = "\U8a79 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x70i18n143.html";
+word = "\U6e38 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x51i64n142.html";
+word = "\U8288 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x34i75n141.html";
+word = "\U7766 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x22i61n140.html";
+word = "\U5192 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x36i21n139.html";
+word = "\U95e8 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x50i50n138.html";
+word = "\U6155 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x11i95n137.html";
+word = "\U8c2c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x46i67n136.html";
+word = "\U9ea6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x30i42n135.html";
+word = "\U5357 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x60i15n134.html";
+word = "\U533a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x27i11n133.html";
+word = "\U82df ";
+},
+{
+link = "http://xh.5156edu.com/xing/x92i19n132.html";
+
+word = "\U5149 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x74i15n131.html";
+word = "\U521a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x12i72n130.html";
+word = "\U5f52 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x14i24n129.html";
+word = "\U5ba6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x92i29n128.html";
+word = "\U8364 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x10i52n127.html";
+word = "\U6237 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x21i63n126.html";
+word = "\U8e47 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x85i67n125.html";
+word = "\U7fe6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x69i30n124.html";
+word = "\U63ed ";
+},
+{
+link = "http://xh.5156edu.com/xing/x41i85n123.html";
+word = "\U77eb ";
+},
+{
+link = "http://xh.5156edu.com/xing/x17i12n122.html";
+word = "\U9e7f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x82i74n121.html";
+word = "\U697c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x46i45n120.html";
+word = "\U52b1 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x99i47n119.html";
+word = "\U5546 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x24i31n118.html";
+word = "\U5c1a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x27i65n117.html";
+word = "\U97f6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x44i95n116.html";
+word = "\U8428 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x27i51n115.html";
+word = "\U8d5b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x64i51n114.html";
+word = "\U6851 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x34i64n113.html";
+word = "\U6c99 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x86i24n112.html";
+word = "\U74a9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x28i29n111.html";
+word = "\U8339 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x69i96n110.html";
+word = "\U620e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x34i94n109.html";
+word = "\U5bb9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x15i34n108.html";
+word = "\U878d ";
+},
+{
+link = "http://xh.5156edu.com/xing/x34i93n107.html";
+word = "\U66f2 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x63i98n106.html";
+word = "\U77bf ";
+},
+{
+link = "http://xh.5156edu.com/xing/x51i86n105.html";
+word = "\U5168 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x34i57n104.html";
+word = "\U6743 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x67i86n103.html";
+word = "\U9619 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x67i80n102.html";
+word = "\U5189 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x16i63n101.html";
+word = "\U8ba9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x74i25n100.html";
+word = "\U9976 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x60i31n99.html";
+word = "\U6148 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x14i64n98.html";
+word = "\U5c60 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x43i49n97.html";
+word = "\U5bff ";
+},
+{
+link = "http://xh.5156edu.com/xing/x69i53n96.html";
+word = "\U65e7 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x35i40n95.html";
+word = "\U957f\U5b59 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x16i73n94.html";
+word = "\U5355\U4e8e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x63i64n93.html";
+word = "\U7b2c\U4e94 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x40i71n92.html";
+word = "\U4e1c\U90ed ";
+},
+{
+link = "http://xh.5156edu.com/xing/x15i45n91.html";
+word = "\U72ec\U5b64 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x97i38n90.html";
+word = "\U6bb5\U5e72 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x99i42n89.html";
+word = "\U516c\U5b59 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x11i12n88.html";
+word = "\U516c\U897f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x23i69n87.html";
+word = "\U8c37\U6881 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x98i74n86.html";
+word = "\U7687\U752b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x84i96n85.html";
+word = "\U4e50\U6b63 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x93i79n84.html";
+word = "\U4ee4\U72d0 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x81i45n83.html";
+word = "\U6155\U5bb9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x43i21n82.html";
+word = "\U6b27\U9633 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x40i67n81.html";
+word = "\U6f06\U96d5 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x40i25n80.html";
+word = "\U4e0a\U5b98 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x31i85n79.html";
+word = "\U53f8\U7a7a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x43i83n78.html";
+word = "\U7533\U5c60 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x80i68n77.html";
+word = "\U53f8\U5bc7 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x54i51n76.html";
+word = "\U53f8\U9a6c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x76i31n75.html";
+word = "\U53f8\U5f92 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x30i12n74.html";
+word = "\U592a\U53d4 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x45i32n73.html";
+word = "\U62d3\U8dcb ";
+},
+{
+link = "http://xh.5156edu.com/xing/x66i91n72.html";
+word = "\U4e07\U4fdf ";
+},
+{
+link = "http://xh.5156edu.com/xing/x58i86n71.html";
+word = "\U5fae\U751f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x29i11n70.html";
+word = "\U5c09\U8fdf ";
+},
+{
+link = "http://xh.5156edu.com/xing/x50i71n69.html";
+word = "\U95fb\U4eba ";
+},
+{
+link = "http://xh.5156edu.com/xing/x11i77n68.html";
+word = "\U5deb\U9a6c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x91i93n67.html";
+word = "\U897f\U95e8 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x60i12n66.html";
+word = "\U590f\U4faf ";
+},
+{
+link = "http://xh.5156edu.com/xing/x26i28n65.html";
+word = "\U9c9c\U4e8e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x90i31n64.html";
+word = "\U8f69\U8f95 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x16i73n63.html";
+word = "\U7f8a\U820c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x57i37n62.html";
+word = "\U5b87\U6587 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x85i16n61.html";
+word = "\U5bb0\U7236 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x56i66n60.html";
+word = "\U949f\U79bb ";
+},
+{
+link = "http://xh.5156edu.com/xing/x35i50n59.html";
+word = "\U4ef2\U5b59 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x43i20n58.html";
+word = "\U8bf8\U845b ";
+},
+{
+link = "http://xh.5156edu.com/xing/x71i56n57.html";
+word = "\U5b50\U8f66 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x21i24n56.html";
+word = "\U5b97\U653f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x82i46n55.html";
+word = "\U5de6\U4e18 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x38i72n54.html";
+word = "\U8c0c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x95i81n53.html";
+word = "\U591a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x98i18n52.html";
+word = "\U9004 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x89i84n51.html";
+word = "\U516c ";
+},
+{
+link = "http://xh.5156edu.com/xing/x67i36n50.html";
+word = "\U85e9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x91i24n49.html";
+word = "\U51a0 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x39i71n48.html";
+word = "\U8fc7 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x79i95n47.html";
+word = "\U5b98 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x61i25n46.html";
+word = "\U79cb ";
+},
+{
+link = "http://xh.5156edu.com/xing/x80i87n45.html";
+word = "\U95fb ";
+},
+{
+link = "http://xh.5156edu.com/xing/x47i24n44.html";
+word = "\U51b5 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x73i13n43.html";
+word = "\U4e54 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x43i61n42.html";
+word = "\U8c2d ";
+},
+{
+link = "http://xh.5156edu.com/xing/x85i23n41.html";
+word = "\U5bbf ";
+},
+{
+link = "http://xh.5156edu.com/xing/x54i81n40.html";
+word = "\U90b0 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x95i40n39.html";
+
+word = "\U78a7\U9c81 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x36i76n38.html";
+word = "\U989d\U5c14\U5fb7\U96e8 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x39i34n37.html";
+word = "\U8d6b\U820d\U91cc ";
+},
+{
+link = "http://xh.5156edu.com/xing/x83i83n36.html";
+word = "\U5e93\U96c5\U5587 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x77i19n35.html";
+word = "\U7eb3\U5587 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x62i94n34.html";
+word = "\U94ae\U795c\U7984 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x54i53n33.html";
+word = "\U8428\U514b\U8fbe ";
+},
+{
+link = "http://xh.5156edu.com/xing/x66i54n32.html";
+word = "\U758f\U675f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x41i61n31.html";
+word = "\U56fe\U95e8 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x53i46n30.html";
+word = "\U559c\U5854\U814a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x63i12n29.html";
+word = "\U76f8\U91cc ";
+},
+{
+link = "http://xh.5156edu.com/xing/x26i16n28.html";
+word = "\U53f6\U8d6b\U7eb3\U62c9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x10i10n27.html";
+word = "\U4f9d\U5c14\U89c9\U609f\U7f57 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x33i46n26.html";
+word = "\U4f0a\U96e8\U6839\U89c9\U7f57 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x88i24n25.html";
+word = "\U7ae0\U4f73 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x76i81n24.html";
+word = "\U4ef2\U957f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x97i68n23.html";
+word = "\U4e1c\U95e8 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x23i25n22.html";
+word = "\U4e1c\U65b9 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x62i21n21.html";
+word = "\U6fb9\U53f0 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x57i92n20.html";
+word = "\U6df3\U4e8e ";
+},
+{
+link = "http://xh.5156edu.com/xing/x53i78n19.html";
+word = "\U767e\U91cc ";
+},
+{
+link = "http://xh.5156edu.com/xing/x46i96n18.html";
+word = "\U722a\U96e8\U4f73 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x96i26n17.html";
+word = "\U7aef\U6728 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x82i72n16.html";
+word = "\U516c\U826f ";
+},
+{
+link = "http://xh.5156edu.com/xing/x82i61n15.html";
+word = "\U516c\U7f8a ";
+},
+{
+link = "http://xh.5156edu.com/xing/x35i12n14.html";
+word = "\U516c\U51b6 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x35i61n13.html";
+word = "\U8d6b\U8fde ";
+},
+{
+link = "http://xh.5156edu.com/xing/x85i42n12.html";
+word = "\U5939\U8c37 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x26i41n11.html";
+word = "\U6881\U4e18 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x11i64n10.html";
+word = "\U6fee\U9633 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x80i59n9.html";
+word = "\U95fe\U4e18 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x86i26n8.html";
+word = "\U5357\U5bab ";
+},
+{
+link = "http://xh.5156edu.com/xing/x87i40n7.html";
+word = "\U58e4\U9a77 ";
+},
+{
+link = "http://xh.5156edu.com/xing/x88i97n6.html";
+word = "\U6e05 ";
+}
+)

@@ -9,7 +9,7 @@
 #import "NameRequestTool.h"
 #import "FSCacheManager.h"
 
-static NSString *namesUrl = @"http://18.216.203.212/Doc";
+//static NSString *namesUrl = @"https://b54eabff.ngrok.io/Doc";
 static NSString *allNames = @"all_names.txt";
 static NSString *allNamesDetail = @"all_names_detail.txt";
 static NSString *cnBoyNameWord = @"cn_boy_name_word.txt";
@@ -68,7 +68,7 @@ DEF_SINGLETON(NameRequestTool)
             if(arr.count > 0) {
                 block(arr);
             } else {
-                arr = [NSArray arrayWithContentsOfURL:[NSURL URLWithString:[NSString stringWithFormat:@"%@/%@", namesUrl, fileName]]];
+                arr = [NSArray arrayWithContentsOfFile:[[NSBundle mainBundle] pathForResource:[fileName componentsSeparatedByString:@"."].firstObject ofType:@"txt"]];
                 block(arr);
                 [[FSCacheManager sharedManager] saveData: [NSKeyedArchiver archivedDataWithRootObject:arr] name:fileName cacheType:(FSCacheTypeGeneral) successBlock:^(NSString *message, NSData *data, NSString *path) {
                     
@@ -77,7 +77,7 @@ DEF_SINGLETON(NameRequestTool)
                 }];
             }
         } else {
-            arr = [NSArray arrayWithContentsOfURL:[NSURL URLWithString:[NSString stringWithFormat:@"%@/%@", namesUrl, fileName]]];
+            arr = [NSArray arrayWithContentsOfFile:[[NSBundle mainBundle] pathForResource:[fileName componentsSeparatedByString:@"."].firstObject ofType:@"txt"]];
             block(arr);
             [[FSCacheManager sharedManager] saveData: [NSKeyedArchiver archivedDataWithRootObject:arr] name:fileName cacheType:(FSCacheTypeGeneral) successBlock:^(NSString *message, NSData *data, NSString *path) {
                 
@@ -86,7 +86,7 @@ DEF_SINGLETON(NameRequestTool)
             }];
         }
     } failBlock:^(NSString *message) {
-        NSArray *arr = [NSArray arrayWithContentsOfURL:[NSURL URLWithString:[NSString stringWithFormat:@"%@/%@", namesUrl, fileName]]];
+        NSArray *arr = [NSArray arrayWithContentsOfFile:[[NSBundle mainBundle] pathForResource:[fileName componentsSeparatedByString:@"."].firstObject ofType:@"txt"]];
         block(arr);
         [[FSCacheManager sharedManager] saveData: [NSKeyedArchiver archivedDataWithRootObject:arr] name:fileName cacheType:(FSCacheTypeGeneral) successBlock:^(NSString *message, NSData *data, NSString *path) {
             
