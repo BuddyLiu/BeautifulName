@@ -103,13 +103,6 @@ GD_SINGLETON(GeneralTool)
 -(UIImage *)imageWithColor:(UIColor *)aColor size:(CGSize)size;
 
 /**
- 获取广告标识符
-
- @return 广告标识符
- */
--(NSString *)IDFA;
-
-/**
  获取启屏页图片
  
  @return 启屏页图片

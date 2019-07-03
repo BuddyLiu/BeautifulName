@@ -61,7 +61,7 @@ static NSString *emailNumber = @"13621905107@163.com";
 }
 
 - (IBAction)connectBtnAction:(UIButton *)sender {
-    UIAlertController *alert = [UIAlertController alertControllerWithTitle:@"联系方式" message:@"" preferredStyle:(UIAlertControllerStyleActionSheet)];
+    UIAlertController *alert = [UIAlertController alertControllerWithTitle:@"联系方式" message:@"" preferredStyle:(UIAlertControllerStyleAlert)];
     WEAKSELF
     [alert addAction:[UIAlertAction actionWithTitle:[NSString stringWithFormat:@"拨打电话（%@）", phoneNumber] style:(UIAlertActionStyleDefault) handler:^(UIAlertAction * _Nonnull action) {
         STRONGSELF
@@ -81,7 +81,7 @@ static NSString *emailNumber = @"13621905107@163.com";
         [[GeneralTool sharedInstance] copyStringToPast:emailNumber];
     }]];
     [alert addAction:[UIAlertAction actionWithTitle:@"不要点这个" style:(UIAlertActionStyleDefault) handler:^(UIAlertAction * _Nonnull action) {
-        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:[NSString stringWithFormat:@"itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=%d", kAppID]] options:@{} completionHandler:^(BOOL success) {
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:[NSString stringWithFormat:@"itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=%@", kAppID]] options:@{} completionHandler:^(BOOL success) {
             
         }];
     }]];

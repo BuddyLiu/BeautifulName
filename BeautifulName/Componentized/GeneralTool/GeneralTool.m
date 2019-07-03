@@ -116,26 +116,6 @@ static AFHTTPSessionManager *manager;
  */
 -(AFHTTPSessionManager *)createManagerHeader:(AFHTTPSessionManager *)manager
 {
-//    [manager.requestSerializer setValue:@"ios" forHTTPHeaderField:@"AppTerminalType"];
-//    [manager.requestSerializer setValue:AppVersion forHTTPHeaderField:@"AppVersion"];
-//    [manager.requestSerializer setValue:@"appstore" forHTTPHeaderField:@"AppChannel"];
-//    [manager.requestSerializer setValue:AppBundleIdentifier forHTTPHeaderField:@"AppPackageName"];
-//    [manager.requestSerializer setValue:AppNameEncoding forHTTPHeaderField:@"AppName"];
-//    [manager.requestSerializer setValue:DefaultSessionId forHTTPHeaderField:@"SessionId"];
-//    [manager.requestSerializer setValue:[USERDEFAULTS objectForKey:@"User-Agent"] forHTTPHeaderField:@"User-Agent"];
-    
-//    NSString *aesStr = aesEncryptString([[GeneralTool sharedInstance] IDFA], [NSString stringWithFormat:@"%@%@", CHWEUIHWIE, IHDOHWODHW]);
-//    [manager.requestSerializer setValue:[[StringTool sharedInstance] convertStringToHexStr:aesStr] forHTTPHeaderField:@"UniqueId"];
-    
-//    [manager.requestSerializer setValue:[[GeneralTool sharedInstance] IDFA] forHTTPHeaderField:@"UniqueId"];
-//    [manager.requestSerializer setValue:@"1" forHTTPHeaderField:@"Upgrade-Insecure-Requests"];
-//    [manager.requestSerializer setValue:@"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" forHTTPHeaderField:@"Accept"];
-//    [manager.requestSerializer setValue:@"Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1" forHTTPHeaderField:@"User-Agent"];
-//    [manager.requestSerializer setValue:@"zh-cn" forHTTPHeaderField:@"Accept-Language"];
-//    [manager.requestSerializer setValue:@"http://ename.shanbay.com.cn/?for_friend=0" forHTTPHeaderField:@"Referer"];
-//    [manager.requestSerializer setValue:@"1" forHTTPHeaderField:@"DNT"];
-//    [manager.requestSerializer setValue:@"__utma=215781448.802487274.1551661448.1551661448.1551661448.1; __utmb=215781448.3.10.1551661448; __utmc=215781448; __utmz=215781448.1551661448.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)" forHTTPHeaderField:@"Cookie"];
-//    [manager.requestSerializer setValue:@"ename.shanbay.com.cn" forHTTPHeaderField:@"Host"];
     manager.responseSerializer = [AFHTTPResponseSerializer serializer];
     manager.responseSerializer.acceptableContentTypes = [NSSet setWithObjects:@"text/plain",@"text/json",@"application/json",@"text/javascript",@"text/html",nil];
 
@@ -300,11 +280,6 @@ static AFHTTPSessionManager *manager;
     UIImage *img = UIGraphicsGetImageFromCurrentImageContext();
     UIGraphicsEndImageContext();
     return img;
-}
-
--(NSString *)IDFA
-{
-    return [[[ASIdentifierManager sharedManager] advertisingIdentifier] UUIDString];
 }
 
 -(UIImage *)getLaunchImage

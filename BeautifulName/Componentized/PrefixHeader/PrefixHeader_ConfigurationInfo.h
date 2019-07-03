@@ -13,7 +13,6 @@
 #ifndef PrefixHeader_ConfigurationInfo_h
 #define PrefixHeader_ConfigurationInfo_h
 
-#define DefaultSessionId        ([[NSUserDefaults standardUserDefaults] objectForKey:@"SessionId"]?[[NSUserDefaults standardUserDefaults] objectForKey:@"SessionId"]:@"")
 #define MainColor               ItemColorFromRGB(0xb5b5b5)
 #define MainSelectedColor       ItemColorFromRGB(0xfd5048)
 

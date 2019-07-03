@@ -55,7 +55,7 @@
                                      failure:(RHFailBlock)failureBlock
 {
     ASNetworkActivityTaskDidStart();
-    parameter = [self addDefaultRequestParam:parameter];
+//    parameter = [self addDefaultRequestParam:parameter];
     NSLog(@"request message:\n__url:%@\n__parameter:%@\n", url, parameter);
     NSString *urlStr = [NSString stringWithFormat:@"%@", url?url:@""];
     [manager GET:urlStr parameters:parameter progress:^(NSProgress * _Nonnull downloadProgress) {
@@ -148,7 +148,7 @@
                                   failure:(RHFailBlock)failureBlock
 {
     ASNetworkActivityTaskDidStart();
-    parameter = [self addDefaultRequestParam:parameter];
+//    parameter = [self addDefaultRequestParam:parameter];
     NSLog(@"request message:\n__url:%@\n__parameter:%@\n", url, parameter);
     [manager POST:url parameters:parameter progress:^(NSProgress * _Nonnull uploadProgress) {
 //        if(processBlock) {
@@ -224,7 +224,7 @@
                                        failure:(RHFailBlock)failureBlock
 {
     ASNetworkActivityTaskDidStart();
-    parameter = [self addDefaultRequestParam:parameter];
+//    parameter = [self addDefaultRequestParam:parameter];
     NSLog(@"request message:\n__url:%@\n__parameter:%@\n", url, parameter);
     [manager POST:url parameters:parameter constructingBodyWithBlock:^(id<AFMultipartFormData>  _Nonnull formData) {
         //使用日期生成图片名称
@@ -301,7 +301,7 @@
                        completion:(RHCompletionBlock)completionBlock
                           failure:(RHFailBlock)failureBlock {
     ASNetworkActivityTaskDidStart();
-    parameter = [self addDefaultRequestParam:parameter];
+//    parameter = [self addDefaultRequestParam:parameter];
     NSLog(@"request message:\n__url:%@\n__parameter:%@\n", url, parameter);
     RequestDownloader *downloadManager = [[RequestDownloader alloc] init];
     [downloadManager downloadTaskWithUrl:url progressBlock:^(NSProgress *process) {
@@ -345,37 +345,6 @@
             NSLog(@"failureBlock is nil, please check this request:\n__url:%@\n__parameter:%@", url, parameter);
         }
     }];
-}
-
-/**
- * 统一设置请求参数
- */
--(NSDictionary *)addDefaultRequestParam:(NSDictionary *)parameter
-{
-    int y = 100000 +  (arc4random() % 999999);
-//    NSDictionary *inDic = @{@"TS":[NSString stringWithFormat:@"%.0f", [[NSDate date] timeIntervalSince1970] * 1000],
-//                            @"UD":[UUID getUUID],
-//                            @"RN":[NSString stringWithFormat:@"%d", y]};
-    NSMutableDictionary *mDic = [NSMutableDictionary dictionaryWithDictionary:parameter];
-    [mDic setObject:[NSString stringWithFormat:@"%.0f", [[NSDate date] timeIntervalSince1970] * 1000] forKey:@"TS"];
-    [mDic setObject:[UUID getUUID] forKey:@"UD"];
-    [mDic setObject:[NSString stringWithFormat:@"%d", y] forKey:@"RN"];
-    NSArray *paraArr = [[GeneralTool sharedInstance] sortedDictionary:mDic];
-    NSMutableString *mStr = [NSMutableString new];
-    for (int i = 0; i < paraArr.count; i++)
-    {
-        [mStr appendString:paraArr[i]];
-    }
-    mStr = [[mStr lowercaseString] copy];
-    NSString *sign = [NSString stringWithFormat:@"%@p=%@%@%@", mStr, SIDCNAUIFLUIEBFO, IDSFHBUISDHFIUT, WNFEIUNWIEUFTR];
-    NSString *md5One = [MD5Encrypt MD5ForLower32Bate:sign];
-    NSString *md5Two = [MD5Encrypt MD5ForLower32Bate:md5One];
-    [mDic setObject:md5Two forKey:@"Sign"];
-    for (int i = 0; i < [parameter allKeys].count; i++)
-    {
-        [mDic setValue:[parameter allValues][i] forKey:[parameter allKeys][i]];
-    }
-    return [mDic copy];
 }
 
 -(NSError *)sentMessage:(NSString *)msg {
