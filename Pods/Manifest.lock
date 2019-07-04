@@ -16,6 +16,9 @@ PODS:
     - AFNetworking/NSURLSession
   - GDataXML-HTML (1.4.1)
   - IQKeyboardManager (5.0.8)
+  - JCore (1.2.5)
+  - JPush (3.0.9):
+    - JCore (~> 1.2.0)
   - NullSafe (1.2.3)
   - SDWebImage (4.3.3):
     - SDWebImage/Core (= 4.3.3)
@@ -30,6 +33,7 @@ DEPENDENCIES:
   - AFNetworking (~> 3.2.0)
   - GDataXML-HTML
   - IQKeyboardManager (~> 5.0.7)
+  - JPush (~> 3.0.8)
   - NullSafe (~> 1.2.3)
   - SDWebImage (~> 4.3.0)
   - SVProgressHUD (~> 2.2.4)
@@ -42,6 +46,8 @@ SPEC REPOS:
     - AFNetworking
     - GDataXML-HTML
     - IQKeyboardManager
+    - JCore
+    - JPush
     - NullSafe
     - SDWebImage
     - SVProgressHUD
@@ -53,6 +59,8 @@ SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
   GDataXML-HTML: a4f11079b48d9fe96ff1fe478943a317185227e2
   IQKeyboardManager: 266cb7b1d11f94a3e71229d77f960f9a1b538e5b
+  JCore: 14706de2640b25fb77dbd02332696491407f37c9
+  JPush: 48041e8c5ad2ef9b48709eb0888af9640b36e9b0
   NullSafe: c5dde0d07fe0136a8194d6af9e285b0322b6c068
   SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
   SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
@@ -60,6 +68,6 @@ SPEC CHECKSUMS:
   UMCCommon: 016af43c0f769feb1ae1861d65aaf2b23b89c9c7
   UMCSecurityPlugins: 0831a08f3988f3cea9f1d3a7626cd9bee4fef150
 
-PODFILE CHECKSUM: d192731ffb6d20388dce84d6eb9241ab5aee286b
+PODFILE CHECKSUM: afbeb672cd889b82e1281c76251349696a27d645
 
 COCOAPODS: 1.5.3

@@ -863,4 +863,46 @@ const char* jailbreak_tool_pathes[] = {
     return pinyin;
 }
 
+//注册极光推送 start
+-(void)regeisterJPush:(NSDictionary *)launchOptions delegate:(id)delegate
+    {
+    JPUSHRegisterEntity * entity = [[JPUSHRegisterEntity alloc] init];
+    entity.types = JPAuthorizationOptionAlert|JPAuthorizationOptionBadge|JPAuthorizationOptionSound;
+    if ([[UIDevice currentDevice].systemVersion floatValue] >= 8.0) {
+    }
+    if ([[UIDevice currentDevice].systemVersion floatValue] >= 8.0) {
+        if ([[UIDevice currentDevice].systemVersion floatValue] >= 10.0) {
+            NSSet<UNNotificationCategory *> *categories;
+            entity.categories = categories;
+        }
+        else {
+            NSSet<UIUserNotificationCategory *> *categories;
+            entity.categories = categories;
+        }
+    }
+    
+    [JPUSHService registerForRemoteNotificationConfig:entity delegate:delegate];
+    
+    NSString *advertisingId = [[[ASIdentifierManager sharedManager] advertisingIdentifier] UUIDString];
+    
+    [JPUSHService setupWithOption:launchOptions
+                           appKey:JPushKey
+                          channel:@"App Store"
+                 apsForProduction:YES
+            advertisingIdentifier:advertisingId];
+    
+    [JPUSHService registrationIDCompletionHandler:^(int resCode, NSString *registrationID) {
+        if(resCode == 0)
+        {
+        NSLog(@"registrationID获取成功：%@",registrationID);
+        }
+        else
+        {
+        NSLog(@"registrationID获取失败，code：%d",resCode);
+        }
+    }];
+    [JPUSHService setBadge:0];
+    }
+    //注册极光推送 end
+
 @end

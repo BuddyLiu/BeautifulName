@@ -20,7 +20,6 @@
 		3A4B4253222A243300F2DB73 /* GeneralTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A4B41DD222A243200F2DB73 /* GeneralTableViewCell.xib */; };
 		3A4B4255222A243300F2DB73 /* GeneralView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B41E1222A243200F2DB73 /* GeneralView.m */; };
 		3A4B4257222A243300F2DB73 /* GeneralView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A4B41E3222A243200F2DB73 /* GeneralView.xib */; };
-		3A4B4258222A243300F2DB73 /* ESTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B41E6222A243200F2DB73 /* ESTimer.m */; };
 		3A4B425A222A243300F2DB73 /* ExpandView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B41EB222A243200F2DB73 /* ExpandView.m */; };
 		3A4B425D222A243300F2DB73 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B41F0222A243200F2DB73 /* Reachability.m */; };
 		3A4B425E222A243300F2DB73 /* ViewTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B41F2222A243200F2DB73 /* ViewTool.m */; };
@@ -32,9 +31,6 @@
 		3A4B4268222A243300F2DB73 /* BaseNavViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B4208222A243200F2DB73 /* BaseNavViewController.m */; };
 		3A4B4269222A243300F2DB73 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B4209222A243200F2DB73 /* BaseViewController.m */; };
 		3A4B426A222A243300F2DB73 /* BaseNavViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A4B420A222A243200F2DB73 /* BaseNavViewController.xib */; };
-		3A4B426D222A243300F2DB73 /* RequestDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B4214222A243200F2DB73 /* RequestDownloader.m */; };
-		3A4B426E222A243300F2DB73 /* RequestHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B4216222A243200F2DB73 /* RequestHelper.m */; };
-		3A4B426F222A243300F2DB73 /* RequestMannager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B4218222A243200F2DB73 /* RequestMannager.m */; };
 		3A4B427C222A243300F2DB73 /* MD5Encrypt.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B423A222A243200F2DB73 /* MD5Encrypt.m */; };
 		3A4B427D222A243300F2DB73 /* AESCipher.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B423D222A243200F2DB73 /* AESCipher.m */; };
 		3A4B427E222A243300F2DB73 /* UUID.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B4242222A243200F2DB73 /* UUID.m */; };
@@ -99,6 +95,7 @@
 		3AF3EA9722759749002870E8 /* cn_girl_name_word.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3AF3EA7722759748002870E8 /* cn_girl_name_word.txt */; };
 		3AF3EA9822759749002870E8 /* s_names_detail.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3AF3EA7822759748002870E8 /* s_names_detail.txt */; };
 		3AF3EA9922759749002870E8 /* g_names_detail.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3AF3EA7922759748002870E8 /* g_names_detail.txt */; };
+		A79F838297B2DC1CFE123A6B /* Pods_BeautifulName.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F50206EC54150A385034F8F4 /* Pods_BeautifulName.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -107,6 +104,7 @@
 		3A1AE005222EADA700AA7A9C /* NamesViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NamesViewController.h; sourceTree = "<group>"; };
 		3A1AE006222EADA700AA7A9C /* NamesViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NamesViewController.m; sourceTree = "<group>"; };
 		3A1AE007222EADA700AA7A9C /* NamesViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NamesViewController.xib; sourceTree = "<group>"; };
+		3A2BF04422CDC14E00255F65 /* BeautifulName.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BeautifulName.entitlements; sourceTree = "<group>"; };
 		3A3DB3312230C01F0095A885 /* CreateCNNameDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CreateCNNameDetailViewController.h; sourceTree = "<group>"; };
 		3A3DB3322230C01F0095A885 /* CreateCNNameDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CreateCNNameDetailViewController.m; sourceTree = "<group>"; };
 		3A3DB3332230C01F0095A885 /* CreateCNNameDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CreateCNNameDetailViewController.xib; sourceTree = "<group>"; };
@@ -131,8 +129,6 @@
 		3A4B41DF222A243200F2DB73 /* GeneralTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeneralTableViewCell.h; sourceTree = "<group>"; };
 		3A4B41E1222A243200F2DB73 /* GeneralView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneralView.m; sourceTree = "<group>"; };
 		3A4B41E3222A243200F2DB73 /* GeneralView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GeneralView.xib; sourceTree = "<group>"; };
-		3A4B41E5222A243200F2DB73 /* ESTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTimer.h; sourceTree = "<group>"; };
-		3A4B41E6222A243200F2DB73 /* ESTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ESTimer.m; sourceTree = "<group>"; };
 		3A4B41E8222A243200F2DB73 /* ExpandView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExpandView.h; sourceTree = "<group>"; };
 		3A4B41EB222A243200F2DB73 /* ExpandView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExpandView.m; sourceTree = "<group>"; };
 		3A4B41F0222A243200F2DB73 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
@@ -154,12 +150,6 @@
 		3A4B420B222A243200F2DB73 /* BaseNavViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseNavViewController.h; sourceTree = "<group>"; };
 		3A4B420C222A243200F2DB73 /* BaseWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseWebViewController.h; sourceTree = "<group>"; };
 		3A4B420D222A243200F2DB73 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
-		3A4B4214222A243200F2DB73 /* RequestDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RequestDownloader.m; sourceTree = "<group>"; };
-		3A4B4215222A243200F2DB73 /* RequestMannager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RequestMannager.h; sourceTree = "<group>"; };
-		3A4B4216222A243200F2DB73 /* RequestHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RequestHelper.m; sourceTree = "<group>"; };
-		3A4B4217222A243200F2DB73 /* RequestDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RequestDownloader.h; sourceTree = "<group>"; };
-		3A4B4218222A243200F2DB73 /* RequestMannager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RequestMannager.m; sourceTree = "<group>"; };
-		3A4B4219222A243200F2DB73 /* RequestHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RequestHelper.h; sourceTree = "<group>"; };
 		3A4B423A222A243200F2DB73 /* MD5Encrypt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MD5Encrypt.m; sourceTree = "<group>"; };
 		3A4B423B222A243200F2DB73 /* MD5Encrypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MD5Encrypt.h; sourceTree = "<group>"; };
 		3A4B423D222A243200F2DB73 /* AESCipher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AESCipher.m; sourceTree = "<group>"; };
@@ -246,6 +236,7 @@
 		3AF3EA7922759748002870E8 /* g_names_detail.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = g_names_detail.txt; sourceTree = "<group>"; };
 		97121AC54A50756AFFE0A7EF /* Pods-BeautifulName.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BeautifulName.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BeautifulName/Pods-BeautifulName.debug.xcconfig"; sourceTree = "<group>"; };
 		AA47F27EB2135F3FDA4D4ECF /* Pods-BeautifulName.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BeautifulName.release.xcconfig"; path = "Pods/Target Support Files/Pods-BeautifulName/Pods-BeautifulName.release.xcconfig"; sourceTree = "<group>"; };
+		F50206EC54150A385034F8F4 /* Pods_BeautifulName.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BeautifulName.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -254,6 +245,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A16A6B222C9BBD30051AC11 /* AppScaffold.framework in Frameworks */,
+				A79F838297B2DC1CFE123A6B /* Pods_BeautifulName.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,6 +257,7 @@
 			children = (
 				3AC3C8422237948700FE825B /* MessageUI.framework */,
 				3A4B41C4222A23E500F2DB73 /* AppScaffold.framework */,
+				F50206EC54150A385034F8F4 /* Pods_BeautifulName.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -314,14 +307,12 @@
 				3ABA3792222CD7BD00A25300 /* CardView */,
 				3A4B4206222A243200F2DB73 /* BaseViewController */,
 				3A4B4238222A243200F2DB73 /* Encrypt */,
-				3A4B41E4222A243200F2DB73 /* ESTimer */,
 				3A4B41C8222A243200F2DB73 /* FSCacheManager */,
 				3A4B41EF222A243200F2DB73 /* GeneralTool */,
 				3A4B41D6222A243200F2DB73 /* GeneralView */,
 				3A4B4248222A243200F2DB73 /* Localizable */,
 				3A4B41E7222A243200F2DB73 /* OpenShowView */,
 				3A4B41CE222A243200F2DB73 /* PrefixHeader */,
-				3A4B4213222A243200F2DB73 /* RequestMannager */,
 				3A4B423F222A243200F2DB73 /* UUID */,
 			);
 			path = Componentized;
@@ -368,15 +359,6 @@
 			path = GeneralView;
 			sourceTree = "<group>";
 		};
-		3A4B41E4222A243200F2DB73 /* ESTimer */ = {
-			isa = PBXGroup;
-			children = (
-				3A4B41E5222A243200F2DB73 /* ESTimer.h */,
-				3A4B41E6222A243200F2DB73 /* ESTimer.m */,
-			);
-			path = ESTimer;
-			sourceTree = "<group>";
-		};
 		3A4B41E7222A243200F2DB73 /* OpenShowView */ = {
 			isa = PBXGroup;
 			children = (
@@ -417,19 +399,6 @@
 				3A4B420D222A243200F2DB73 /* BaseViewController.h */,
 			);
 			path = BaseViewController;
-			sourceTree = "<group>";
-		};
-		3A4B4213222A243200F2DB73 /* RequestMannager */ = {
-			isa = PBXGroup;
-			children = (
-				3A4B4217222A243200F2DB73 /* RequestDownloader.h */,
-				3A4B4214222A243200F2DB73 /* RequestDownloader.m */,
-				3A4B4219222A243200F2DB73 /* RequestHelper.h */,
-				3A4B4216222A243200F2DB73 /* RequestHelper.m */,
-				3A4B4215222A243200F2DB73 /* RequestMannager.h */,
-				3A4B4218222A243200F2DB73 /* RequestMannager.m */,
-			);
-			path = RequestMannager;
 			sourceTree = "<group>";
 		};
 		3A4B4238222A243200F2DB73 /* Encrypt */ = {
@@ -552,6 +521,7 @@
 		3A984C642226BC6000E5BF16 /* BeautifulName */ = {
 			isa = PBXGroup;
 			children = (
+				3A2BF04422CDC14E00255F65 /* BeautifulName.entitlements */,
 				3A984C652226BC6000E5BF16 /* AppDelegate.h */,
 				3A984C662226BC6000E5BF16 /* AppDelegate.m */,
 				3A984C6E2226BC6200E5BF16 /* Assets.xcassets */,
@@ -723,6 +693,11 @@
 				TargetAttributes = {
 					3A984C612226BC6000E5BF16 = {
 						CreatedOnToolsVersion = 10.1;
+						SystemCapabilities = {
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -869,11 +844,9 @@
 				3AC3C840223782A100FE825B /* SettingViewController.m in Sources */,
 				3A984C752226BC6200E5BF16 /* main.m in Sources */,
 				3ABA3795222CD7D400A25300 /* FSCardView.m in Sources */,
-				3A4B426E222A243300F2DB73 /* RequestHelper.m in Sources */,
 				3A3DB3342230C01F0095A885 /* CreateCNNameDetailViewController.m in Sources */,
 				3ACC170F2230B7F20057EE23 /* CreateCNNameViewController.m in Sources */,
 				3A4B427D222A243300F2DB73 /* AESCipher.m in Sources */,
-				3A4B4258222A243300F2DB73 /* ESTimer.m in Sources */,
 				3AC3C83822374D8600FE825B /* NameListDetailView.m in Sources */,
 				3A4B424E222A243300F2DB73 /* FSCacheManager.m in Sources */,
 				3A4B4250222A243300F2DB73 /* GeneralTableViewCell.m in Sources */,
@@ -881,7 +854,6 @@
 				3A6C84DA222A34AB002190DF /* FindName_JobViewController.m in Sources */,
 				3A4B4251222A243300F2DB73 /* GeneralCollectionViewCell.m in Sources */,
 				3A4B4268222A243300F2DB73 /* BaseNavViewController.m in Sources */,
-				3A4B426D222A243300F2DB73 /* RequestDownloader.m in Sources */,
 				3A60CAC2222B8332007E5624 /* NameListViewController.m in Sources */,
 				3AB2E2262238F249000BC072 /* NameRequestTool.m in Sources */,
 				3A4B4260222A243300F2DB73 /* GeneralTool.m in Sources */,
@@ -897,7 +869,6 @@
 				3A984C672226BC6000E5BF16 /* AppDelegate.m in Sources */,
 				3A4B427C222A243300F2DB73 /* MD5Encrypt.m in Sources */,
 				3A4B4267222A243300F2DB73 /* BaseWebViewController.m in Sources */,
-				3A4B426F222A243300F2DB73 /* RequestMannager.m in Sources */,
 				3A4B427E222A243300F2DB73 /* UUID.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1034,6 +1005,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_ENTITLEMENTS = BeautifulName/BeautifulName.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = Z93M95VE4P;
@@ -1064,6 +1036,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_ENTITLEMENTS = BeautifulName/BeautifulName.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = Z93M95VE4P;

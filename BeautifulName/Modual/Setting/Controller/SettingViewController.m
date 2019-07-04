@@ -34,9 +34,8 @@ static NSString *emailNumber = @"13621905107@163.com";
 }
 
 - (IBAction)recommendBtnAction:(UIButton *)sender {
-    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:[NSString stringWithFormat:@"itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=%@", kAppID]] options:@{} completionHandler:^(BOOL success) {
-        
-    }];
+    NSString *itunesurl = [NSString stringWithFormat:@"itms-apps://itunes.apple.com/cn/app/id%@?mt=8&action=write-review", kAppID];
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:itunesurl] options:@{} completionHandler:nil];
 }
 
 - (IBAction)aboutBtnAction:(UIButton *)sender {

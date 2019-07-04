@@ -25,7 +25,6 @@
 #import "BaseNavViewController.h"                         //通用导航栏
 #import "MD5Encrypt.h"                                    //MD5加密
 #import "AESCipher.h"                                     //AES加密
-#import "RequestMannager.h"                               //请求管理类
 #import "ExpandView.h"                                    //转场动画
 #import <UMAnalytics/MobClick.h>             //友盟页面统计
 
